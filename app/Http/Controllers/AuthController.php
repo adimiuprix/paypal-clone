@@ -13,11 +13,14 @@ class AuthController extends Controller
 
     public function check(Request $request){
         $request->validate([
-            'email'    => 'required|email',
-            'password' => 'required|min:6',
+            'login_email'    => 'required|email',
+            'login_password' => 'required|min:6',
         ]);
 
-        $credentials = $request->only('email', 'password');
+        $credentials = [
+            'email'    => $request->input('login_email'),
+            'password' => $request->input('login_password'),
+        ];
 
         if (Auth::attempt($credentials)) {
             $request->session()->regenerate();

