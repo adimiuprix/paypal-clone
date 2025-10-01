@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3071,5452],{45452:(e,t,s)=>{s.d(t,{J:()=>l});var a=s(14232),n=s(81386),u=s(35362);let l=()=>{let e=(0,a.useContext)(u.Context);return{getMessage:(0,a.useCallback)((t,s)=>s?new n.B(e,{id:t}).format(s):new n.B(e,{id:t}).format(),[e])}}}}]);

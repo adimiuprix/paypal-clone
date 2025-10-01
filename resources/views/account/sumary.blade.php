@@ -1,0 +1,3516 @@
+<html lang="id" dir="ltr">
+    <head>
+        <script src="https://www.paypalobjects.com/messaging/messaging-chat/messaging-sdk-chat/v58/messaging-sdk-chat.js" defer=""></script>
+        <script type="text/javascript" async src="https://www.googleadservices.com/pagead/conversion_async.js"></script>
+        <script type="text/javascript" async src="https://www.paypalobjects.com/martech/tm/paypal/3pjs/gtag/analytics.js"></script>
+        <script crossorigin="anonymous" src="https://www.paypalobjects.com/martech/tm/paypal/mktconf.js"></script>
+        <script crossorigin="anonymous" src="https://www.paypalobjects.com/pa/mi/paypal/latmconf.js"></script>
+        <script crossorigin="anonymous" src="https://www.paypalobjects.com/martech/tm/paypal/mktgtagmanager.js"></script>
+        <script type="text/javascript" async="" src="https://www.paypalobjects.com/web/res/c8c/6fc7ff29d389b3ee884f54ad917ec/js/data-dog.js" crossorigin="anonymous"></script>
+        <link rel="dns-prefetch" href="//www.paypalobjects.com" />
+        <link rel="dns-prefetch" href="//t.paypal.com" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0" />
+        <meta charset="utf-8" />
+        <link rel="shortcut icon" sizes="196x196" href="https://www.paypalobjects.com/webstatic/icon/pp196.png" />
+        <link rel="shortcut icon" type="image/x-icon" href="https://www.paypalobjects.com/webstatic/icon/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="https://www.paypalobjects.com/webstatic/icon/pp32.png" />
+        <link rel="stylesheet" href="https://www.paypalobjects.com/paypal-ui/web/fonts-and-normalize/2-0-0/fonts-and-normalize.min.css" />
+        <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="https://www.paypalobjects.com/paypal-ui/fonts/PayPalOpen-Regular.woff2" />
+        <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="https://www.paypalobjects.com/paypal-ui/fonts/PayPalOpen-Bold.woff2" />
+        <link rel="stylesheet" href="https://www.paypalobjects.com/ui-web/consumer-home/header-footer/1.164.2/cw-utils-header-footer.css" />
+        <link rel="stylesheet" href="https://www.paypalobjects.com/web/res/c8c/6fc7ff29d389b3ee884f54ad917ec/css/home.css" />
+        <script crossorigin="anonymous" src="https://www.paypalobjects.com/web/res/c8c/6fc7ff29d389b3ee884f54ad917ec/js/home.js" defer=""></script>
+        <title>PayPal: Ringkasan</title>
+        <script
+            attributionsrc=""
+            type="text/javascript"
+            async=""
+            src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/965352860/?random=1759291508963&amp;cv=9&amp;fst=1759291508963&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635470%2C466465926&amp;u_h=768&amp;u_w=1024&amp;ig=1&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Fwww.paypal.com%2Fmyaccount%2Fsummary%3Fintl%3D0&amp;ref=https%3A%2F%2Fwww.paypal.com%2Fsignin%3Flocale.x%3Did_ID&amp;tiba=PayPal%3A%20Ringkasan&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"
+           
+        ></script>
+        <script
+            attributionsrc=""
+            type="text/javascript"
+            async=""
+            src="https://www.googleadservices.com/pagead/conversion/965352860/?random=1759291508970&amp;cv=9&amp;fst=1759291508970&amp;num=1&amp;label=K7FtCJDsl_4CEJy7qMwD&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635470%2C466465926%2C509562772%2C512247838&amp;u_h=768&amp;u_w=1024&amp;ig=1&amp;data=event%3Dconversion&amp;frm=0&amp;url=https%3A%2F%2Fwww.paypal.com%2Fmyaccount%2Fsummary%3Fintl%3D0&amp;ref=https%3A%2F%2Fwww.paypal.com%2Fsignin%3Flocale.x%3Did_ID&amp;tiba=PayPal%3A%20Ringkasan&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"
+           
+        ></script>
+        <link rel="stylesheet" href="https://www.paypalobjects.com/paypal-ui/web/fonts-and-normalize/1-1-0/fonts-and-normalize.min.css" type="text/css" />
+        <link rel="stylesheet" href="https://www.paypalobjects.com/paypal-ui/web/icon-font/0-0-1/icon-font.min.css" type="text/css" />
+        <link rel="stylesheet" href="https://www.paypalobjects.com/paypal-ui/web/fonts-and-normalize/1-1-0/fonts-and-normalize.min.css" type="text/css" />
+        <link rel="stylesheet" href="https://www.paypalobjects.com/paypal-ui/web/icon-font/0-0-1/icon-font.min.css" type="text/css" />
+        <link rel="stylesheet" href="https://www.paypalobjects.com/paypal-ui/web/fonts-and-normalize/1-1-0/fonts-and-normalize.min.css" type="text/css" />
+        <link rel="stylesheet" href="https://www.paypalobjects.com/paypal-ui/web/icon-font/0-0-1/icon-font.min.css" type="text/css" />
+        <link rel="stylesheet" href="https://www.paypalobjects.com/paypal-ui/web/fonts-and-normalize/1-1-0/fonts-and-normalize.min.css" type="text/css" />
+        <link rel="stylesheet" href="https://www.paypalobjects.com/paypal-ui/web/icon-font/0-0-1/icon-font.min.css" type="text/css" />
+        <link rel="stylesheet" href="https://www.paypalobjects.com/paypal-ui/web/fonts-and-normalize/1-1-0/fonts-and-normalize.min.css" type="text/css" />
+        <link rel="stylesheet" href="https://www.paypalobjects.com/paypal-ui/web/icon-font/0-0-1/icon-font.min.css" type="text/css" />
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css n6mi11-loading-spinner_base-size_xl animation-11tfg15" data-s="">
+            .css-n6mi11-loading-spinner_base-size_xl {
+                width: 1.5rem;
+                height: 1.5rem;
+                color: #003087;
+                -webkit-animation: animation-11tfg15 1.3s cubic-bezier(0, 0, 1, 1) infinite;
+                animation: animation-11tfg15 1.3s cubic-bezier(0, 0, 1, 1) infinite;
+                border: 0.125rem solid currentColor;
+                border-radius: 50%;
+                -webkit-clip-path: polygon(50% 0%, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 0);
+                clip-path: polygon(50% 0%, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 0);
+                width: 6rem;
+                height: 6rem;
+            }
+            @-webkit-keyframes animation-11tfg15 {
+                to {
+                    -webkit-transform: rotate(360deg);
+                    -moz-transform: rotate(360deg);
+                    -ms-transform: rotate(360deg);
+                    transform: rotate(360deg);
+                }
+            }
+            @keyframes animation-11tfg15 {
+                to {
+                    -webkit-transform: rotate(360deg);
+                    -moz-transform: rotate(360deg);
+                    -ms-transform: rotate(360deg);
+                    transform: rotate(360deg);
+                }
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css n6mi11-loading-spinner_base-size_xl animation-11tfg15" data-s="">
+            .css-n6mi11-loading-spinner_base-size_xl {
+                width: 1.5rem;
+                height: 1.5rem;
+                color: #003087;
+                -webkit-animation: animation-11tfg15 1.3s cubic-bezier(0, 0, 1, 1) infinite;
+                animation: animation-11tfg15 1.3s cubic-bezier(0, 0, 1, 1) infinite;
+                border: 0.125rem solid currentColor;
+                border-radius: 50%;
+                -webkit-clip-path: polygon(50% 0%, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 0);
+                clip-path: polygon(50% 0%, 50% 50%, 100% 50%, 100% 100%, 0 100%, 0 0);
+                width: 6rem;
+                height: 6rem;
+            }
+            @-webkit-keyframes animation-11tfg15 {
+                to {
+                    -webkit-transform: rotate(360deg);
+                    -moz-transform: rotate(360deg);
+                    -ms-transform: rotate(360deg);
+                    transform: rotate(360deg);
+                }
+            }
+            @keyframes animation-11tfg15 {
+                to {
+                    -webkit-transform: rotate(360deg);
+                    -moz-transform: rotate(360deg);
+                    -ms-transform: rotate(360deg);
+                    transform: rotate(360deg);
+                }
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css 1djyuxb-container_fluid" data-s="">
+            .css-1djyuxb-container_fluid {
+                width: 100%;
+                padding-right: 0.75rem;
+                padding-left: 0.75rem;
+                margin-right: auto;
+                margin-left: auto;
+            }
+        </style>
+        <style data-emotion="css s8u2ug-row" data-s="">
+            .css-s8u2ug-row {
+                display: -ms-flexbox;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -ms-flex-wrap: wrap;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-right: -0.75rem;
+                margin-left: -0.75rem;
+            }
+        </style>
+        <style data-emotion="css 15krczt-col_sm_12-col_md_7" data-s="">
+            .css-15krczt-col_sm_12-col_md_7 {
+                position: relative;
+                width: 100%;
+                min-height: 1px;
+                padding-right: 0.75rem;
+                padding-left: 0.75rem;
+                position: relative;
+                width: 100%;
+                min-height: 1px;
+                padding-right: 0.75rem;
+                padding-left: 0.75rem;
+            }
+            @media (min-width: 36rem) {
+                .css-15krczt-col_sm_12-col_md_7 {
+                    -ms-flex: 0 0 100%;
+                    -webkit-flex: 0 0 100%;
+                    -ms-flex: 0 0 100%;
+                    flex: 0 0 100%;
+                    max-width: 100%;
+                }
+            }
+            @media (min-width: 47rem) {
+                .css-15krczt-col_sm_12-col_md_7 {
+                    -ms-flex: 0 0 58.333333333333336%;
+                    -webkit-flex: 0 0 58.333333333333336%;
+                    -ms-flex: 0 0 58.333333333333336%;
+                    flex: 0 0 58.333333333333336%;
+                    max-width: 58.333333333333336%;
+                }
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css 97ji8w-card_base" data-s="">
+            .css-97ji8w-card_base {
+                padding: 1.5rem;
+                position: relative;
+                text-align: initial;
+                background-color: #ffffff;
+                border: 0.0625rem solid rgba(0, 0, 0, 0.1);
+                border-radius: 0.75rem;
+                -webkit-appearance: none;
+                -moz-appearance: none;
+                -ms-appearance: none;
+                appearance: none;
+            }
+            .css-97ji8w-card_base:focus {
+                box-shadow: 0 0 0 calc(0.125rem + 0.125rem) inset #ffffff;
+                outline-offset: -0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+        </style>
+        <style data-emotion="css 1ao4o69-header" data-s="">
+            .css-1ao4o69-header {
+                margin-bottom: 1.5rem;
+                display: table;
+            }
+        </style>
+        <style data-emotion="css qczjjc-title-text_heading_sm" data-s="">
+            .css-qczjjc-title-text_heading_sm {
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.75rem;
+                line-height: 2.25rem;
+                font-weight: 400;
+                width: 100%;
+                display: table-cell;
+                margin: initial;
+                padding: 0.25rem 0;
+                text-transform: none;
+                vertical-align: middle;
+            }
+            @media screen and (max-width: 752px) {
+                .css-qczjjc-title-text_heading_sm {
+                    font-size: min(1.75rem, 42px);
+                    line-height: min(2.25rem, 54px);
+                }
+            }
+        </style>
+        <style data-emotion="css 1chx7ec-links_base-text_body_strong-secondary-text_body_strong" data-s="">
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                border-radius: 0.125rem;
+                color: #0070e0;
+                font-family: PayPalOpen-Bold, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+                -webkit-text-decoration: underline;
+                text-decoration: underline;
+                color: #001435;
+                font-family: PayPalOpen-Bold, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:focus {
+                color: #0070e0;
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:focus,
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:hover {
+                -webkit-text-decoration: underline;
+                text-decoration: underline;
+                cursor: pointer;
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:hover {
+                color: #003087;
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:active {
+                color: #003087;
+            }
+            @media screen and (max-width: 752px) {
+                .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:active {
+                color: #001435;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:focus,
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:hover {
+                color: #001435;
+                -webkit-text-decoration: underline;
+                text-decoration: underline;
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:visited {
+                color: #001435;
+            }
+        </style>
+        <style data-emotion="css kddmuw-overflow_menu_base" data-s="">
+            .css-kddmuw-overflow_menu_base {
+                position: relative;
+                display: inline-block;
+                max-height: 16rem;
+            }
+        </style>
+        <style data-emotion="css 1rie9kd-icon-button_base-tertiary" data-s="">
+            .css-1rie9kd-icon-button_base-tertiary {
+                position: relative;
+                cursor: pointer;
+                border-radius: 50%;
+                padding: 0.75rem;
+                border: none;
+                background-color: transparent;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                color: #545d68;
+            }
+            .css-1rie9kd-icon-button_base-tertiary:focus {
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-1rie9kd-icon-button_base-tertiary:hover {
+                background: #faf8f5;
+            }
+            .css-1rie9kd-icon-button_base-tertiary:active {
+                background: #f1ede8;
+            }
+        </style>
+        <style data-emotion="css 14dyzdt-icon" data-s="">
+            .css-14dyzdt-icon {
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css 1am46ks-svg-size_sm-icon" data-s="">
+            .css-1am46ks-svg-size_sm-icon {
+                speak: none;
+                display: inline-block;
+                aspect-ratio: 1;
+                width: 1.5rem;
+                height: 1.5rem;
+                pointer-events: none;
+            }
+            .css-1am46ks-svg-size_sm-icon img,
+            .css-1am46ks-svg-size_sm-icon svg {
+                width: 100%;
+                height: 100%;
+                display: block;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css 8cx2tb-list-elevation_level1" data-s="">
+            .css-8cx2tb-list-elevation_level1 {
+                right: 0;
+                margin: 0;
+                position: fixed;
+                z-index: 1060;
+                list-style: none;
+                border-radius: 0.75rem;
+                box-shadow: 0rem 0rem 0.625rem rgba(0, 0, 0, 0.15);
+                background-image: linear-gradient(rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0.02));
+                background-color: #ffffff;
+                display: none;
+                padding: 0.5rem 0;
+                overflow: auto;
+                width: -webkit-fit-content;
+                width: -moz-fit-content;
+                width: fit-content;
+            }
+            .css-8cx2tb-list-elevation_level1[aria-hidden="false"] {
+                display: inline-block;
+            }
+            [dir="rtl"] .css-8cx2tb-list-elevation_level1 {
+                right: auto;
+                left: 0.75rem;
+            }
+        </style>
+        <style data-emotion="css 5mexf4-list_item-text_body" data-s="">
+            .css-5mexf4-list_item-text_body {
+                white-space: nowrap;
+                display: block;
+                text-align: justify;
+                text-overflow: ellipsis;
+                position: relative;
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                padding: 0.75rem 1rem;
+            }
+            @media screen and (max-width: 752px) {
+                .css-5mexf4-list_item-text_body {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+            .css-5mexf4-list_item-text_body:hover {
+                background-color: #faf8f5;
+                cursor: pointer;
+                outline: 0;
+            }
+            .css-5mexf4-list_item-text_body:focus {
+                box-shadow: none;
+                outline: 0;
+                border-radius: 0;
+            }
+        </style>
+        <style data-emotion="css 1soddj9-content" data-s="">
+            .css-1soddj9-content {
+                margin-top: 0.9375rem;
+                margin-bottom: 0.9375rem;
+            }
+        </style>
+        <style data-emotion="css 1aq3bmv-text_heading_lg" data-s="">
+            .css-1aq3bmv-text_heading_lg {
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 2.75rem;
+                line-height: 3rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-1aq3bmv-text_heading_lg {
+                    font-size: min(2.75rem, 66px);
+                    line-height: min(3rem, 72px);
+                }
+            }
+        </style>
+        <style data-emotion="css 151vsl0-text_caption" data-s="">
+            .css-151vsl0-text_caption {
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 0.875rem;
+                line-height: 1.25rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-151vsl0-text_caption {
+                    font-size: min(0.875rem, 28px);
+                    line-height: min(1.25rem, 40px);
+                }
+            }
+        </style>
+        <style data-emotion="css cghe3x-button_base-text_button_lg-btn_full_width-size_sm-text_button_sm" data-s="">
+            .css-cghe3x-button_base-text_button_lg-btn_full_width-size_sm-text_button_sm {
+                position: relative;
+                border-radius: 1000px;
+                color: #ffffff;
+                cursor: pointer;
+                display: inline-block;
+                min-width: 6rem;
+                text-align: center;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                -webkit-transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+                transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+                border: 0.125rem solid #003087;
+                color: #ffffff;
+                font-family: PayPalOpen-Bold, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+                background-color: #003087;
+                padding: 0.625rem 1.875rem;
+                color: #ffffff;
+                font-family: PayPalOpen-Bold, "Helvetica Neue", Arial, sans-serif;
+                font-size: 0.875rem;
+                line-height: 1.25rem;
+                font-weight: 400;
+                min-width: 3.75rem;
+                padding: 0.25rem 0.875rem;
+            }
+            @media screen and (max-width: 752px) {
+                .css-cghe3x-button_base-text_button_lg-btn_full_width-size_sm-text_button_sm {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+            .css-cghe3x-button_base-text_button_lg-btn_full_width-size_sm-text_button_sm:hover,
+            .css-cghe3x-button_base-text_button_lg-btn_full_width-size_sm-text_button_sm:active,
+            .css-cghe3x-button_base-text_button_lg-btn_full_width-size_sm-text_button_sm:visited {
+                color: #ffffff;
+            }
+            .css-cghe3x-button_base-text_button_lg-btn_full_width-size_sm-text_button_sm:hover {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                background-color: #0070e0;
+                border-color: #0070e0;
+            }
+            .css-cghe3x-button_base-text_button_lg-btn_full_width-size_sm-text_button_sm:active {
+                outline: none;
+                background-color: #001c64;
+                border-color: #001c64;
+            }
+            .css-cghe3x-button_base-text_button_lg-btn_full_width-size_sm-text_button_sm:focus {
+                outline: none;
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            @media (max-width: 47rem) {
+                .css-cghe3x-button_base-text_button_lg-btn_full_width-size_sm-text_button_sm {
+                    width: 100%;
+                }
+            }
+            @media screen and (max-width: 752px) {
+                .css-cghe3x-button_base-text_button_lg-btn_full_width-size_sm-text_button_sm {
+                    font-size: min(0.875rem, 28px);
+                    line-height: min(1.25rem, 40px);
+                }
+            }
+        </style>
+        <style data-emotion="css 1bj9kom-affordance" data-s="">
+            .css-1bj9kom-affordance {
+                -webkit-margin-start: 0.5rem;
+                margin-inline-start: 0.5rem;
+                -webkit-margin-end: 0;
+                margin-inline-end: 0;
+                vertical-align: top;
+                position: relative;
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css 97ji8w-card_base" data-s="">
+            .css-97ji8w-card_base {
+                padding: 1.5rem;
+                position: relative;
+                text-align: initial;
+                background-color: #ffffff;
+                border: 0.0625rem solid rgba(0, 0, 0, 0.1);
+                border-radius: 0.75rem;
+                -webkit-appearance: none;
+                -moz-appearance: none;
+                -ms-appearance: none;
+                appearance: none;
+            }
+            .css-97ji8w-card_base:focus {
+                box-shadow: 0 0 0 calc(0.125rem + 0.125rem) inset #ffffff;
+                outline-offset: -0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+        </style>
+        <style data-emotion="css 1soddj9-content" data-s="">
+            .css-1soddj9-content {
+                margin-top: 0.9375rem;
+                margin-bottom: 0.9375rem;
+            }
+        </style>
+        <style data-emotion="css n8zuis-col_sm_12-col_md_5" data-s="">
+            .css-n8zuis-col_sm_12-col_md_5 {
+                position: relative;
+                width: 100%;
+                min-height: 1px;
+                padding-right: 0.75rem;
+                padding-left: 0.75rem;
+                position: relative;
+                width: 100%;
+                min-height: 1px;
+                padding-right: 0.75rem;
+                padding-left: 0.75rem;
+            }
+            @media (min-width: 36rem) {
+                .css-n8zuis-col_sm_12-col_md_5 {
+                    -ms-flex: 0 0 100%;
+                    -webkit-flex: 0 0 100%;
+                    -ms-flex: 0 0 100%;
+                    flex: 0 0 100%;
+                    max-width: 100%;
+                }
+            }
+            @media (min-width: 47rem) {
+                .css-n8zuis-col_sm_12-col_md_5 {
+                    -ms-flex: 0 0 41.66666666666667%;
+                    -webkit-flex: 0 0 41.66666666666667%;
+                    -ms-flex: 0 0 41.66666666666667%;
+                    flex: 0 0 41.66666666666667%;
+                    max-width: 41.66666666666667%;
+                }
+            }
+        </style>
+        <style data-emotion="css 1m0ekac-button_base-text_button_lg-btn_full_width" data-s="">
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width {
+                position: relative;
+                border-radius: 1000px;
+                color: #ffffff;
+                cursor: pointer;
+                display: inline-block;
+                min-width: 6rem;
+                text-align: center;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                -webkit-transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+                transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+                border: 0.125rem solid #003087;
+                color: #ffffff;
+                font-family: PayPalOpen-Bold, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+                background-color: #003087;
+                padding: 0.625rem 1.875rem;
+            }
+            @media screen and (max-width: 752px) {
+                .css-1m0ekac-button_base-text_button_lg-btn_full_width {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:hover,
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:active,
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:visited {
+                color: #ffffff;
+            }
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:hover {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                background-color: #0070e0;
+                border-color: #0070e0;
+            }
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:active {
+                outline: none;
+                background-color: #001c64;
+                border-color: #001c64;
+            }
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:focus {
+                outline: none;
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            @media (max-width: 47rem) {
+                .css-1m0ekac-button_base-text_button_lg-btn_full_width {
+                    width: 100%;
+                }
+            }
+        </style>
+        <style data-emotion="css 1bj9kom-affordance" data-s="">
+            .css-1bj9kom-affordance {
+                -webkit-margin-start: 0.5rem;
+                margin-inline-start: 0.5rem;
+                -webkit-margin-end: 0;
+                margin-inline-end: 0;
+                vertical-align: top;
+                position: relative;
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css 1m0ekac-button_base-text_button_lg-btn_full_width" data-s="">
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width {
+                position: relative;
+                border-radius: 1000px;
+                color: #ffffff;
+                cursor: pointer;
+                display: inline-block;
+                min-width: 6rem;
+                text-align: center;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                -webkit-transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+                transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+                border: 0.125rem solid #003087;
+                color: #ffffff;
+                font-family: PayPalOpen-Bold, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+                background-color: #003087;
+                padding: 0.625rem 1.875rem;
+            }
+            @media screen and (max-width: 752px) {
+                .css-1m0ekac-button_base-text_button_lg-btn_full_width {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:hover,
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:active,
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:visited {
+                color: #ffffff;
+            }
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:hover {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                background-color: #0070e0;
+                border-color: #0070e0;
+            }
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:active {
+                outline: none;
+                background-color: #001c64;
+                border-color: #001c64;
+            }
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:focus {
+                outline: none;
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            @media (max-width: 47rem) {
+                .css-1m0ekac-button_base-text_button_lg-btn_full_width {
+                    width: 100%;
+                }
+            }
+        </style>
+        <style data-emotion="css 1bj9kom-affordance" data-s="">
+            .css-1bj9kom-affordance {
+                -webkit-margin-start: 0.5rem;
+                margin-inline-start: 0.5rem;
+                -webkit-margin-end: 0;
+                margin-inline-end: 0;
+                vertical-align: top;
+                position: relative;
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css 7i5kpm-icon-button_base-size_xl-size_sm-secondary" data-s="">
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary {
+                position: relative;
+                cursor: pointer;
+                border-radius: 50%;
+                padding: 0.75rem;
+                border: none;
+                background-color: transparent;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                padding: 0.5rem;
+                padding: 1rem;
+                color: #003087;
+                background: #faf8f5;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:focus {
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:before {
+                content: "";
+                position: absolute;
+                border-radius: 50%;
+                top: -0.125rem;
+                right: -0.125rem;
+                bottom: -0.125rem;
+                left: -0.125rem;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:active {
+                background: #e6e0d9;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:hover {
+                background: #f1ede8;
+            }
+        </style>
+        <style data-emotion="css 14dyzdt-icon" data-s="">
+            .css-14dyzdt-icon {
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css 19sf653-svg-size_md-sysColorSecondaryMainActive" data-s="">
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive {
+                speak: none;
+                display: inline-block;
+                aspect-ratio: 1;
+                width: 2rem;
+                height: 2rem;
+                color: #003087;
+            }
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive img,
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive svg {
+                width: 100%;
+                height: 100%;
+                display: block;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css 8k0rj4-icon-button_base-secondary" data-s="">
+            .css-8k0rj4-icon-button_base-secondary {
+                position: relative;
+                cursor: pointer;
+                border-radius: 50%;
+                padding: 0.75rem;
+                border: none;
+                background-color: transparent;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                color: #003087;
+                background: #faf8f5;
+            }
+            .css-8k0rj4-icon-button_base-secondary:focus {
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-8k0rj4-icon-button_base-secondary:active {
+                background: #e6e0d9;
+            }
+            .css-8k0rj4-icon-button_base-secondary:hover {
+                background: #f1ede8;
+            }
+        </style>
+        <style data-emotion="css 14dyzdt-icon" data-s="">
+            .css-14dyzdt-icon {
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css 19sf653-svg-size_md-sysColorSecondaryMainActive" data-s="">
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive {
+                speak: none;
+                display: inline-block;
+                aspect-ratio: 1;
+                width: 2rem;
+                height: 2rem;
+                color: #003087;
+            }
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive img,
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive svg {
+                width: 100%;
+                height: 100%;
+                display: block;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css 151vsl0-text_caption" data-s="">
+            .css-151vsl0-text_caption {
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 0.875rem;
+                line-height: 1.25rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-151vsl0-text_caption {
+                    font-size: min(0.875rem, 28px);
+                    line-height: min(1.25rem, 40px);
+                }
+            }
+        </style>
+        <style data-emotion="css 7i5kpm-icon-button_base-size_xl-size_sm-secondary" data-s="">
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary {
+                position: relative;
+                cursor: pointer;
+                border-radius: 50%;
+                padding: 0.75rem;
+                border: none;
+                background-color: transparent;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                padding: 0.5rem;
+                padding: 1rem;
+                color: #003087;
+                background: #faf8f5;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:focus {
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:before {
+                content: "";
+                position: absolute;
+                border-radius: 50%;
+                top: -0.125rem;
+                right: -0.125rem;
+                bottom: -0.125rem;
+                left: -0.125rem;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:active {
+                background: #e6e0d9;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:hover {
+                background: #f1ede8;
+            }
+        </style>
+        <style data-emotion="css 14dyzdt-icon" data-s="">
+            .css-14dyzdt-icon {
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css 19sf653-svg-size_md-sysColorSecondaryMainActive" data-s="">
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive {
+                speak: none;
+                display: inline-block;
+                aspect-ratio: 1;
+                width: 2rem;
+                height: 2rem;
+                color: #003087;
+            }
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive img,
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive svg {
+                width: 100%;
+                height: 100%;
+                display: block;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css 8k0rj4-icon-button_base-secondary" data-s="">
+            .css-8k0rj4-icon-button_base-secondary {
+                position: relative;
+                cursor: pointer;
+                border-radius: 50%;
+                padding: 0.75rem;
+                border: none;
+                background-color: transparent;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                color: #003087;
+                background: #faf8f5;
+            }
+            .css-8k0rj4-icon-button_base-secondary:focus {
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-8k0rj4-icon-button_base-secondary:active {
+                background: #e6e0d9;
+            }
+            .css-8k0rj4-icon-button_base-secondary:hover {
+                background: #f1ede8;
+            }
+        </style>
+        <style data-emotion="css 14dyzdt-icon" data-s="">
+            .css-14dyzdt-icon {
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css 19sf653-svg-size_md-sysColorSecondaryMainActive" data-s="">
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive {
+                speak: none;
+                display: inline-block;
+                aspect-ratio: 1;
+                width: 2rem;
+                height: 2rem;
+                color: #003087;
+            }
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive img,
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive svg {
+                width: 100%;
+                height: 100%;
+                display: block;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css 151vsl0-text_caption" data-s="">
+            .css-151vsl0-text_caption {
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 0.875rem;
+                line-height: 1.25rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-151vsl0-text_caption {
+                    font-size: min(0.875rem, 28px);
+                    line-height: min(1.25rem, 40px);
+                }
+            }
+        </style>
+        <style data-emotion="css 7i5kpm-icon-button_base-size_xl-size_sm-secondary" data-s="">
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary {
+                position: relative;
+                cursor: pointer;
+                border-radius: 50%;
+                padding: 0.75rem;
+                border: none;
+                background-color: transparent;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                padding: 0.5rem;
+                padding: 1rem;
+                color: #003087;
+                background: #faf8f5;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:focus {
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:before {
+                content: "";
+                position: absolute;
+                border-radius: 50%;
+                top: -0.125rem;
+                right: -0.125rem;
+                bottom: -0.125rem;
+                left: -0.125rem;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:active {
+                background: #e6e0d9;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:hover {
+                background: #f1ede8;
+            }
+        </style>
+        <style data-emotion="css 14dyzdt-icon" data-s="">
+            .css-14dyzdt-icon {
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css t2qbw6-icon_base-icon_background_base-mask-sysColorSecondaryMainActive" data-s="">
+            .css-t2qbw6-icon_base-icon_background_base-mask-sysColorSecondaryMainActive {
+                speak: none;
+                aspect-ratio: 1;
+                display: inline-block;
+                width: 3rem;
+                height: 3rem;
+                width: 2rem;
+                height: 2rem;
+                -webkit-mask: url(https://www.paypalobjects.com/paypal-ui/icons/v3/svg/document.svg) center no-repeat;
+                mask: url(https://www.paypalobjects.com/paypal-ui/icons/v3/svg/document.svg) center no-repeat;
+                background-color: #003087;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css 8k0rj4-icon-button_base-secondary" data-s="">
+            .css-8k0rj4-icon-button_base-secondary {
+                position: relative;
+                cursor: pointer;
+                border-radius: 50%;
+                padding: 0.75rem;
+                border: none;
+                background-color: transparent;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                color: #003087;
+                background: #faf8f5;
+            }
+            .css-8k0rj4-icon-button_base-secondary:focus {
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-8k0rj4-icon-button_base-secondary:active {
+                background: #e6e0d9;
+            }
+            .css-8k0rj4-icon-button_base-secondary:hover {
+                background: #f1ede8;
+            }
+        </style>
+        <style data-emotion="css 14dyzdt-icon" data-s="">
+            .css-14dyzdt-icon {
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css t2qbw6-icon_base-icon_background_base-mask-sysColorSecondaryMainActive" data-s="">
+            .css-t2qbw6-icon_base-icon_background_base-mask-sysColorSecondaryMainActive {
+                speak: none;
+                aspect-ratio: 1;
+                display: inline-block;
+                width: 3rem;
+                height: 3rem;
+                width: 2rem;
+                height: 2rem;
+                -webkit-mask: url(https://www.paypalobjects.com/paypal-ui/icons/v3/svg/document.svg) center no-repeat;
+                mask: url(https://www.paypalobjects.com/paypal-ui/icons/v3/svg/document.svg) center no-repeat;
+                background-color: #003087;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css 151vsl0-text_caption" data-s="">
+            .css-151vsl0-text_caption {
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 0.875rem;
+                line-height: 1.25rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-151vsl0-text_caption {
+                    font-size: min(0.875rem, 28px);
+                    line-height: min(1.25rem, 40px);
+                }
+            }
+        </style>
+        <style data-emotion="css 7i5kpm-icon-button_base-size_xl-size_sm-secondary" data-s="">
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary {
+                position: relative;
+                cursor: pointer;
+                border-radius: 50%;
+                padding: 0.75rem;
+                border: none;
+                background-color: transparent;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                padding: 0.5rem;
+                padding: 1rem;
+                color: #003087;
+                background: #faf8f5;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:focus {
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:before {
+                content: "";
+                position: absolute;
+                border-radius: 50%;
+                top: -0.125rem;
+                right: -0.125rem;
+                bottom: -0.125rem;
+                left: -0.125rem;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:active {
+                background: #e6e0d9;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:hover {
+                background: #f1ede8;
+            }
+        </style>
+        <style data-emotion="css 14dyzdt-icon" data-s="">
+            .css-14dyzdt-icon {
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css 19sf653-svg-size_md-sysColorSecondaryMainActive" data-s="">
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive {
+                speak: none;
+                display: inline-block;
+                aspect-ratio: 1;
+                width: 2rem;
+                height: 2rem;
+                color: #003087;
+            }
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive img,
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive svg {
+                width: 100%;
+                height: 100%;
+                display: block;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css 8k0rj4-icon-button_base-secondary" data-s="">
+            .css-8k0rj4-icon-button_base-secondary {
+                position: relative;
+                cursor: pointer;
+                border-radius: 50%;
+                padding: 0.75rem;
+                border: none;
+                background-color: transparent;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                color: #003087;
+                background: #faf8f5;
+            }
+            .css-8k0rj4-icon-button_base-secondary:focus {
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-8k0rj4-icon-button_base-secondary:active {
+                background: #e6e0d9;
+            }
+            .css-8k0rj4-icon-button_base-secondary:hover {
+                background: #f1ede8;
+            }
+        </style>
+        <style data-emotion="css 14dyzdt-icon" data-s="">
+            .css-14dyzdt-icon {
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css 19sf653-svg-size_md-sysColorSecondaryMainActive" data-s="">
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive {
+                speak: none;
+                display: inline-block;
+                aspect-ratio: 1;
+                width: 2rem;
+                height: 2rem;
+                color: #003087;
+            }
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive img,
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive svg {
+                width: 100%;
+                height: 100%;
+                display: block;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css 151vsl0-text_caption" data-s="">
+            .css-151vsl0-text_caption {
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 0.875rem;
+                line-height: 1.25rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-151vsl0-text_caption {
+                    font-size: min(0.875rem, 28px);
+                    line-height: min(1.25rem, 40px);
+                }
+            }
+        </style>
+        <style data-emotion="css 7i5kpm-icon-button_base-size_xl-size_sm-secondary" data-s="">
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary {
+                position: relative;
+                cursor: pointer;
+                border-radius: 50%;
+                padding: 0.75rem;
+                border: none;
+                background-color: transparent;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                padding: 0.5rem;
+                padding: 1rem;
+                color: #003087;
+                background: #faf8f5;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:focus {
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:before {
+                content: "";
+                position: absolute;
+                border-radius: 50%;
+                top: -0.125rem;
+                right: -0.125rem;
+                bottom: -0.125rem;
+                left: -0.125rem;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:active {
+                background: #e6e0d9;
+            }
+            .css-7i5kpm-icon-button_base-size_xl-size_sm-secondary:hover {
+                background: #f1ede8;
+            }
+        </style>
+        <style data-emotion="css 14dyzdt-icon" data-s="">
+            .css-14dyzdt-icon {
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css 19sf653-svg-size_md-sysColorSecondaryMainActive" data-s="">
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive {
+                speak: none;
+                display: inline-block;
+                aspect-ratio: 1;
+                width: 2rem;
+                height: 2rem;
+                color: #003087;
+            }
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive img,
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive svg {
+                width: 100%;
+                height: 100%;
+                display: block;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css 8k0rj4-icon-button_base-secondary" data-s="">
+            .css-8k0rj4-icon-button_base-secondary {
+                position: relative;
+                cursor: pointer;
+                border-radius: 50%;
+                padding: 0.75rem;
+                border: none;
+                background-color: transparent;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                color: #003087;
+                background: #faf8f5;
+            }
+            .css-8k0rj4-icon-button_base-secondary:focus {
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-8k0rj4-icon-button_base-secondary:active {
+                background: #e6e0d9;
+            }
+            .css-8k0rj4-icon-button_base-secondary:hover {
+                background: #f1ede8;
+            }
+        </style>
+        <style data-emotion="css 14dyzdt-icon" data-s="">
+            .css-14dyzdt-icon {
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css 19sf653-svg-size_md-sysColorSecondaryMainActive" data-s="">
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive {
+                speak: none;
+                display: inline-block;
+                aspect-ratio: 1;
+                width: 2rem;
+                height: 2rem;
+                color: #003087;
+            }
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive img,
+            .css-19sf653-svg-size_md-sysColorSecondaryMainActive svg {
+                width: 100%;
+                height: 100%;
+                display: block;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css 151vsl0-text_caption" data-s="">
+            .css-151vsl0-text_caption {
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 0.875rem;
+                line-height: 1.25rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-151vsl0-text_caption {
+                    font-size: min(0.875rem, 28px);
+                    line-height: min(1.25rem, 40px);
+                }
+            }
+        </style>
+        <style data-emotion="css 1m0ekac-button_base-text_button_lg-btn_full_width" data-s="">
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width {
+                position: relative;
+                border-radius: 1000px;
+                color: #ffffff;
+                cursor: pointer;
+                display: inline-block;
+                min-width: 6rem;
+                text-align: center;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                -webkit-transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+                transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+                border: 0.125rem solid #003087;
+                color: #ffffff;
+                font-family: PayPalOpen-Bold, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+                background-color: #003087;
+                padding: 0.625rem 1.875rem;
+            }
+            @media screen and (max-width: 752px) {
+                .css-1m0ekac-button_base-text_button_lg-btn_full_width {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:hover,
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:active,
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:visited {
+                color: #ffffff;
+            }
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:hover {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                background-color: #0070e0;
+                border-color: #0070e0;
+            }
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:active {
+                outline: none;
+                background-color: #001c64;
+                border-color: #001c64;
+            }
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:focus {
+                outline: none;
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            @media (max-width: 47rem) {
+                .css-1m0ekac-button_base-text_button_lg-btn_full_width {
+                    width: 100%;
+                }
+            }
+        </style>
+        <style data-emotion="css 1bj9kom-affordance" data-s="">
+            .css-1bj9kom-affordance {
+                -webkit-margin-start: 0.5rem;
+                margin-inline-start: 0.5rem;
+                -webkit-margin-end: 0;
+                margin-inline-end: 0;
+                vertical-align: top;
+                position: relative;
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css 1m0ekac-button_base-text_button_lg-btn_full_width" data-s="">
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width {
+                position: relative;
+                border-radius: 1000px;
+                color: #ffffff;
+                cursor: pointer;
+                display: inline-block;
+                min-width: 6rem;
+                text-align: center;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                -webkit-transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+                transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+                border: 0.125rem solid #003087;
+                color: #ffffff;
+                font-family: PayPalOpen-Bold, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+                background-color: #003087;
+                padding: 0.625rem 1.875rem;
+            }
+            @media screen and (max-width: 752px) {
+                .css-1m0ekac-button_base-text_button_lg-btn_full_width {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:hover,
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:active,
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:visited {
+                color: #ffffff;
+            }
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:hover {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                background-color: #0070e0;
+                border-color: #0070e0;
+            }
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:active {
+                outline: none;
+                background-color: #001c64;
+                border-color: #001c64;
+            }
+            .css-1m0ekac-button_base-text_button_lg-btn_full_width:focus {
+                outline: none;
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            @media (max-width: 47rem) {
+                .css-1m0ekac-button_base-text_button_lg-btn_full_width {
+                    width: 100%;
+                }
+            }
+        </style>
+        <style data-emotion="css 1bj9kom-affordance" data-s="">
+            .css-1bj9kom-affordance {
+                -webkit-margin-start: 0.5rem;
+                margin-inline-start: 0.5rem;
+                -webkit-margin-end: 0;
+                margin-inline-end: 0;
+                vertical-align: top;
+                position: relative;
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css 97ji8w-card_base" data-s="">
+            .css-97ji8w-card_base {
+                padding: 1.5rem;
+                position: relative;
+                text-align: initial;
+                background-color: #ffffff;
+                border: 0.0625rem solid rgba(0, 0, 0, 0.1);
+                border-radius: 0.75rem;
+                -webkit-appearance: none;
+                -moz-appearance: none;
+                -ms-appearance: none;
+                appearance: none;
+            }
+            .css-97ji8w-card_base:focus {
+                box-shadow: 0 0 0 calc(0.125rem + 0.125rem) inset #ffffff;
+                outline-offset: -0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+        </style>
+        <style data-emotion="css 1ao4o69-header" data-s="">
+            .css-1ao4o69-header {
+                margin-bottom: 1.5rem;
+                display: table;
+            }
+        </style>
+        <style data-emotion="css qczjjc-title-text_heading_sm" data-s="">
+            .css-qczjjc-title-text_heading_sm {
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.75rem;
+                line-height: 2.25rem;
+                font-weight: 400;
+                width: 100%;
+                display: table-cell;
+                margin: initial;
+                padding: 0.25rem 0;
+                text-transform: none;
+                vertical-align: middle;
+            }
+            @media screen and (max-width: 752px) {
+                .css-qczjjc-title-text_heading_sm {
+                    font-size: min(1.75rem, 42px);
+                    line-height: min(2.25rem, 54px);
+                }
+            }
+        </style>
+        <style data-emotion="css 1chx7ec-links_base-text_body_strong-secondary-text_body_strong" data-s="">
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                border-radius: 0.125rem;
+                color: #0070e0;
+                font-family: PayPalOpen-Bold, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+                -webkit-text-decoration: underline;
+                text-decoration: underline;
+                color: #001435;
+                font-family: PayPalOpen-Bold, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:focus {
+                color: #0070e0;
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:focus,
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:hover {
+                -webkit-text-decoration: underline;
+                text-decoration: underline;
+                cursor: pointer;
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:hover {
+                color: #003087;
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:active {
+                color: #003087;
+            }
+            @media screen and (max-width: 752px) {
+                .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:active {
+                color: #001435;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:focus,
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:hover {
+                color: #001435;
+                -webkit-text-decoration: underline;
+                text-decoration: underline;
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:visited {
+                color: #001435;
+            }
+        </style>
+        <style data-emotion="css kddmuw-overflow_menu_base" data-s="">
+            .css-kddmuw-overflow_menu_base {
+                position: relative;
+                display: inline-block;
+                max-height: 16rem;
+            }
+        </style>
+        <style data-emotion="css 1rie9kd-icon-button_base-tertiary" data-s="">
+            .css-1rie9kd-icon-button_base-tertiary {
+                position: relative;
+                cursor: pointer;
+                border-radius: 50%;
+                padding: 0.75rem;
+                border: none;
+                background-color: transparent;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                color: #545d68;
+            }
+            .css-1rie9kd-icon-button_base-tertiary:focus {
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-1rie9kd-icon-button_base-tertiary:hover {
+                background: #faf8f5;
+            }
+            .css-1rie9kd-icon-button_base-tertiary:active {
+                background: #f1ede8;
+            }
+        </style>
+        <style data-emotion="css 14dyzdt-icon" data-s="">
+            .css-14dyzdt-icon {
+                pointer-events: none;
+            }
+        </style>
+
+        <style data-emotion="css 1am46ks-svg-size_sm-icon" data-s="">
+            .css-1am46ks-svg-size_sm-icon {
+                speak: none;
+                display: inline-block;
+                aspect-ratio: 1;
+                width: 1.5rem;
+                height: 1.5rem;
+                pointer-events: none;
+            }
+            .css-1am46ks-svg-size_sm-icon img,
+            .css-1am46ks-svg-size_sm-icon svg {
+                width: 100%;
+                height: 100%;
+                display: block;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css 8cx2tb-list-elevation_level1" data-s="">
+            .css-8cx2tb-list-elevation_level1 {
+                right: 0;
+                margin: 0;
+                position: fixed;
+                z-index: 1060;
+                list-style: none;
+                border-radius: 0.75rem;
+                box-shadow: 0rem 0rem 0.625rem rgba(0, 0, 0, 0.15);
+                background-image: linear-gradient(rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0.02));
+                background-color: #ffffff;
+                display: none;
+                padding: 0.5rem 0;
+                overflow: auto;
+                width: -webkit-fit-content;
+                width: -moz-fit-content;
+                width: fit-content;
+            }
+            .css-8cx2tb-list-elevation_level1[aria-hidden="false"] {
+                display: inline-block;
+            }
+            [dir="rtl"] .css-8cx2tb-list-elevation_level1 {
+                right: auto;
+                left: 0.75rem;
+            }
+        </style>
+        <style data-emotion="css 5mexf4-list_item-text_body" data-s="">
+            .css-5mexf4-list_item-text_body {
+                white-space: nowrap;
+                display: block;
+                text-align: justify;
+                text-overflow: ellipsis;
+                position: relative;
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                padding: 0.75rem 1rem;
+            }
+            @media screen and (max-width: 752px) {
+                .css-5mexf4-list_item-text_body {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+            .css-5mexf4-list_item-text_body:hover {
+                background-color: #faf8f5;
+                cursor: pointer;
+                outline: 0;
+            }
+            .css-5mexf4-list_item-text_body:focus {
+                box-shadow: none;
+                outline: 0;
+                border-radius: 0;
+            }
+        </style>
+        <style data-emotion="css 1soddj9-content" data-s="">
+            .css-1soddj9-content {
+                margin-top: 0.9375rem;
+                margin-bottom: 0.9375rem;
+            }
+        </style>
+        <style data-emotion="css tnax4s-horizontal_scroll_base" data-s="">
+            .css-tnax4s-horizontal_scroll_base {
+                position: relative;
+            }
+            .css-tnax4s-horizontal_scroll_base:hover > div:nth-of-type(2n),
+            .css-tnax4s-horizontal_scroll_base:hover > div:nth-of-type(3n) {
+                opacity: 1;
+            }
+        </style>
+        <style data-emotion="css 36pk32-page_container" data-s="">
+            .css-36pk32-page_container {
+                overflow-x: hidden;
+            }
+        </style>
+        <style data-emotion="css 1baea8v-page" data-s="">
+            .css-1baea8v-page {
+                position: relative;
+                left: 0;
+                -webkit-transition: left 1s cubic-bezier(0, 0.9, 0.3, 1);
+                transition: left 1s cubic-bezier(0, 0.9, 0.3, 1);
+            }
+            [dir="rtl"] .css-1baea8v-page {
+                right: 0;
+                left: unset;
+                -webkit-transition: right 1s ease-in-out;
+                transition: right 1s ease-in-out;
+            }
+        </style>
+        <style data-emotion="css 1yx3oy6-item_list_desktop" data-s="">
+            .css-1yx3oy6-item_list_desktop {
+                overflow-x: visible;
+            }
+        </style>
+        <style data-emotion="css 1g2endo-item_list-item_list_desktop" data-s="">
+            .css-1g2endo-item_list-item_list_desktop {
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                list-style: none;
+                margin: 0;
+                overflow-y: -moz-hidden-unscrollable;
+                overflow-x: auto;
+                padding: 1rem 0;
+                overflow-x: visible;
+            }
+            .css-1g2endo-item_list-item_list_desktop > * {
+                -webkit-flex: 0 0 auto;
+                -ms-flex: 0 0 auto;
+                flex: 0 0 auto;
+            }
+        </style>
+        <style data-emotion="css 19gw1j0-item-desktop" data-s="">
+            .css-19gw1j0-item-desktop {
+                margin: 0 8px;
+                -webkit-flex-basis: calc(100% / 5 - 16px);
+                -ms-flex-preferred-size: calc(100% / 5 - 16px);
+                flex-basis: calc(100% / 5 - 16px);
+            }
+            @media (max-width: 47rem) {
+                .css-19gw1j0-item-desktop {
+                    margin: 0 6px;
+                }
+            }
+        </style>
+        <style data-emotion="css 1slcmep-avatar_base-size_lg-text_heading_lg-size_md-text_heading_sm-merchant" data-s="">
+            .css-1slcmep-avatar_base-size_lg-text_heading_lg-size_md-text_heading_sm-merchant {
+                border-radius: 50%;
+                color: #ffffff;
+                text-align: center;
+                text-transform: uppercase;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                border: 0.0625rem solid #faf8f5;
+                background-color: #003087;
+                position: relative;
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 2.75rem;
+                line-height: 6rem;
+                font-weight: 400;
+                width: 6rem;
+                height: 6rem;
+                width: 4rem;
+                height: 4rem;
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.75rem;
+                line-height: 4rem;
+                font-weight: 400;
+                background-color: #003087;
+                color: #ffffff;
+            }
+            @media screen and (max-width: 752px) {
+                .css-1slcmep-avatar_base-size_lg-text_heading_lg-size_md-text_heading_sm-merchant {
+                    font-size: min(2.75rem, 66px);
+                    line-height: min(6rem, 144px);
+                }
+            }
+            @media screen and (max-width: 752px) {
+                .css-1slcmep-avatar_base-size_lg-text_heading_lg-size_md-text_heading_sm-merchant {
+                    font-size: min(1.75rem, 42px);
+                    line-height: min(4rem, 96px);
+                }
+            }
+        </style>
+        <style data-emotion="css 1yh5wve-image" data-s="">
+            .css-1yh5wve-image {
+                border-radius: inherit;
+                width: inherit;
+                height: inherit;
+                background: #ffffff;
+                object-fit: cover;
+            }
+        </style>
+        <style data-emotion="css 7f4ytl-avatar_base-size_lg-text_heading_lg-size_sm-text_body-merchant" data-s="">
+            .css-7f4ytl-avatar_base-size_lg-text_heading_lg-size_sm-text_body-merchant {
+                border-radius: 50%;
+                color: #ffffff;
+                text-align: center;
+                text-transform: uppercase;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                border: 0.0625rem solid #faf8f5;
+                background-color: #003087;
+                position: relative;
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 2.75rem;
+                line-height: 6rem;
+                font-weight: 400;
+                width: 6rem;
+                height: 6rem;
+                width: 3rem;
+                height: 3rem;
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 3rem;
+                font-weight: 400;
+                background-color: #003087;
+                color: #ffffff;
+            }
+            @media screen and (max-width: 752px) {
+                .css-7f4ytl-avatar_base-size_lg-text_heading_lg-size_sm-text_body-merchant {
+                    font-size: min(2.75rem, 66px);
+                    line-height: min(6rem, 144px);
+                }
+            }
+            @media screen and (max-width: 752px) {
+                .css-7f4ytl-avatar_base-size_lg-text_heading_lg-size_sm-text_body-merchant {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(3rem, 96px);
+                }
+            }
+        </style>
+        <style data-emotion="css 151vsl0-text_caption" data-s="">
+            .css-151vsl0-text_caption {
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 0.875rem;
+                line-height: 1.25rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-151vsl0-text_caption {
+                    font-size: min(0.875rem, 28px);
+                    line-height: min(1.25rem, 40px);
+                }
+            }
+        </style>
+        <style data-emotion="css 1jhxr96-avatar_base-size_lg-text_heading_lg-size_md-text_heading_sm-sysColorAccent1Main" data-s="">
+            .css-1jhxr96-avatar_base-size_lg-text_heading_lg-size_md-text_heading_sm-sysColorAccent1Main {
+                border-radius: 50%;
+                color: #ffffff;
+                text-align: center;
+                text-transform: uppercase;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                border: 0.0625rem solid #faf8f5;
+                background-color: #003087;
+                position: relative;
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 2.75rem;
+                line-height: 6rem;
+                font-weight: 400;
+                width: 6rem;
+                height: 6rem;
+                width: 4rem;
+                height: 4rem;
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.75rem;
+                line-height: 4rem;
+                font-weight: 400;
+                background-color: #003087;
+                color: #ffffff;
+            }
+            @media screen and (max-width: 752px) {
+                .css-1jhxr96-avatar_base-size_lg-text_heading_lg-size_md-text_heading_sm-sysColorAccent1Main {
+                    font-size: min(2.75rem, 66px);
+                    line-height: min(6rem, 144px);
+                }
+            }
+            @media screen and (max-width: 752px) {
+                .css-1jhxr96-avatar_base-size_lg-text_heading_lg-size_md-text_heading_sm-sysColorAccent1Main {
+                    font-size: min(1.75rem, 42px);
+                    line-height: min(4rem, 96px);
+                }
+            }
+        </style>
+        <style data-emotion="css 1uwzr1e-avatar_base-size_lg-text_heading_lg-size_sm-text_body-sysColorAccent1Main" data-s="">
+            .css-1uwzr1e-avatar_base-size_lg-text_heading_lg-size_sm-text_body-sysColorAccent1Main {
+                border-radius: 50%;
+                color: #ffffff;
+                text-align: center;
+                text-transform: uppercase;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                border: 0.0625rem solid #faf8f5;
+                background-color: #003087;
+                position: relative;
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 2.75rem;
+                line-height: 6rem;
+                font-weight: 400;
+                width: 6rem;
+                height: 6rem;
+                width: 3rem;
+                height: 3rem;
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 3rem;
+                font-weight: 400;
+                background-color: #003087;
+                color: #ffffff;
+            }
+            @media screen and (max-width: 752px) {
+                .css-1uwzr1e-avatar_base-size_lg-text_heading_lg-size_sm-text_body-sysColorAccent1Main {
+                    font-size: min(2.75rem, 66px);
+                    line-height: min(6rem, 144px);
+                }
+            }
+            @media screen and (max-width: 752px) {
+                .css-1uwzr1e-avatar_base-size_lg-text_heading_lg-size_sm-text_body-sysColorAccent1Main {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(3rem, 96px);
+                }
+            }
+        </style>
+        <style data-emotion="css 97ji8w-card_base" data-s="">
+            .css-97ji8w-card_base {
+                padding: 1.5rem;
+                position: relative;
+                text-align: initial;
+                background-color: #ffffff;
+                border: 0.0625rem solid rgba(0, 0, 0, 0.1);
+                border-radius: 0.75rem;
+                -webkit-appearance: none;
+                -moz-appearance: none;
+                -ms-appearance: none;
+                appearance: none;
+            }
+            .css-97ji8w-card_base:focus {
+                box-shadow: 0 0 0 calc(0.125rem + 0.125rem) inset #ffffff;
+                outline-offset: -0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+        </style>
+        <style data-emotion="css 1ao4o69-header" data-s="">
+            .css-1ao4o69-header {
+                margin-bottom: 1.5rem;
+                display: table;
+            }
+        </style>
+        <style data-emotion="css qczjjc-title-text_heading_sm" data-s="">
+            .css-qczjjc-title-text_heading_sm {
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.75rem;
+                line-height: 2.25rem;
+                font-weight: 400;
+                width: 100%;
+                display: table-cell;
+                margin: initial;
+                padding: 0.25rem 0;
+                text-transform: none;
+                vertical-align: middle;
+            }
+            @media screen and (max-width: 752px) {
+                .css-qczjjc-title-text_heading_sm {
+                    font-size: min(1.75rem, 42px);
+                    line-height: min(2.25rem, 54px);
+                }
+            }
+        </style>
+        <style data-emotion="css 1chx7ec-links_base-text_body_strong-secondary-text_body_strong" data-s="">
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                border-radius: 0.125rem;
+                color: #0070e0;
+                font-family: PayPalOpen-Bold, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+                -webkit-text-decoration: underline;
+                text-decoration: underline;
+                color: #001435;
+                font-family: PayPalOpen-Bold, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:focus {
+                color: #0070e0;
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:focus,
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:hover {
+                -webkit-text-decoration: underline;
+                text-decoration: underline;
+                cursor: pointer;
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:hover {
+                color: #003087;
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:active {
+                color: #003087;
+            }
+            @media screen and (max-width: 752px) {
+                .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:active {
+                color: #001435;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:focus,
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:hover {
+                color: #001435;
+                -webkit-text-decoration: underline;
+                text-decoration: underline;
+            }
+            .css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong:visited {
+                color: #001435;
+            }
+        </style>
+        <style data-emotion="css kddmuw-overflow_menu_base" data-s="">
+            .css-kddmuw-overflow_menu_base {
+                position: relative;
+                display: inline-block;
+                max-height: 16rem;
+            }
+        </style>
+        <style data-emotion="css 1rie9kd-icon-button_base-tertiary" data-s="">
+            .css-1rie9kd-icon-button_base-tertiary {
+                position: relative;
+                cursor: pointer;
+                border-radius: 50%;
+                padding: 0.75rem;
+                border: none;
+                background-color: transparent;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                color: #545d68;
+            }
+            .css-1rie9kd-icon-button_base-tertiary:focus {
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-1rie9kd-icon-button_base-tertiary:hover {
+                background: #faf8f5;
+            }
+            .css-1rie9kd-icon-button_base-tertiary:active {
+                background: #f1ede8;
+            }
+        </style>
+        <style data-emotion="css 14dyzdt-icon" data-s="">
+            .css-14dyzdt-icon {
+                pointer-events: none;
+            }
+        </style>
+        <style data-emotion="css 1am46ks-svg-size_sm-icon" data-s="">
+            .css-1am46ks-svg-size_sm-icon {
+                speak: none;
+                display: inline-block;
+                aspect-ratio: 1;
+                width: 1.5rem;
+                height: 1.5rem;
+                pointer-events: none;
+            }
+            .css-1am46ks-svg-size_sm-icon img,
+            .css-1am46ks-svg-size_sm-icon svg {
+                width: 100%;
+                height: 100%;
+                display: block;
+            }
+        </style>
+        <style data-emotion="css geb0bj-screenReader" data-s="">
+            .css-geb0bj-screenReader {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                padding: 0;
+                border: 0;
+                width: 1px;
+                height: 1px;
+                overflow: hidden;
+            }
+        </style>
+        <style data-emotion="css 8cx2tb-list-elevation_level1" data-s="">
+            .css-8cx2tb-list-elevation_level1 {
+                right: 0;
+                margin: 0;
+                position: fixed;
+                z-index: 1060;
+                list-style: none;
+                border-radius: 0.75rem;
+                box-shadow: 0rem 0rem 0.625rem rgba(0, 0, 0, 0.15);
+                background-image: linear-gradient(rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0.02));
+                background-color: #ffffff;
+                display: none;
+                padding: 0.5rem 0;
+                overflow: auto;
+                width: -webkit-fit-content;
+                width: -moz-fit-content;
+                width: fit-content;
+            }
+            .css-8cx2tb-list-elevation_level1[aria-hidden="false"] {
+                display: inline-block;
+            }
+            [dir="rtl"] .css-8cx2tb-list-elevation_level1 {
+                right: auto;
+                left: 0.75rem;
+            }
+        </style>
+        <style data-emotion="css 5mexf4-list_item-text_body" data-s="">
+            .css-5mexf4-list_item-text_body {
+                white-space: nowrap;
+                display: block;
+                text-align: justify;
+                text-overflow: ellipsis;
+                position: relative;
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                padding: 0.75rem 1rem;
+            }
+            @media screen and (max-width: 752px) {
+                .css-5mexf4-list_item-text_body {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+            .css-5mexf4-list_item-text_body:hover {
+                background-color: #faf8f5;
+                cursor: pointer;
+                outline: 0;
+            }
+            .css-5mexf4-list_item-text_body:focus {
+                box-shadow: none;
+                outline: 0;
+                border-radius: 0;
+            }
+        </style>
+        <style data-emotion="css 1soddj9-content" data-s="">
+            .css-1soddj9-content {
+                margin-top: 0.9375rem;
+                margin-bottom: 0.9375rem;
+            }
+        </style>
+        <style data-emotion="css 16jt5za-text_body" data-s="">
+            .css-16jt5za-text_body {
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-16jt5za-text_body {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+        </style>
+        <style data-emotion="css 151vsl0-text_caption" data-s="">
+            .css-151vsl0-text_caption {
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 0.875rem;
+                line-height: 1.25rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-151vsl0-text_caption {
+                    font-size: min(0.875rem, 28px);
+                    line-height: min(1.25rem, 40px);
+                }
+            }
+        </style>
+        <style data-emotion="css 1ygyq7k-footer" data-s="">
+            .css-1ygyq7k-footer {
+                margin-top: 1.5rem;
+            }
+            .css-1ygyq7k-footer button,
+            .css-1ygyq7k-footer a {
+                margin: initial;
+            }
+            .css-1ygyq7k-footer button:not(:last-child),
+            .css-1ygyq7k-footer a:not(:last-child) {
+                margin-right: 1.5rem;
+            }
+            [dir="rtl"] .css-1ygyq7k-footer button:not(:last-child),
+            [dir="rtl"] .css-1ygyq7k-footer a:not(:last-child) {
+                margin-right: initial;
+                margin-left: 1.5rem;
+            }
+        </style>
+        <style data-emotion="css 1yo2lxy-text_body_strong" data-s="">
+            .css-1yo2lxy-text_body_strong {
+                color: #001435;
+                font-family: PayPalOpen-Bold, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-1yo2lxy-text_body_strong {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+        </style>
+        <style data-emotion="css 1caaugt-links_base-text_body_strong" data-s="">
+            .css-1caaugt-links_base-text_body_strong {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                border-radius: 0.125rem;
+                color: #0070e0;
+                font-family: PayPalOpen-Bold, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-1caaugt-links_base-text_body_strong {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+            .css-1caaugt-links_base-text_body_strong:focus {
+                color: #0070e0;
+                box-shadow: 0 0 0 0.125rem #ffffff;
+                outline-offset: 0.125rem;
+                outline: 0.125rem solid #097ff5;
+            }
+            .css-1caaugt-links_base-text_body_strong:focus,
+            .css-1caaugt-links_base-text_body_strong:hover {
+                -webkit-text-decoration: underline;
+                text-decoration: underline;
+                cursor: pointer;
+            }
+            .css-1caaugt-links_base-text_body_strong:hover {
+                color: #003087;
+            }
+            .css-1caaugt-links_base-text_body_strong:active {
+                color: #003087;
+            }
+        </style>
+        <style data-emotion="css 1re6efx-elevation_level1" data-s="">
+            .css-1re6efx-elevation_level1 {
+                box-shadow: 0rem 0rem 0.625rem rgba(0, 0, 0, 0.15);
+                background-image: linear-gradient(rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0.02));
+            }
+        </style>
+        <style data-emotion="css 1djyuxb-container_fluid" data-s="">
+            .css-1djyuxb-container_fluid {
+                width: 100%;
+                padding-right: 0.75rem;
+                padding-left: 0.75rem;
+                margin-right: auto;
+                margin-left: auto;
+            }
+        </style>
+        <style data-emotion="css s8u2ug-row" data-s="">
+            .css-s8u2ug-row {
+                display: -ms-flexbox;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -ms-flex-wrap: wrap;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-right: -0.75rem;
+                margin-left: -0.75rem;
+            }
+        </style>
+        <style data-emotion="css e1de2j-col_sm_12" data-s="">
+            .css-e1de2j-col_sm_12 {
+                position: relative;
+                width: 100%;
+                min-height: 1px;
+                padding-right: 0.75rem;
+                padding-left: 0.75rem;
+            }
+            @media (min-width: 36rem) {
+                .css-e1de2j-col_sm_12 {
+                    -ms-flex: 0 0 100%;
+                    -webkit-flex: 0 0 100%;
+                    -ms-flex: 0 0 100%;
+                    flex: 0 0 100%;
+                    max-width: 100%;
+                }
+            }
+        </style>
+        <style data-emotion="css 16jt5za-text_body" data-s="">
+            .css-16jt5za-text_body {
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 1.125rem;
+                line-height: 1.5rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-16jt5za-text_body {
+                    font-size: min(1.125rem, 36px);
+                    line-height: min(1.5rem, 48px);
+                }
+            }
+        </style>
+        <style data-emotion="css 151vsl0-text_caption" data-s="">
+            .css-151vsl0-text_caption {
+                color: #001435;
+                font-family: PayPalOpen-Regular, "Helvetica Neue", Arial, sans-serif;
+                font-size: 0.875rem;
+                line-height: 1.25rem;
+                font-weight: 400;
+            }
+            @media screen and (max-width: 752px) {
+                .css-151vsl0-text_caption {
+                    font-size: min(0.875rem, 28px);
+                    line-height: min(1.25rem, 40px);
+                }
+            }
+        </style>
+        <style data-emotion="css" data-s=""></style>
+        <style data-emotion="css"></style>
+        <style data-emotion="spf"></style>
+        <link rel="stylesheet" href="https://www.paypalobjects.com/paypal-ui/web/fonts-and-normalize/2-1-0/fonts-and-normalize.min.css">
+        <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="https://www.paypalobjects.com/paypal-ui/fonts/PayPalOpen-Regular.woff2">
+        <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="https://www.paypalobjects.com/paypal-ui/fonts/PayPalOpen-Bold.woff2">
+    </head>
+    <body class="cw_root cw_navbar_enabled" data-cwt-fpti-base="{&quot;page&quot;:&quot;main:walletweb:summary:main&quot;,&quot;pgrp&quot;:&quot;main:walletweb:summary::main&quot;,&quot;type&quot;:&quot;active&quot;,&quot;acnt&quot;:&quot;active&quot;,&quot;vers&quot;:&quot;customer&quot;,&quot;pgtf&quot;:&quot;Nodejs&quot;,&quot;comp&quot;:&quot;summarynodeweb&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;product&quot;:&quot;dw_webhome&quot;,&quot;event_name&quot;:&quot;dw_webhome_default&quot;,&quot;rsta&quot;:&quot;id_ID&quot;,&quot;ccpg&quot;:&quot;ID&quot;,&quot;cust&quot;:&quot;FDRA9TH2R2Z8J&quot;,&quot;lcid&quot;:&quot;f75527428eb60&quot;,&quot;xe&quot;:&quot;&quot;,&quot;xt&quot;:&quot;&quot;}">
+        <div>
+            <style> #ccpaCookieBanner{display:none;}</style>
+        </div>
+        <input type="checkbox" id="toggleNavigation" class="vx_globalNav-toggleCheckbox" style="display: none;">
+        <div>
+            <div id="hc-contextual-help-app"></div>
+            <div id="cw_profileswitch" data-test-id="linked-account-modal-mount"></div>
+            <div class="cw_navbar_drawer cw_drawer_closed" role="banner" data-version="" data-source="personalization" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;page&quot;:&quot;main:walletweb:navigation::main&quot;,&quot;pgrp&quot;:&quot;main:walletweb:navigation::main&quot;,&quot;cust&quot;:&quot;FDRA9TH2R2Z8J&quot;}" data-cwt-im-event="CWTMenu">
+                <header class="cw_drawer_header cw_drawer_header--no_photo" data-test-id="cw-mweb-drawer-header">
+                    <ul>
+                        <li><a class="cw_navbar_logout" href="/signout" id="header-logout_mobile" name="header-logout_mobile" data-pagename="main:header" data-cwt-fpti-base="{&quot;page&quot;:&quot;main:walletweb:summary:main:header&quot;,&quot;pgrp&quot;:&quot;main:walletweb:summary::main&quot;,&quot;vers&quot;:&quot;customer&quot;,&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;}" data-cwt-fpti-cl="{&quot;pglk&quot;:&quot;main:walletweb:summary:main:header|header-logout-mobile&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main:header|header-logout-mobile&quot;,&quot;link&quot;:&quot;header-logout-mobile&quot;,&quot;event_name&quot;:&quot;dw_webnav_header_logout_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_webnav_header_logout_shown&quot;}" pa-marked="1">Log Out</a></li>
+                        <li>
+                            <a href="/myaccount/profile" id="header-settings_mobile" name="header-settings_mobile" data-pagename="main:header" data-cwt-fpti-base="{&quot;page&quot;:&quot;main:walletweb:summary:main:header&quot;,&quot;pgrp&quot;:&quot;main:walletweb:summary::main&quot;,&quot;vers&quot;:&quot;customer&quot;,&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;}" data-cwt-fpti-cl="{&quot;pglk&quot;:&quot;main:walletweb:summary:main:header|header-settings-mobile&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main:header|header-settings-mobile&quot;,&quot;link&quot;:&quot;header-settings-mobile&quot;,&quot;event_name&quot;:&quot;dw_webnav_header_settings_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_webnav_header_settings_shown&quot;}" pa-marked="1">
+                                <span class="cw-icon__svg cw-icon__size_sm">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                                            <path d="M19.722 10.2a.378.378 0 0 1-.369-.279 7.39 7.39 0 0 0-.684-1.647.378.378 0 0 1 .054-.45 1.271 1.271 0 0 0 0-1.809l-.729-.729a1.271 1.271 0 0 0-1.809 0 .367.367 0 0 1-.45.054 7.642 7.642 0 0 0-1.656-.684.394.394 0 0 1-.279-.369C13.8 3.576 13.224 3 12.513 3h-1.035c-.702 0-1.278.576-1.278 1.287a.375.375 0 0 1-.279.36 7.642 7.642 0 0 0-1.656.684.378.378 0 0 1-.45-.054 1.271 1.271 0 0 0-1.809 0l-.738.729a1.271 1.271 0 0 0 0 1.809.367.367 0 0 1 .054.45 8.305 8.305 0 0 0-.675 1.656.375.375 0 0 1-.36.279h-.009C3.576 10.2 3 10.776 3 11.478v1.044c0 .711.576 1.278 1.278 1.278h.009c.171 0 .315.117.36.279a7.39 7.39 0 0 0 .684 1.647.378.378 0 0 1-.054.45 1.271 1.271 0 0 0 0 1.809l.729.729a1.271 1.271 0 0 0 1.809 0 .367.367 0 0 1 .45-.054 7.57 7.57 0 0 0 1.647.684.392.392 0 0 1 .288.369v.009c0 .702.567 1.278 1.278 1.278h1.044c.702 0 1.278-.576 1.278-1.278 0-.171.117-.315.279-.36a7.39 7.39 0 0 0 1.647-.684.378.378 0 0 1 .45.054 1.271 1.271 0 0 0 1.809 0l.729-.729a1.271 1.271 0 0 0 0-1.809.367.367 0 0 1-.054-.45 7.57 7.57 0 0 0 .684-1.647.375.375 0 0 1 .36-.279h.009c.702 0 1.278-.576 1.278-1.278v-1.062a1.27 1.27 0 0 0-1.269-1.278zM12 15.15A3.153 3.153 0 0 1 8.85 12 3.153 3.153 0 0 1 12 8.85 3.153 3.153 0 0 1 15.15 12 3.153 3.153 0 0 1 12 15.15z"></path>
+                                        </svg>
+                                    </div>
+                                    <div class="css-geb0bj-screenReader" data-test-id="screenreader">
+                                        Pengaturan
+                                    </div>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                    <div>
+                    </div>
+                </header>
+                <script type="application/json" id="notification-center-props">{"content":{"btnToggle":"Pemberitahuan","btnClose":"Tutup <span class='accessAid'>Pemberitahuan</span>","btnDismiss":"Abaikan","header":"Pemberitahuan","notificationsTabHeader":"Pemberitahuan(<span id=\"notificationCount\">{count}</span>)","messagesTabHeader":"Kotak masuk (<span id=\"messageCount\">{count}</span>)","MessagesSubHeader":"Pesan","NotificationsSubHeader":"Pemberitahuan","secureMessageDescriptionSingle":"Anda memiliki {count} pesan baru.","secureMessageDescriptionPlural":"Anda memiliki {count} pesan baru.","secureMessageLink":"Lihat Pesan","inboxMessagesHeader":"Kotak masuk","inboxMessageLink":"Buka Kotak Masuk","inboxMessageDescription":"Anda akan menemukan resi pembelian di sini, bersama dengan pesan dari penjual tentang barang yang dibeli.","zeroStateNotification":"Anda tidak memiliki pemberitahuan baru.","zeroStateMessage":"Anda tidak memiliki pesan baru.","noNotificationHeader":"Semua Selesai Untuk Saat Ini","noNotificationSubheader":"Kunjungi kembali halaman ini untuk mendapatkan saran dan rekomendasi praktis untuk menjaga rekening Anda dalam kondisi prima."},"correlationId":"f75527428eb60","user":{"isMobileIdUser":false},"userKey":"e5a5168c0538ef1e5a5eff85ece443f4c360dd6d0bf026a8cf3d7eb45dc9b4f1f2f442786b9c3c3107e2cf8f23f003afd87e9b3c9f399995b7252d30d289147f","closeLabel":"Tutup","CloseIconString":"<svg\n  class=\"close-icon\"\n  width=\"24\"\n  height=\"24\"\n  viewBox=\"0 0 97.998 120\"\n  version=\"1.1\"\n  xmlns=\"http://www.w3.org/2000/svg\"\n  xmlns:xlink=\"http://www.w3.org/1999/xlink\"\n  data-id=\"cw_notifications-mobile-dismiss\"\n  data-test-id=\"cw_notifications-mobile-dismiss\"\n>\n  <path\n    stroke=\"#2C2E2F\"\n    fill=\"#2C2E2F\"\n    d=\"m82.91 99.121q2.8e-14 0.87891-0.53711 1.416-0.53711 0.53711-1.416 0.53711-0.87891 0-1.4648-0.58594l-30.469-30.469c-7.6538 7.6416-22.961 22.925-30.615 30.566q-0.53711 0.58594-1.416 0.58594t-1.416-0.58594q-1.416-1.416 0-2.7832c10.173-10.205 22.888-22.961 30.518-30.615-7.6294-7.6172-22.888-22.852-30.518-30.469q-1.416-1.5137 0-2.8809 1.416-1.3672 2.9297-0.048829c10.173 10.205 22.888 22.961 30.518 30.615 7.6416-7.6538 22.925-22.961 30.566-30.615q0.48828-0.58594 1.3672-0.58594t1.4648 0.58594q1.416 1.416 0 2.832c-10.205 10.189-22.961 22.925-30.615 30.566 7.6294 7.6294 22.888 22.888 30.518 30.518q0.58594 0.53711 0.58594 1.416z\"\n    stroke-width=\"0px\"\n  />\n</svg>"}</script>
+                <div class="cw_navbar cw_navbar--wide">
+                    <div class="cw_navbar__mainnav">
+                        <a class="cw_navbar__logo" href="/myaccount/summary" id="header-ppLogo" name="header-logo" data-name="header-logo" data-pagename="main:header" data-test-id="cw-header-logo" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;page&quot;:&quot;main:walletweb:navigation::main&quot;,&quot;pgrp&quot;:&quot;main:walletweb:navigation::main&quot;,&quot;cust&quot;:&quot;FDRA9TH2R2Z8J&quot;}" data-cwt-fpti-cl="{&quot;pglk&quot;:&quot;main:walletweb:summary:main:header|header-logo&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main:header|header-logo&quot;,&quot;link&quot;:&quot;header-logo&quot;,&quot;event_name&quot;:&quot;dw_webnav_header_logo_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_webnav_header_logo_shown&quot;}" pa-marked="1"><span class="cw-icon__svg cw-icon__size_md"><img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-mark-monotone-transparent.svg" alt="Panel Kontrol" data-test-id="logo-icon" id="logo-icon"></span></a>
+                        <nav class="cw_navbar__nav" role="navigation">
+                            <ul class="cw_navbar__primary">
+                                <li><a href="/myaccount/summary" data-name="newSummary" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;item_name&quot;:&quot;dw_nav&quot;,&quot;link_name&quot;:&quot;home&quot;,&quot;default_tab&quot;:&quot;Home&quot;,&quot;product&quot;:&quot;dw_nav&quot;,&quot;module&quot;:&quot;header&quot;,&quot;card_type&quot;:&quot;nav_header_dashboard&quot;,&quot;tile_id&quot;:&quot;nav_header_dashboard&quot;,&quot;scope&quot;:&quot;tile&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_nav_header_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_nav_header_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_nav_header_loaded&quot;}" data-cwt-ps-pr="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbwN.Z0ZSbQ9mWXNWZFRaU3oCWhoFR1xHH0dYUllieFJ1ZF5wQ3B8WH8tHlQ9NQILHXwcGDEpAQ&amp;cks=ZjBkNmVhZTNiZGU1NGY3YjZjOGIyZThmZDIzMDc5N2U&amp;e=1.0" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbwN.Z0ZSbQ9mWXNWZFRaU3oCWhoFR1xHH0dYUllieFJ1ZF5wQ3B8WH8tHlQuKw4bEw&amp;cks=MmUxZmYwOWQ2ODNiMTgyODhlZjE3YjUxZmEyZGQzZmQ&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbwN.Z0ZSbQ9mWXNWZFRaU3oCWhoFR1xHH0dYUllieFJ1ZF5wQ3B8WH8tHlQuKw4dFmYXHDk3B30COwIpHw&amp;cks=ZTc2N2I3ZWI5OTcxOTA3ZWMzNDQxNWFkZDczMmNhNjg&amp;e=1.0" class="cw_navbar__primary-item js_newSummary cw_navbar__primary-item--selected" pa-marked="1">Beranda</a></li>
+                                <li><a href="/myaccount/transfer?from=Header" data-name="transfer" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;item_name&quot;:&quot;dw_nav&quot;,&quot;product&quot;:&quot;dw_nav&quot;,&quot;link_name&quot;:&quot;payment&quot;,&quot;module&quot;:&quot;header&quot;,&quot;default_tab&quot;:&quot;pay_and_get_paid&quot;,&quot;card_type&quot;:&quot;nav_header_payment&quot;,&quot;tile_id&quot;:&quot;nav_header_payment&quot;,&quot;scope&quot;:&quot;tile&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_nav_header_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_nav_header_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_nav_header_loaded&quot;}" data-cwt-ps-pr="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbwJ8Z0BXYApkUHhfZF1RVHcPXhoFR11EH0FdX1xgcVl8ZFd7RH1xXH8tHlQ9NQILHXwcGDEpAQ&amp;cks=MjM5YzIyZDJlNDY5MzE5ZTEyOTE3NDU1YzNiZGY5Njc&amp;e=1.0" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbwJ8Z0BXYApkUHhfZF1RVHcPXhoFR11EH0FdX1xgcVl8ZFd7RH1xXH8tHlQuKw4bEw&amp;cks=NDMyOGJjZTliNzZiZTEyYzY0ZTU3MTY3OWJkYzhlMmY&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbwJ8Z0BXYApkUHhfZF1RVHcPXhoFR11EH0FdX1xgcVl8ZFd7RH1xXH8tHlQuKw4dFmYXHDk3B30COwIpHw&amp;cks=ZTM1OWE1Y2E4ZGVjN2U1OWQ3MDk2Njc5ZWRlOGY0OTM&amp;e=1.0" class="cw_navbar__primary-item js_transfer" pa-marked="1">Kirim dan Minta</a></li>
+                                <li><a href="/myaccount/money" data-name="wallet" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;item_name&quot;:&quot;dw_nav&quot;,&quot;product&quot;:&quot;dw_nav&quot;,&quot;link_name&quot;:&quot;wallet&quot;,&quot;module&quot;:&quot;header&quot;,&quot;default_tab&quot;:&quot;Wallet&quot;,&quot;card_type&quot;:&quot;nav_header_wallet&quot;,&quot;tile_id&quot;:&quot;nav_header_wallet&quot;,&quot;scope&quot;:&quot;tile&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_nav_header_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_nav_header_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_nav_header_loaded&quot;}" data-cwt-ps-pr="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZwlnXX5QaVNfVHMOVRoFRlRGHEVUWF9jfF9zaVl1RHlwV38tHlQ9NQILHXwcGDEpAQ&amp;cks=YzlhN2I5ODNhMTllZmEyMTAyYmRhN2Q2MDBjNmQ4MDY&amp;e=1.0" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZwlnXX5QaVNfVHMOVRoFRlRGHEVUWF9jfF9zaVl1RHlwV38tHlQuKw4bEw&amp;cks=MWRhY2VmNjJmYWE3MzY3ZDM5NWIyMjc0YzhjODI3ODI&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZwlnXX5QaVNfVHMOVRoFRlRGHEVUWF9jfF9zaVl1RHlwV38tHlQuKw4dFmYXHDk3B30COwIpHw&amp;cks=OTc2ZjhiM2Y2N2MxODk0ZTI5YmJlNTc5MjJiOTI3MTk&amp;e=1.0" class="cw_navbar__primary-item js_wallet" pa-marked="1">Wallet</a></li>
+                                <li><a href="/myaccount/activities" data-name="activity" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;item_name&quot;:&quot;dw_nav&quot;,&quot;link_name&quot;:&quot;activity&quot;,&quot;default_tab&quot;:&quot;wallet&quot;,&quot;product&quot;:&quot;dw_nav&quot;,&quot;module&quot;:&quot;header&quot;,&quot;card_type&quot;:&quot;nav_header_activity&quot;,&quot;tile_id&quot;:&quot;nav_header_activity&quot;,&quot;scope&quot;:&quot;tile&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_nav_header_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_nav_header_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_nav_header_loaded&quot;}" data-cwt-ps-pr="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA1lX3NQZlJYX3ADVBoFRlRGHEVUW1thflJzZlhyT3p9Vn8tHlQ9NQILHXwcGDEpAQ&amp;cks=MjhlOTE3MTRlYWVmYWY1MmU5OTUwNzdiNmY3YzhkNTM&amp;e=1.0" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA1lX3NQZlJYX3ADVBoFRlRGHEVUW1thflJzZlhyT3p9Vn8tHlQuKw4bEw&amp;cks=ZmI1ZGIyY2ZmODk0YWYzMjcwMDBhODZmNjg4OGJiYmQ&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA1lX3NQZlJYX3ADVBoFRlRGHEVUW1thflJzZlhyT3p9Vn8tHlQuKw4dFmYXHDk3B30COwIpHw&amp;cks=YTcyM2JlYzk0OGEwN2RlMzdiMGI0YjRiYTkyMzE5NDA&amp;e=1.0" class="cw_navbar__primary-item js_activity" pa-marked="1">Aktivitas</a></li>
+                                <li><a href="/cshelp/personal" data-name="contextualHelp" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;item_name&quot;:&quot;dw_nav&quot;,&quot;card_type&quot;:&quot;nav_header_help&quot;,&quot;tile_id&quot;:&quot;nav_header_help&quot;,&quot;module&quot;:&quot;header&quot;,&quot;scope&quot;:&quot;tile&quot;,&quot;link_name&quot;:&quot;help&quot;,&quot;default_tab&quot;:&quot;help&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_nav_header_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_nav_header_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_nav_header_loaded&quot;}" data-cwt-ps-pr="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA1nXHlWYlBeVHYFXxoFRlRGHEVUW1tjfVh1Ylp0RHx7XX8tHlQ9NQILHXwcGDEpAQ&amp;cks=NDhjNWY5ZmI2M2U4N2YxZmJiMDA5MGJiZThhYWRmNWQ&amp;e=1.0" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA1nXHlWYlBeVHYFXxoFRlRGHEVUW1tjfVh1Ylp0RHx7XX8tHlQuKw4bEw&amp;cks=YmFiZGJhZTcyMWViNjE1ODAyMmQwOTgwYmJjMWVkYWE&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA1nXHlWYlBeVHYFXxoFRlRGHEVUW1tjfVh1Ylp0RHx7XX8tHlQuKw4dFmYXHDk3B30COwIpHw&amp;cks=NWQ2MWM5MGU3NjNlMTk3ZDM3OTgzMzk5Y2MyOTM5N2M&amp;e=1.0" class="cw_navbar__primary-item js_contextualHelp" pa-marked="1">Bantuan</a></li>
+                            </ul>
+                            <ul class="cw_navbar__secondary">
+                                <li class="vx_hidden-phone cw_notifications__wrap">
+                                    <a href="#" id="header-notifications" data-name="header-notifications" class="cw_dw2_notifications vx_isCritical js_notifications js_notificationDesktopBtn cw_popover-trigger" data-popover-autodisplay="false" data-popover-id="notifications-popover" data-popover-offset="15" data-pagename="main:notifications::toggle" data-popover-pagename-show="main:notifications:toggle" data-popover-pagename-hide="main:notifications:toggle" data-cwt-fpti-base="{&quot;page&quot;:&quot;main:walletweb:summary:main:notificationcenter&quot;,&quot;pgrp&quot;:&quot;main:walletweb:summary::main&quot;,&quot;vers&quot;:&quot;customer&quot;,&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;rsta&quot;:&quot;id_ID&quot;,&quot;ccpg&quot;:&quot;ID&quot;,&quot;cust&quot;:&quot;FDRA9TH2R2Z8J&quot;,&quot;lcid&quot;:&quot;f75527428eb60&quot;,&quot;msgcd&quot;:0}" data-cwt-fpti-cl="{&quot;pglk&quot;:&quot;main:walletweb:summary:main:notificationcenter|mobileBadgeClick&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main:notificationcenter|mobileBadgeClick&quot;,&quot;link&quot;:&quot;mobileBadgeClick&quot;,&quot;event_name&quot;:&quot;dw_webnav_notif_badge_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_webnav_notif_badge_shown&quot;}" pa-marked="1">
+                                        <span class="cw_navbar__secondary-item">
+                                            <span class="cw-icon__svg cw-icon__size_sm">
+                                                <div>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                                                        <path d="M19.25 16.37h-.05a.2.2 0 0 1-.2-.2v-5.55c0-3.17-2.11-5.85-5.01-6.71A2 2 0 0 0 12 2a2 2 0 0 0-1.99 1.91C7.11 4.77 5 7.45 5 10.62v5.55a.2.2 0 0 1-.2.2h-.05a.749.749 0 1 0 0 1.5h14.5a.749.749 0 1 0 0-1.5zm-4.9 3.15h-4.7c-.23 0-.37.25-.26.45A2.98 2.98 0 0 0 12 21.52c1.13 0 2.11-.63 2.61-1.55.11-.21-.03-.45-.26-.45z"></path>
+                                                    </svg>
+                                                </div>
+                                                <div class="css-geb0bj-screenReader" data-test-id="screenreader">Pemberitahuan</div>
+                                            </span>
+                                        </span>
+                                        <span style="display:none" id="notification-center-badge" data-test-id="badge-count" class="vx_notificationCount js_notificationCount">0</span><script>(function () { const elem = document.querySelector("#notification-center-badge");  const item = window.sessionStorage.getItem("PP_NC"); if (elem && item) { const parts = item.split(':'); const savedUserKey = parts[0]; const savedBadge = parts[1]; if (savedUserKey === "e5a5168c0538ef1e5a5eff85ece443f4c360dd6d0bf026a8cf3d7eb45dc9b4f1f2f442786b9c3c3107e2cf8f23f003afd87e9b3c9f399995b7252d30d289147f" && savedBadge !== '0') { elem.innerHTML = savedBadge; elem.style.display = ''; } } })();</script>
+                                        <div class="css-geb0bj-screenReader" data-test-id="screenreader">Pemberitahuan</div>
+                                    </a>
+                                    <div id="notifications-popover" data-test-id="cw-notifications" class="cw_popover-container cw_notifications-container" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;page&quot;:&quot;main:walletweb:notificationcenter::main&quot;,&quot;pgrp&quot;:&quot;main:walletweb:notificationcenter::main&quot;,&quot;vers&quot;:&quot;customer&quot;,&quot;pgtf&quot;:&quot;Nodejs&quot;,&quot;rsta&quot;:&quot;id_ID&quot;,&quot;ccpg&quot;:&quot;ID&quot;,&quot;cust&quot;:&quot;FDRA9TH2R2Z8J&quot;,&quot;lcid&quot;:&quot;f75527428eb60&quot;,&quot;domain_type&quot;:&quot;NOTIFICATION_CENTER&quot;,&quot;card_type&quot;:&quot; &quot;,&quot;card_id&quot;:&quot; &quot;,&quot;COORD_X&quot;:&quot; &quot;}" data-cwt-load-off="true" data-cwt-im-event="CWNotificationsPopover" data-client-side-notifications="true">
+                                        <div id="cw_tab-list" class="cw_tab-list"><button id="cw_tab-notifications" data-panel="cw_panel-notifications" class="cw_tab cw_tab_notifications cw_tab_selected" data-pagename="main:notifications:toggleNotifs" pa-marked="1">Pemberitahuan(<span id="notificationCount">0</span>)</button><button id="cw_tab-messages" data-panel="cw_panel-messages" class="cw_tab cw_tab_messages" data-pagename="main:notifications:toggleSMC" pa-marked="1">Kotak masuk (<span id="messageCount">0</span>)</button></div>
+                                        <div class="cw_tab-list-shadow"></div>
+                                        <div class="cw_popover-body" data-cwt-im-viewport="true">
+                                            <div class="cw_panel_new cw_panel_notifications cw_panel_selected" id="cw_panel-notifications">
+                                                <div class="cw_empty_state_panel">
+                                                    <img alt="" class="cw_empty_state_tile" src="https://www.paypalobjects.com/nc/ui-web/zeronotifications.png">
+                                                    <div class="cw_empty_state_subheader">Semua Selesai Untuk Saat Ini</div>
+                                                    <div class="cw_empty_state_description">Kunjungi kembali halaman ini untuk mendapatkan saran dan rekomendasi praktis untuk menjaga rekening Anda dalam kondisi prima.</div>
+                                                </div>
+                                            </div>
+                                            <ul class="cw_panel_new cw_panel_messages" id="cw_panel-messages">
+                                                <li class="cw_notification cw_message_tab">
+                                                    <div class="cw_notification-subheader">Pesan</div>
+                                                    <div class="cw_notification-description">Anda tidak memiliki pesan baru.</div>
+                                                    <a href="/smc/async/" class="cw_notification-link" pa-marked="1">Lihat Pesan</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a href="/myaccount/profile" class="cw_navbar__secondary-item cw_navbar_settings" id="header-settings" name="header-settings" data-name="header-settings" data-pagename="main:header" data-cwt-fpti-base="{&quot;page&quot;:&quot;main:walletweb:summary:main:header&quot;,&quot;pgrp&quot;:&quot;main:walletweb:summary::main&quot;,&quot;vers&quot;:&quot;customer&quot;,&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;}" data-cwt-fpti-cl="{&quot;pglk&quot;:&quot;main:walletweb:summary:main:header|header-settings&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main:header|header-settings&quot;,&quot;link&quot;:&quot;header-settings&quot;,&quot;event_name&quot;:&quot;dw_webnav_header_settings_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_webnav_header_settings_shown&quot;}" pa-marked="1">
+                                        <span class="cw-icon__svg cw-icon__size_sm">
+                                            <div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                                                    <path d="M19.722 10.2a.378.378 0 0 1-.369-.279 7.39 7.39 0 0 0-.684-1.647.378.378 0 0 1 .054-.45 1.271 1.271 0 0 0 0-1.809l-.729-.729a1.271 1.271 0 0 0-1.809 0 .367.367 0 0 1-.45.054 7.642 7.642 0 0 0-1.656-.684.394.394 0 0 1-.279-.369C13.8 3.576 13.224 3 12.513 3h-1.035c-.702 0-1.278.576-1.278 1.287a.375.375 0 0 1-.279.36 7.642 7.642 0 0 0-1.656.684.378.378 0 0 1-.45-.054 1.271 1.271 0 0 0-1.809 0l-.738.729a1.271 1.271 0 0 0 0 1.809.367.367 0 0 1 .054.45 8.305 8.305 0 0 0-.675 1.656.375.375 0 0 1-.36.279h-.009C3.576 10.2 3 10.776 3 11.478v1.044c0 .711.576 1.278 1.278 1.278h.009c.171 0 .315.117.36.279a7.39 7.39 0 0 0 .684 1.647.378.378 0 0 1-.054.45 1.271 1.271 0 0 0 0 1.809l.729.729a1.271 1.271 0 0 0 1.809 0 .367.367 0 0 1 .45-.054 7.57 7.57 0 0 0 1.647.684.392.392 0 0 1 .288.369v.009c0 .702.567 1.278 1.278 1.278h1.044c.702 0 1.278-.576 1.278-1.278 0-.171.117-.315.279-.36a7.39 7.39 0 0 0 1.647-.684.378.378 0 0 1 .45.054 1.271 1.271 0 0 0 1.809 0l.729-.729a1.271 1.271 0 0 0 0-1.809.367.367 0 0 1-.054-.45 7.57 7.57 0 0 0 .684-1.647.375.375 0 0 1 .36-.279h.009c.702 0 1.278-.576 1.278-1.278v-1.062a1.27 1.27 0 0 0-1.269-1.278zM12 15.15A3.153 3.153 0 0 1 8.85 12 3.153 3.153 0 0 1 12 8.85 3.153 3.153 0 0 1 15.15 12 3.153 3.153 0 0 1 12 15.15z"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="css-geb0bj-screenReader" data-test-id="screenreader">Pengaturan</div>
+                                        </span>
+                                    </a>
+                                </li>
+                                <li><a class="cw_navbar__secondary-item cw_navbar__secondary-item--text cw_navbar_logout" href="/signout" id="header-logout" name="header-logout" data-name="header-logout" data-cwt-fpti-base="{&quot;page&quot;:&quot;main:walletweb:summary:main:header&quot;,&quot;pgrp&quot;:&quot;main:walletweb:summary::main&quot;,&quot;vers&quot;:&quot;customer&quot;,&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;}" data-cwt-fpti-cl="{&quot;pglk&quot;:&quot;main:walletweb:summary:main:header|header-logout&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main:header|header-logout&quot;,&quot;link&quot;:&quot;header-logout&quot;,&quot;event_name&quot;:&quot;dw_webnav_header_logout_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_webnav_header_logout_shown&quot;}" data-pagename="main:header" pa-marked="1">Log Out</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="vx_foreground-container foreground-container foreground-container-sticky cw-foreground-container--repaint">
+            <div>
+                <div class="cw_navbar_mobile" data-test-id="cw-mweb-header" data-version="" data-source="personalization" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;page&quot;:&quot;main:walletweb:navigation::main&quot;,&quot;pgrp&quot;:&quot;main:walletweb:navigation::main&quot;,&quot;cust&quot;:&quot;FDRA9TH2R2Z8J&quot;}">
+                    <ul>
+                        <li>
+                            <button id="toggleNavigationButton" pa-marked="1">
+                                <span class="cw_navbar_mobile__open_icon" data-name="drawer_menu" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;item_name&quot;:&quot;dw_nav&quot;,&quot;link_name&quot;:&quot;menu&quot;,&quot;default_tab&quot;:&quot;dashboard&quot;,&quot;module&quot;:&quot;header&quot;,&quot;card_type&quot;:&quot;nav_header_menu&quot;,&quot;tile_id&quot;:&quot;nav_header_menu&quot;,&quot;scope&quot;:&quot;tile&quot;,&quot;product&quot;:&quot;dw_nav&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_nav_header_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_nav_header_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_nav_header_loaded&quot;}" data-cwt-ps-pr="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA5jXXJXYlFeUHYBWhoFRlRGHEVUW1hnfFN0Ylt0QHx.WH8tHlQ9NQILHXwcGDEpAQ&amp;cks=NzgyNGMyYjU3Mjk5ZjA0ODUwZWMwNzRhZGM2YjdhNGM&amp;e=1.0" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA5jXXJXYlFeUHYBWhoFRlRGHEVUW1hnfFN0Ylt0QHx.WH8tHlQuKw4bEw&amp;cks=MGFmOTI1NjU5YjFmMjkwNWYwMzM0ZWE1ZGE4NzVmYzA&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA5jXXJXYlFeUHYBWhoFRlRGHEVUW1hnfFN0Ylt0QHx.WH8tHlQuKw4dFmYXHDk3B30COwIpHw&amp;cks=NjNhNzEzZmI2ZDNiOThlNjEyZDYzYTYzNjg1NWI3MmQ&amp;e=1.0">
+                                    <span class="cw-icon__svg cw-icon__size_sm">
+                                        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
+                                            <path fill-rule="evenodd" d="M3 7a1.5 1.5 0 011.5-1.5h15a1.5 1.5 0 010 3h-15A1.5 1.5 0 013 7zm0 5a1.5 1.5 0 011.5-1.5h15a1.5 1.5 0 010 3h-15A1.5 1.5 0 013 12zm1.5 3.5a1.5 1.5 0 000 3h15a1.5 1.5 0 000-3h-15z" clip-rule="evenodd"></path>
+                                        </svg>
+                                    </span>
+                                    <div class="css-geb0bj-screenReader" data-test-id="screenreader">Menu</div>
+                                </span>
+                                <span class="cw_navbar_mobile__close_icon" data-name="drawer_close" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;item_name&quot;:&quot;dw_nav&quot;,&quot;link_name&quot;:&quot;close&quot;,&quot;default_tab&quot;:&quot;dashboard&quot;,&quot;module&quot;:&quot;header&quot;,&quot;card_type&quot;:&quot;nav_header_close&quot;,&quot;tile_id&quot;:&quot;nav_header_close&quot;,&quot;scope&quot;:&quot;tile&quot;,&quot;product&quot;:&quot;dw_nav&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_nav_header_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_nav_header_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_nav_header_loaded&quot;}" data-cwt-ps-pr="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA5gWXhWZlZaV3ACXRoFRlRGHEVUW1hkeFl1ZlxwR3p8X38tHlQ9NQILHXwcGDEpAQ&amp;cks=ZTM1NmU0NDNlNGVjOTdmMGMwOTA2NGUwY2U3NzkxZDQ&amp;e=1.0" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA5gWXhWZlZaV3ACXRoFRlRGHEVUW1hkeFl1ZlxwR3p8X38tHlQuKw4bEw&amp;cks=NTI5N2E3OGZlZjc0NjM2ZTk1ODNkOTViYzRmYmE4YWY&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA5gWXhWZlZaV3ACXRoFRlRGHEVUW1hkeFl1ZlxwR3p8X38tHlQuKw4dFmYXHDk3B30COwIpHw&amp;cks=OWNmOTU5Yzk3NzI5MTJjYWUyYTE2YWE3NDczYjljYmM&amp;e=1.0">
+                                    <span class="cw-icon__svg cw-icon__size_sm">
+                                        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
+                                            <path fillrule="evenodd" d="M6.709 6.707a1 1 0 0 1 1.414 0l9.9 9.9a1 1 0 0 1-1.415 1.414l-9.9-9.9a1 1 0 0 1 0-1.414z" cliprule="evenodd"></path>
+                                            <path fillrule="evenodd" d="M18.021 6.707a1 1 0 0 1 0 1.414l-9.9 9.9a1 1 0 0 1-1.413-1.415l9.9-9.899a1 1 0 0 1 1.413 0z" cliprule="evenodd"></path>
+                                        </svg>
+                                    </span>
+                                    <div class="css-geb0bj-screenReader" data-test-id="screenreader">Tutup</div>
+                                </span>
+                            </button>
+                        </li>
+                        <li><a href="/myaccount/summary" id="header-ppLogo_mobile" name="header-ppLogo_mobile" data-name="header-ppLogo_mobile" data-pagename="" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;page&quot;:&quot;main:walletweb:navigation::main&quot;,&quot;pgrp&quot;:&quot;main:walletweb:navigation::main&quot;,&quot;cust&quot;:&quot;FDRA9TH2R2Z8J&quot;}" data-cwt-fpti-cl="{&quot;pglk&quot;:&quot;main:walletweb:summary:main:header|header-ppLogo_mobile&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main:header|header-ppLogo_mobile&quot;,&quot;link&quot;:&quot;header-ppLogo_mobile&quot;,&quot;event_name&quot;:&quot;dw_webnav_header_logo_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_webnav_header_logo_shown&quot;}" pa-marked="1"><span class="cw-icon__svg cw-icon__size_md"><img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-mark-monotone-transparent.svg" alt="Panel Kontrol" data-test-id="logo-icon" id="logo-icon"></span></a></li>
+                        <li>
+                            <ul class="cw_navbar_mobile__secondary_items">
+                                <li>
+                                    <ul class="">
+                                        <li class="vx_globalNav-actionItem_mobileglobalNav_notificationItem vx_globalNav-notificationItem_mobile">
+                                            <a class="cw_dw2_notifications notifications_mobile vx_isCritical js_notificationDesktopBtn cw_notifications-mobile-trigger" id="header-openNotifications" role="button" title="Pemberitahuan" data-popover-autodisplay="false" data-modal-id="notifications-mobile" tabindex="0" data-cwt-fpti-base="{&quot;page&quot;:&quot;main:walletweb:summary:main:notificationcenter&quot;,&quot;pgrp&quot;:&quot;main:walletweb:summary::main&quot;,&quot;vers&quot;:&quot;customer&quot;,&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;rsta&quot;:&quot;id_ID&quot;,&quot;ccpg&quot;:&quot;ID&quot;,&quot;cust&quot;:&quot;FDRA9TH2R2Z8J&quot;,&quot;lcid&quot;:&quot;f75527428eb60&quot;,&quot;msgcd&quot;:0}" data-cwt-fpti-cl="{&quot;pglk&quot;:&quot;main:walletweb:summary:main:notificationcenter|mobileBadgeClick&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main:notificationcenter|mobileBadgeClick&quot;,&quot;link&quot;:&quot;mobileBadgeClick&quot;,&quot;event_name&quot;:&quot;dw_webnav_notif_badge_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_webnav_notif_badge_shown&quot;}" pa-marked="1">
+                                                <span class="cw-icon__svg cw-icon__size_sm">
+                                                    <div>
+                                                        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                                                            <path d="M19.25 16.37h-.05a.2.2 0 0 1-.2-.2v-5.55c0-3.17-2.11-5.85-5.01-6.71A2 2 0 0 0 12 2a2 2 0 0 0-1.99 1.91C7.11 4.77 5 7.45 5 10.62v5.55a.2.2 0 0 1-.2.2h-.05a.749.749 0 1 0 0 1.5h14.5a.749.749 0 1 0 0-1.5zm-4.9 3.15h-4.7c-.23 0-.37.25-.26.45A2.98 2.98 0 0 0 12 21.52c1.13 0 2.11-.63 2.61-1.55.11-.21-.03-.45-.26-.45z"></path>
+                                                        </svg>
+                                                    </div>
+                                                </span>
+                                                <span style="display:none" id="notification-center-mobile-badge" data-test-id="badge-count" class="vx_notificationCount js_notificationCount">0</span><script>(function () { const elem = document.querySelector("#notification-center-mobile-badge");  const item = window.sessionStorage.getItem("PP_NC"); if (elem && item) { const parts = item.split(':'); const savedUserKey = parts[0]; const savedBadge = parts[1]; if (savedUserKey === "e5a5168c0538ef1e5a5eff85ece443f4c360dd6d0bf026a8cf3d7eb45dc9b4f1f2f442786b9c3c3107e2cf8f23f003afd87e9b3c9f399995b7252d30d289147f" && savedBadge !== '0') { elem.innerHTML = savedBadge; elem.style.display = ''; } } })();</script>
+                                                <div class="css-geb0bj-screenReader" data-test-id="screenreader">Pemberitahuan</div>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                    <div class="vx_modal-flow" id="notifications-mobile" data-test-id="cw-mweb-notifications">
+                                        <div class="vx_modal-wrapper cw_notifications-modal-wrapper">
+                                            <div class="vx_modal-content cw_notifications-mobile-content">
+                                                <div id="notifications-mobile-popover" class="cw_notifications-mobile-container" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;page&quot;:&quot;main:walletweb:notificationcenter::main&quot;,&quot;pgrp&quot;:&quot;main:walletweb:notificationcenter::main&quot;,&quot;vers&quot;:&quot;customer&quot;,&quot;pgtf&quot;:&quot;Nodejs&quot;,&quot;rsta&quot;:&quot;id_ID&quot;,&quot;ccpg&quot;:&quot;ID&quot;,&quot;cust&quot;:&quot;FDRA9TH2R2Z8J&quot;,&quot;lcid&quot;:&quot;f75527428eb60&quot;,&quot;domain_type&quot;:&quot;NOTIFICATION_CENTER&quot;,&quot;card_type&quot;:&quot; &quot;,&quot;card_id&quot;:&quot; &quot;,&quot;COORD_X&quot;:&quot; &quot;}" data-cwt-load-off="true" data-cwt-im-event="CWNotificationsPopover" data-client-side-notifications="true">
+                                                    <header class="vx_modal-header cw_notifications-mobile-content-header">
+                                                        <span class="vx_modal-dismiss_trigger" id="dismiss-notifications-modal__icon" data-test-id="dismiss-notifications-mobile" data-modal-id="notifications-mobile" data-cwt-fpti-base="{&quot;page&quot;:&quot;main:walletweb:summary:main:notificationcenter&quot;,&quot;pgrp&quot;:&quot;main:walletweb:summary::main&quot;,&quot;vers&quot;:&quot;customer&quot;,&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;}" data-cwt-fpti-cl="{&quot;pglk&quot;:&quot;main:walletweb:summary:main:notificationcenter|dismiss-notifications-mobile&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main:notificationcenter|dismiss-notifications-mobile&quot;,&quot;link&quot;:&quot;dismiss-notifications-mobile&quot;,&quot;event_name&quot;:&quot;dw_webnav_notif_dismiss_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_webnav_notif_dismiss_shown&quot;}">
+                                                            <div>
+                                                                <svg class="close-icon" width="24" height="24" viewBox="0 0 97.998 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-id="cw_notifications-mobile-dismiss" data-test-id="cw_notifications-mobile-dismiss">
+                                                                    <path stroke="#2C2E2F" fill="#2C2E2F" d="m82.91 99.121q2.8e-14 0.87891-0.53711 1.416-0.53711 0.53711-1.416 0.53711-0.87891 0-1.4648-0.58594l-30.469-30.469c-7.6538 7.6416-22.961 22.925-30.615 30.566q-0.53711 0.58594-1.416 0.58594t-1.416-0.58594q-1.416-1.416 0-2.7832c10.173-10.205 22.888-22.961 30.518-30.615-7.6294-7.6172-22.888-22.852-30.518-30.469q-1.416-1.5137 0-2.8809 1.416-1.3672 2.9297-0.048829c10.173 10.205 22.888 22.961 30.518 30.615 7.6416-7.6538 22.925-22.961 30.566-30.615q0.48828-0.58594 1.3672-0.58594t1.4648 0.58594q1.416 1.416 0 2.832c-10.205 10.189-22.961 22.925-30.615 30.566 7.6294 7.6294 22.888 22.888 30.518 30.518q0.58594 0.53711 0.58594 1.416z" stroke-width="0px"></path>
+                                                                </svg>
+                                                            </div>
+                                                            <div class="css-geb0bj-screenReader" data-test-id="screenreader">Tutup</div>
+                                                        </span>
+                                                        <img alt="" class="notifications-icon" src="https://www.paypalobjects.com/ui-web/icons/1-0-0/notifications.svg" width="32px" height="32px" aria-hidden="true" data-test-id="notifications-icon" style="pointer-events: none;">
+                                                        <div id="cw_tab-list" class="cw_tab-list"><button id="cw_tab-notifications" data-panel="cw_panel-notifications" class="cw_tab cw_tab_notifications cw_tab_selected" data-pagename="main:notifications:toggleNotifs" pa-marked="1">Pemberitahuan(<span id="notificationCount">0</span>)</button><button id="cw_tab-messages" data-panel="cw_panel-messages" class="cw_tab cw_tab_messages" data-pagename="main:notifications:toggleSMC" pa-marked="1">Kotak masuk (<span id="messageCount">0</span>)</button></div>
+                                                        <div class="cw_tab-list-shadow" style="display: none;"></div>
+                                                    </header>
+                                                    <div class="cw_popover-body" data-cwt-im-viewport="true">
+                                                        <div class="cw_panel_new cw_panel_notifications cw_panel_selected" id="cw_panel-notifications">
+                                                            <div class="cw_empty_state_panel">
+                                                                <img alt="" class="cw_empty_state_tile" src="https://www.paypalobjects.com/nc/ui-web/zeronotifications.png">
+                                                                <div class="cw_empty_state_subheader">Semua Selesai Untuk Saat Ini</div>
+                                                                <div class="cw_empty_state_description">Kunjungi kembali halaman ini untuk mendapatkan saran dan rekomendasi praktis untuk menjaga rekening Anda dalam kondisi prima.</div>
+                                                            </div>
+                                                        </div>
+                                                        <ul class="cw_panel_new cw_panel_messages" id="cw_panel-messages">
+                                                            <li class="cw_notification cw_message_tab">
+                                                                <div class="cw_notification-subheader">Pesan</div>
+                                                                <div class="cw_notification-description">Anda tidak memiliki pesan baru.</div>
+                                                                <a href="/smc/async/" class="cw_notification-link" pa-marked="1">Lihat Pesan</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <section class="cw_mainContent contents cw_mainContent--wide" id="contents" role="main">
+                <div class="css-geb0bj-screenReader">PayPal: Ringkasan</div>
+                <div class="NIIMzrMZazBmMBgMErLA css-1djyuxb-container_fluid" data-ppui-info="grid_3.3.6__7.46.3" aria-label="PayPal: Ringkasan">
+                    <div class="QeSExxIJl0i94aTq1AfN css-s8u2ug-row" data-ppui-info="grid_3.3.6__7.46.3">
+                        <div class="vgXitBjua5Q65lRe91zw css-15krczt-col_sm_12-col_md_7" id="A" data-ppui="true">
+                            <div class="css-geb0bj-screenReader" data-test-id="screenreader">Produk</div>
+                            <div class="dJwtnGeI36Z8mPzXMba5" data-test-id="column_content">
+                                <div id="widgetContainer__account_setup" data-test-id="widget-container-account_setup" class="TuJ3jOBFs2ZcXUjGuExY">
+                                    <script type="application/json" id="reactContainer__account_setup_props">{"tile":{"title":{"text":"Atur rekening Anda","color":{},"background":{"color":{}}},"subTitle":{"text":"Tinggal satu langkah terakhir!","color":{},"background":{"color":{}}},"trackingDetails":{"clickUrl":"https:\u002F\u002Fwww.paypal.com\u002Fwebapps\u002Fmch\u002Fcmd\u002F?v=3.0&t=1759291475&fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFlxQHp-XmB6U19UXn9tbgppdFdGdFcnAS9HcCRJR3QFVVVIQlpAGkxdXFxtflx1ZVZjV2poTjYhDkhMJ2Z5bwBwZkVVYghmUXtQY1xfUHMDVUdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwJrGDkJNw0EA3kNDgkUAAEVWRwCBFRvPQMpNE9jVWhoHzUhDkhMJ2Z5KEAnMx0LMGcyByYWPQEcDyxZMhIQHAgvWRoYCQYlJgMrJU9jVWhoDDEpS0gtRmYXFmEBATFGdBtwSSgHIUVJJmIWXUdYU0xRSBsJDhp0aCpkcF5jV2poTjopAw1MRgd5eQV6bUdWZw5oWHhfYlJaVnIHVF9YUU5RDAEdBgcxaEsFcE91R3h-X2twWVFfU3dubQV5Zk1fdBlySWoQcEUoR2IEQ1ZYUU5RDAEeS08VaEt0Zlt7RHB4W259S0hORmYxNkY-MCsOMRlwKGpHZlZQVHsEW1NOSVVDFUxeW1dhcEtkck9jHyc9GTwXCQYJAmZ5GBNpNAcdCl0.DyoBNAkNCDdoBAgQBAQRWRwbD090aktkPB0lKSI5BnhpKkhMKQgMB3MYBTguFnkTJA5HcEdJRyJUGQ8WHjIZSVRMKk90flh9Y1ZzQ315X29.XV9dVn5pbxNpdlVGNFslASQIDgcHAiYWTCZYUQwDVyoIBAk0Lg8oNAA2KSgqGzAnBEhMRGZ5MVw8MAY4Jl0gNzkDIgEcR2J3TEcfEQEDSFRMSU90IAQxMA02BSw4TngIS0hdSXd5eRFpdBcIIFYlGjJHcCRJRwpzTEdaUUwFXhAJNQstPQ83Pw8uGjBoThlpSw8MCzQ9eRNrdFUuBmcSJAIlGjAgNBYWTCZYUQsRQQYIS092aEs1IwsxEycoGzAnBDYZHjc9eRMIdFVQZAlmWHlRaVJfX3UOXVJIQFxADFROS08hLhgsNU9jNmhoWGh.U1BUVHJsagp9ZURfZwxiWGpHckVJCyhDChQcAQQUDFQtS09gL15zMwh0RygrWWl8WgsLBiVqalcpbRdeYg4wXnJQNUVJRWIWAA0NFx8VSxwJS08VaEtwN1p0FC9.XjgqXFlZVyU-OVB6ZxEGbVtoX30HZ11eAmIWTkdYBh4ERBFMSy50aF8jZVggEH94Djt-Wl1dBSE5OgB6MBVfNgFmXipQaFIMR2IUTEcLEQMbDFQtS09kaEtmcE8xAysWDDEmS0gtRmYXFmEBATFGdBtwSS4QNAocOS1WAANYUS1RDAUIGB06JwspOBQjAiAmAQYnBBoEEyJ5eRFpdAEUMEoODz4PNUVJJmIWX19OFVsSS0ZcU1dlKF18YV5yRX8qXG54DA9bX3M9OgNpdFdGdE0iDTk5IgEbFSpYAzkeBQQUDFQtS09sLVwnZFx3RHhwVm57XFBaV3RpbQF9ZEQBM143Di0ANEVJRWIWGxUNGQlRDDVMS1cxfwhwY1twR3BwWGp-U15dVHZtawd5ZRIBM143Di0DcEVLR2JBHhILGQlRDDVMS1xsfg9zMwhxR3BwXzh.U1ldV3RuOwF.ZRIBYwBlDSlXcEVLR2JFCAAQFExRbVRMXVxtelt3Zl51T3l.XWF.XFlZX2Z5exNpMAwXPEooNz8VcEUoR2IGWlNAQlRCHkJYS092aEsgJU9jNmhoLBUBKSI&cks=Yzc1ZmViMGUwMjliZDAwZTBiM2Y0NTIxNzhmMzI0ZmY&e=1.0","impressionUrl":"https:\u002F\u002Fwww.paypal.com\u002Fwebapps\u002Fmch\u002Fcmd\u002F?v=3.0&t=1759291475&fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFlxQHp-XmB6U19UXn9tbgppdFdGdFcnAS9HcCRJR3QFVVVIQlpAGkxdXFxtflx1ZVZjV2poTjYhDkhMJ2Z5bwBwZkVVYghmUXtQY1xfUHMDVUdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwJrGDkJNw0EA3kNDgkUAAEVWRwCBFRvPQMpNE9jVWhoHzUhDkhMJ2Z5KEAnMx0LMGcyByYWPQEcDyxZMhIQHAgvWRoYCQYlJgMrJU9jVWhoDDEpS0gtRmYXFmEBATFGdBtwSSgHIUVJJmIWXUdYU0xRSBsJDhp0aCpkcF5jV2poTjopAw1MRgd5eQV6bUdWZw5oWHhfYlJaVnIHVF9YUU5RDAEdBgcxaEsFcE91R3h-X2twWVFfU3dubQV5Zk1fdBlySWoQcEUoR2IEQ1ZYUU5RDAEeS08VaEt0Zlt7RHB4W259S0hORmYxNkY-MCsOMRlwKGpHZlZQVHsEW1NOSVVDFUxeW1dhcEtkck9jHyc9GTwXCQYJAmZ5GBNpNAcdCl0.DyoBNAkNCDdoBAgQBAQRWRwbD090aktkPB0lKSI5BnhpKkhMKQgMB3MYBTguFnkTJA5HcEdJRyJUGQ8WHjIZSVRMKk90flh9Y1ZzQ315X29.XV9dVn5pbxNpdlVGNFslASQIDgcHAiYWTCZYUQwDVyoIBAk0Lg8oNAA2KSgqGzAnBEhMRGZ5MVw8MAY4Jl0gNzkDIgEcR2J3TEcfEQEDSFRMSU90IAQxMA02BSw4TngIS0hdSXd5eRFpdBcIIFYlGjJHcCRJRwpzTEdaUUwFXhAJNQstPQ83Pw8uGjBoThlpSw8MCzQ9eRNrdFUuBmcSJAIlGjAgNBYWTCZYUQsRQQYIS092aEs1IwsxEycoGzAnBDYZHjc9eRMIdFVQZAlmWHlRaVJfX3UOXVJIQFxADFROS08hLhgsNU9jNmhoWGh.U1BUVHJsagp9ZURfZwxiWGpHckVJCyhDChQcAQQUDFQtS09gL15zMwh0RygrWWl8WgsLBiVqalcpbRdeYg4wXnJQNUVJRWIWAA0NFx8VSxwJS08VaEtwN1p0FC9.XjgqXFlZVyU-OVB6ZxEGbVtoX30HZ11eAmIWTkdYBh4ERBFMSy50aF8jZVggEH94Djt-Wl1dBSE5OgB6MBVfNgFmXipQaFIMR2IUTEcLEQMbDFQtS09kaEtmcE8xAysWDDEmS0gtRmYXFmEBATFGdBtwSS4QNAocOS1WAANYUS1RDAUIGB06JwspOBQjAiAmAQYnBBoEEyJ5eRFpdAEUMEoODz4PNUVJJmIWX19OFVsSS0ZcU1dlKF18YV5yRX8qXG54DA9bX3M9OgNpdFdGdE0iDTk5IgEbFSpYAzkeBQQUDFQtS09sLVwnZFx3RHhwVm57XFBaV3RpbQF9ZEQBM143Di0ANEVJRWIWGxUNGQlRDDVMS1cxfwhwY1twR3BwWGp-U15dVHZtawd5ZRIBM143Di0DcEVLR2JBHhILGQlRDDVMS1xsfg9zMwhxR3BwXzh.U1ldV3RuOwF.ZRIBYwBlDSlXcEVLR2JFCAAQFExRbVRMXVxtelt3Zl51T3l.XWF.XFlZX2Z5exNpMAwXPEooNz8VcEUoR2IGWlNAQlRCHkJYS092aEsgJU9jNmhoLBUBLyc5OA4VCGANBicuGnY&cks=NmRjZWMwOTQ3ZjFhOWE5YzBmZjdkMzkwYjNmZmNlY2I&e=1.0"}},"halfSheet":{"header":{"color":{},"background":{"color":{}},"title":{"text":"Selesaikan pengaturan rekening","color":{},"background":{"color":{}}},"subTitle":{"text":"5 dari 5 selesai","color":{},"background":{"color":{}}},"decoration":{"color":{},"background":{"color":{"type":"PPUI_V2_TOKEN","value":"ppuiV2ColorBlue600"}},"figures":[{"id":"STARS_1","color":{},"background":{"color":{}},"type":"CDNX","source":"account-setup\u002Fstars-1.svg"},{"id":"SPARKLE_1","color":{},"background":{"color":{}},"type":"SELF_HOSTED_FILE","source":"paypal-ui\u002Fillustrations\u002Ffocused\u002Fsvg\u002Fsparkle-1.svg"}]}},"body":{"color":{},"background":{"color":{}},"description":{"text":"Memudahkan Anda untuk membayar, menerima pembayaran, dan berbelanja dengan rekening Anda.","color":{},"background":{"color":{}}}},"error":{"color":{},"background":{"color":{}},"title":{"text":"Tampaknya terjadi kesalahan","color":{},"background":{"color":{}}},"description":{"text":"Hal seperti ini kadang terjadi — dengan mencoba lagi dapat membantu memperbaiki masalah tersebut.","color":{},"background":{"color":{}}},"button":{"text":"Segarkan","color":{},"background":{"color":{}},"action":{"type":"REFRESH_PAGE","_serverCache":{}}},"figure":{"color":{"type":"PPUI_V2_TOKEN","value":"ppuiV2ColorYellow400"},"background":{"color":{}},"type":"CDNX","source":"paypal-ui\u002Ficons\u002Fsvg\u002Fv2-warning.svg"}},"completion":{"color":{},"background":{"color":{"type":"PPUI_V2_TOKEN","value":"ppuiV2ColorBlue700"}},"title":{"text":"Terima kasih!","color":{"type":"HEX","value":"#FFFFFF"},"background":{"color":{}}},"description":{"text":"Sekarang Anda dapat melakukan lebih banyak hal dengan rekening Anda.","color":{"type":"HEX","value":"#FFFFFF"},"background":{"color":{}}},"figures":[{"id":"MAIN_FIGURE","color":{},"background":{"color":{}},"type":"CDNX","source":"account-setup\u002Frocket.svg"},{"id":"SIDE_FIGURE_1","color":{},"background":{"color":{}},"type":"CDNX","source":"paypal-ui\u002Fillustrations\u002Ffocused\u002Fsvg\u002Fsatellite.svg"},{"id":"SIDE_FIGURE_2","color":{},"background":{"color":{}},"type":"CDNX","source":"paypal-ui\u002Fillustrations\u002Ffocused\u002Fsvg\u002Fcoin-planet.svg"},{"id":"PARTICLE_FIGURE_1","color":{},"background":{"color":{}},"type":"CDNX","source":"account-setup\u002Fstar-small-yellow.svg"},{"id":"PARTICLE_FIGURE_2","color":{},"background":{"color":{}},"type":"CDNX","source":"account-setup\u002Fstar-big-purple.svg"},{"id":"PARTICLE_FIGURE_3","color":{},"background":{"color":{}},"type":"CDNX","source":"account-setup\u002Fstar-small-yellow.svg"},{"id":"PARTICLE_FIGURE_4","color":{},"background":{"color":{}},"type":"CDNX","source":"account-setup\u002Fstar-small-purple.svg"},{"id":"PARTICLE_FIGURE_5","color":{},"background":{"color":{}},"type":"CDNX","source":"account-setup\u002Fstar-big-yellow.svg"},{"id":"PARTICLE_FIGURE_6","color":{},"background":{"color":{}},"type":"CDNX","source":"account-setup\u002Fstar-medium-blue.svg"},{"id":"PARTICLE_FIGURE_7","color":{},"background":{"color":{}},"type":"CDNX","source":"account-setup\u002Fstar-small-blue.svg"},{"id":"PARTICLE_FIGURE_8","color":{},"background":{"color":{}},"type":"CDNX","source":"account-setup\u002Fstar-small-purple.svg"},{"id":"PARTICLE_FIGURE_9","color":{},"background":{"color":{}},"type":"CDNX","source":"account-setup\u002Fstar-big-blue.svg"}]}},"tasks":[{"id":"EMAIL_CONFIRM","color":{},"background":{"color":{}},"title":{"text":"Email terkonfirmasi","color":{},"background":{"color":{}}},"description":{"text":"Konfirmasikan email untuk mulai menerima pembayaran.","color":{"type":"HEX","value":"#515354"},"background":{"color":{}}},"action":{"type":"FLOW","data":{"url":"\u002Fmyaccount\u002Fsummary\u002Fconfirm\u002Femail","returnUrl":"\u002Fmyaccount\u002Fsummary\u002F","cancelUrl":"\u002Fmyaccount\u002Fsummary\u002F","qs":"?profileCompletionInProgress=true","version":"v2"},"_serverCache":{"flowUrl":"\u002Fmyaccount\u002Fsummary\u002Fconfirm\u002Femail?flow=eyJyZXR1cm5VcmwiOiIvbXlhY2NvdW50L3N1bW1hcnkvP3Byb2ZpbGVDb21wbGV0aW9uSW5Qcm9ncmVzcz10cnVlIiwiY2FuY2VsVXJsIjoiL215YWNjb3VudC9zdW1tYXJ5Lz9wcm9maWxlQ29tcGxldGlvbkluUHJvZ3Jlc3M9dHJ1ZSJ9"}},"figure":{"id":"EMAIL_CONFIRM_FIGURE","color":{},"background":{"color":{"type":"HEX","value":"#f7f5f0"}},"type":"URL","source":"https:\u002F\u002Fwww.paypalobjects.com\u002Fpaypal-ui\u002Fspots\u002Fsvg\u002Femail.svg"},"completed":{"color":{},"background":{"color":{}},"figure":{"color":{"type":"HEX","value":"#38af88"},"background":{"color":{}},"type":"CDNX","source":"paypal-ui\u002Ficons\u002Fsvg\u002Fv2-checkmark-background.svg"}},"status":"COMPLETED"},{"id":"ADD_BANK","color":{},"background":{"color":{}},"title":{"text":"Bank ditambahkan","color":{},"background":{"color":{}}},"description":{"text":"Tambahkan dana ke rekening PayPal Anda dengan mudah.","color":{"type":"HEX","value":"#515354"},"background":{"color":{}}},"action":{"type":"FLOW","data":{"url":"\u002Fmyaccount\u002Fmoney\u002Fflow\u002Fbanks\u002Fnew","returnUrl":"\u002Fmyaccount\u002Fsummary\u002F","cancelUrl":"\u002Fmyaccount\u002Fsummary\u002F","qs":"?profileCompletionInProgress=true","version":"v2"},"_serverCache":{"flowUrl":"\u002Fmyaccount\u002Fmoney\u002Fflow\u002Fbanks\u002Fnew?flow=eyJyZXR1cm5VcmwiOiIvbXlhY2NvdW50L3N1bW1hcnkvP3Byb2ZpbGVDb21wbGV0aW9uSW5Qcm9ncmVzcz10cnVlIiwiY2FuY2VsVXJsIjoiL215YWNjb3VudC9zdW1tYXJ5Lz9wcm9maWxlQ29tcGxldGlvbkluUHJvZ3Jlc3M9dHJ1ZSJ9"}},"figure":{"id":"ADD_BANK_FIGURE","color":{},"background":{"color":{"type":"HEX","value":"#f7f5f0"}},"type":"URL","source":"https:\u002F\u002Fwww.paypalobjects.com\u002Fpaypal-ui\u002Fspots\u002Fsvg\u002Fbank-deposit.svg"},"completed":{"color":{},"background":{"color":{}},"figure":{"color":{"type":"HEX","value":"#38af88"},"background":{"color":{}},"type":"CDNX","source":"paypal-ui\u002Ficons\u002Fsvg\u002Fv2-checkmark-background.svg"}},"status":"COMPLETED"},{"id":"ADD_CARD","color":{},"background":{"color":{}},"title":{"text":"Kartu ditambahkan","color":{},"background":{"color":{}}},"description":{"text":"Cara pembayaran di satu tempat.","color":{"type":"HEX","value":"#515354"},"background":{"color":{}}},"action":{"type":"FLOW","data":{"url":"\u002Fmyaccount\u002Fmoney\u002Fflow\u002Fcards\u002Fnew\u002Fmanual","returnUrl":"\u002Fmyaccount\u002Fsummary\u002F","cancelUrl":"\u002Fmyaccount\u002Fsummary\u002F","qs":"?profileCompletionInProgress=true","version":"v2"},"_serverCache":{"flowUrl":"\u002Fmyaccount\u002Fmoney\u002Fflow\u002Fcards\u002Fnew\u002Fmanual?flow=eyJyZXR1cm5VcmwiOiIvbXlhY2NvdW50L3N1bW1hcnkvP3Byb2ZpbGVDb21wbGV0aW9uSW5Qcm9ncmVzcz10cnVlIiwiY2FuY2VsVXJsIjoiL215YWNjb3VudC9zdW1tYXJ5Lz9wcm9maWxlQ29tcGxldGlvbkluUHJvZ3Jlc3M9dHJ1ZSJ9"}},"figure":{"id":"ADD_CARD_FIGURE","color":{},"background":{"color":{"type":"HEX","value":"#f7f5f0"}},"type":"URL","source":"https:\u002F\u002Fwww.paypalobjects.com\u002Fpaypal-ui\u002Fspots\u002Fsvg\u002Fcredit-cards.svg"},"completed":{"color":{},"background":{"color":{}},"figure":{"color":{"type":"HEX","value":"#38af88"},"background":{"color":{}},"type":"CDNX","source":"paypal-ui\u002Ficons\u002Fsvg\u002Fv2-checkmark-background.svg"}},"status":"COMPLETED"},{"id":"PROFILE_PICTURE_UPDATE","color":{},"background":{"color":{}},"title":{"text":"Foto profil ditambahkan","color":{},"background":{"color":{}}},"description":{"text":"Bantu orang lain menemukan Anda dengan mudah.","color":{"type":"HEX","value":"#515354"},"background":{"color":{}}},"action":{"type":"FLOW","data":{"url":"\u002Fmyaccount\u002Fprofile\u002Fflow\u002Fphoto\u002Fupload","returnUrl":"\u002Fmyaccount\u002Fsummary\u002F","cancelUrl":"\u002Fmyaccount\u002Fsummary\u002F","qs":"?profileCompletionInProgress=true","version":"v2"},"_serverCache":{"flowUrl":"\u002Fmyaccount\u002Fprofile\u002Fflow\u002Fphoto\u002Fupload?flow=eyJyZXR1cm5VcmwiOiIvbXlhY2NvdW50L3N1bW1hcnkvP3Byb2ZpbGVDb21wbGV0aW9uSW5Qcm9ncmVzcz10cnVlIiwiY2FuY2VsVXJsIjoiL215YWNjb3VudC9zdW1tYXJ5Lz9wcm9maWxlQ29tcGxldGlvbkluUHJvZ3Jlc3M9dHJ1ZSJ9"}},"figure":{"id":"PROFILE_PICTURE_UPDATE_FIGURE","color":{},"background":{"color":{"type":"HEX","value":"#f7f5f0"}},"type":"URL","source":"https:\u002F\u002Fwww.paypalobjects.com\u002Fpaypal-ui\u002Fspots\u002Fsvg\u002Fsmartphone-photo.svg"},"completed":{"color":{},"background":{"color":{}},"figure":{"color":{"type":"HEX","value":"#38af88"},"background":{"color":{}},"type":"CDNX","source":"paypal-ui\u002Ficons\u002Fsvg\u002Fv2-checkmark-background.svg"}},"status":"COMPLETED"},{"id":"APP_DOWNLOAD","color":{},"background":{"color":{}},"title":{"text":"Aplikasi diunduh","color":{},"background":{"color":{}}},"description":{"text":"Untuk menyelesaikan langkah ini, log in ke aplikasi.","color":{"type":"HEX","value":"#515354"},"background":{"color":{}}},"action":{"type":"FLOW","data":{"url":"https:\u002F\u002Fpaypal.com\u002Fmobile-app\u002Fdashboard?source=profile_completion&pp_web_dl=custom&pp_mob_dl=custom&utm_medium=web&utm_source=web_summary","returnUrl":"\u002Fmyaccount\u002Fsummary\u002F","cancelUrl":"\u002Fmyaccount\u002Fsummary\u002F","qs":"?profileCompletionInProgress=true","version":"v2"},"_serverCache":{"flowUrl":"https:\u002F\u002Fpaypal.com\u002Fmobile-app\u002Fdashboard?flow=eyJyZXR1cm5VcmwiOiIvbXlhY2NvdW50L3N1bW1hcnkvP3Byb2ZpbGVDb21wbGV0aW9uSW5Qcm9ncmVzcz10cnVlIiwiY2FuY2VsVXJsIjoiL215YWNjb3VudC9zdW1tYXJ5Lz9wcm9maWxlQ29tcGxldGlvbkluUHJvZ3Jlc3M9dHJ1ZSJ9&source=profile_completion&pp_web_dl=custom&pp_mob_dl=custom&utm_medium=web&utm_source=web_summary"}},"figure":{"id":"APP_DOWNLOAD_FIGURE","color":{},"background":{"color":{"type":"HEX","value":"#f7f5f0"}},"type":"URL","source":"https:\u002F\u002Fwww.paypalobjects.com\u002Fpaypal-ui\u002Fspots\u002Fsvg\u002Fpaypal-app.svg"},"completed":{"color":{},"background":{"color":{}},"figure":{"color":{"type":"HEX","value":"#38af88"},"background":{"color":{}},"type":"CDNX","source":"paypal-ui\u002Ficons\u002Fsvg\u002Fv2-checkmark-background.svg"}},"status":"COMPLETED"}],"progress":{"totalTasks":5,"completedTasks":5,"figure":{"id":"PROGRESS_5","color":{},"background":{"color":{}},"type":"CDNX","source":"paypal-ui\u002Fillustrations\u002Ffocused\u002Fsvg\u002Fcoin-planet.svg"},"color":{"type":"HEX","value":"blue"},"label":{"text":"5 dari 5 selesai","color":{},"background":{"color":{}}}},"fptiConfig":{"site_chnl":"web","product":"growth","correlation_id":"f75527428eb60","user_country":"ID","locale":"id_ID","comp":"summarynodeweb","cust":"FDRA9TH2R2Z8J"},"error":null}</script>
+                                    <div id="reactContainer__account_setup" data-hydrated="true">
+                                        <div data-test-id="accountsetup__div" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFlxQHp-XmB6U19UXn9tbgppdFdGdFcnAS9HcCRJR3QFVVVIQlpAGkxdXFxtflx1ZVZjV2poTjYhDkhMJ2Z5bwBwZkVVYghmUXtQY1xfUHMDVUdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwJrGDkJNw0EA3kNDgkUAAEVWRwCBFRvPQMpNE9jVWhoHzUhDkhMJ2Z5KEAnMx0LMGcyByYWPQEcDyxZMhIQHAgvWRoYCQYlJgMrJU9jVWhoDDEpS0gtRmYXFmEBATFGdBtwSSgHIUVJJmIWXUdYU0xRSBsJDhp0aCpkcF5jV2poTjopAw1MRgd5eQV6bUdWZw5oWHhfYlJaVnIHVF9YUU5RDAEdBgcxaEsFcE91R3h-X2twWVFfU3dubQV5Zk1fdBlySWoQcEUoR2IEQ1ZYUU5RDAEeS08VaEt0Zlt7RHB4W259S0hORmYxNkY-MCsOMRlwKGpHZlZQVHsEW1NOSVVDFUxeW1dhcEtkck9jHyc9GTwXCQYJAmZ5GBNpNAcdCl0.DyoBNAkNCDdoBAgQBAQRWRwbD090aktkPB0lKSI5BnhpKkhMKQgMB3MYBTguFnkTJA5HcEdJRyJUGQ8WHjIZSVRMKk90flh9Y1ZzQ315X29.XV9dVn5pbxNpdlVGNFslASQIDgcHAiYWTCZYUQwDVyoIBAk0Lg8oNAA2KSgqGzAnBEhMRGZ5MVw8MAY4Jl0gNzkDIgEcR2J3TEcfEQEDSFRMSU90IAQxMA02BSw4TngIS0hdSXd5eRFpdBcIIFYlGjJHcCRJRwpzTEdaUUwFXhAJNQstPQ83Pw8uGjBoThlpSw8MCzQ9eRNrdFUuBmcSJAIlGjAgNBYWTCZYUQsRQQYIS092aEs1IwsxEycoGzAnBDYZHjc9eRMIdFVQZAlmWHlRaVJfX3UOXVJIQFxADFROS08hLhgsNU9jNmhoWGh.U1BUVHJsagp9ZURfZwxiWGpHckVJCyhDChQcAQQUDFQtS09gL15zMwh0RygrWWl8WgsLBiVqalcpbRdeYg4wXnJQNUVJRWIWAA0NFx8VSxwJS08VaEtwN1p0FC9.XjgqXFlZVyU-OVB6ZxEGbVtoX30HZ11eAmIWTkdYBh4ERBFMSy50aF8jZVggEH94Djt-Wl1dBSE5OgB6MBVfNgFmXipQaFIMR2IUTEcLEQMbDFQtS09kaEtmcE8xAysWDDEmS0gtRmYXFmEBATFGdBtwSS4QNAocOS1WAANYUS1RDAUIGB06JwspOBQjAiAmAQYnBBoEEyJ5eRFpdAEUMEoODz4PNUVJJmIWX19OFVsSS0ZcU1dlKF18YV5yRX8qXG54DA9bX3M9OgNpdFdGdE0iDTk5IgEbFSpYAzkeBQQUDFQtS09sLVwnZFx3RHhwVm57XFBaV3RpbQF9ZEQBM143Di0ANEVJRWIWGxUNGQlRDDVMS1cxfwhwY1twR3BwWGp-U15dVHZtawd5ZRIBM143Di0DcEVLR2JBHhILGQlRDDVMS1xsfg9zMwhxR3BwXzh.U1ldV3RuOwF.ZRIBYwBlDSlXcEVLR2JFCAAQFExRbVRMXVxtelt3Zl51T3l.XWF.XFlZX2Z5exNpMAwXPEooNz8VcEUoR2IGWlNAQlRCHkJYS092aEsgJU9jNmhoLBUBLyc5OA4VCGANBicuGnY&amp;cks=NmRjZWMwOTQ3ZjFhOWE5YzBmZjdkMzkwYjNmZmNlY2I&amp;e=1.0" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFlxQHp-XmB6U19UXn9tbgppdFdGdFcnAS9HcCRJR3QFVVVIQlpAGkxdXFxtflx1ZVZjV2poTjYhDkhMJ2Z5bwBwZkVVYghmUXtQY1xfUHMDVUdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwJrGDkJNw0EA3kNDgkUAAEVWRwCBFRvPQMpNE9jVWhoHzUhDkhMJ2Z5KEAnMx0LMGcyByYWPQEcDyxZMhIQHAgvWRoYCQYlJgMrJU9jVWhoDDEpS0gtRmYXFmEBATFGdBtwSSgHIUVJJmIWXUdYU0xRSBsJDhp0aCpkcF5jV2poTjopAw1MRgd5eQV6bUdWZw5oWHhfYlJaVnIHVF9YUU5RDAEdBgcxaEsFcE91R3h-X2twWVFfU3dubQV5Zk1fdBlySWoQcEUoR2IEQ1ZYUU5RDAEeS08VaEt0Zlt7RHB4W259S0hORmYxNkY-MCsOMRlwKGpHZlZQVHsEW1NOSVVDFUxeW1dhcEtkck9jHyc9GTwXCQYJAmZ5GBNpNAcdCl0.DyoBNAkNCDdoBAgQBAQRWRwbD090aktkPB0lKSI5BnhpKkhMKQgMB3MYBTguFnkTJA5HcEdJRyJUGQ8WHjIZSVRMKk90flh9Y1ZzQ315X29.XV9dVn5pbxNpdlVGNFslASQIDgcHAiYWTCZYUQwDVyoIBAk0Lg8oNAA2KSgqGzAnBEhMRGZ5MVw8MAY4Jl0gNzkDIgEcR2J3TEcfEQEDSFRMSU90IAQxMA02BSw4TngIS0hdSXd5eRFpdBcIIFYlGjJHcCRJRwpzTEdaUUwFXhAJNQstPQ83Pw8uGjBoThlpSw8MCzQ9eRNrdFUuBmcSJAIlGjAgNBYWTCZYUQsRQQYIS092aEs1IwsxEycoGzAnBDYZHjc9eRMIdFVQZAlmWHlRaVJfX3UOXVJIQFxADFROS08hLhgsNU9jNmhoWGh.U1BUVHJsagp9ZURfZwxiWGpHckVJCyhDChQcAQQUDFQtS09gL15zMwh0RygrWWl8WgsLBiVqalcpbRdeYg4wXnJQNUVJRWIWAA0NFx8VSxwJS08VaEtwN1p0FC9.XjgqXFlZVyU-OVB6ZxEGbVtoX30HZ11eAmIWTkdYBh4ERBFMSy50aF8jZVggEH94Djt-Wl1dBSE5OgB6MBVfNgFmXipQaFIMR2IUTEcLEQMbDFQtS09kaEtmcE8xAysWDDEmS0gtRmYXFmEBATFGdBtwSS4QNAocOS1WAANYUS1RDAUIGB06JwspOBQjAiAmAQYnBBoEEyJ5eRFpdAEUMEoODz4PNUVJJmIWX19OFVsSS0ZcU1dlKF18YV5yRX8qXG54DA9bX3M9OgNpdFdGdE0iDTk5IgEbFSpYAzkeBQQUDFQtS09sLVwnZFx3RHhwVm57XFBaV3RpbQF9ZEQBM143Di0ANEVJRWIWGxUNGQlRDDVMS1cxfwhwY1twR3BwWGp-U15dVHZtawd5ZRIBM143Di0DcEVLR2JBHhILGQlRDDVMS1xsfg9zMwhxR3BwXzh.U1ldV3RuOwF.ZRIBYwBlDSlXcEVLR2JFCAAQFExRbVRMXVxtelt3Zl51T3l.XWF.XFlZX2Z5exNpMAwXPEooNz8VcEUoR2IGWlNAQlRCHkJYS092aEsgJU9jNmhoLBUBKSI&amp;cks=Yzc1ZmViMGUwMjliZDAwZTBiM2Y0NTIxNzhmMzI0ZmY&amp;e=1.0" data-cwt-fpti-base="{&quot;page&quot;:&quot;main:walletweb:summary:main:ACCOUNT_SETUP&quot;,&quot;domain_type&quot;:&quot;ACCOUNT_SETUP&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_webhome_account_setup_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_webhome_account_setup_loaded&quot;}"></div>
+                                    </div>
+                                </div>
+                                <div id="widgetContainer__balance" class="TuJ3jOBFs2ZcXUjGuExY" data-test-id="widget-container-balance">
+                                    <script type="application/json" id="reactContainer__balance_props">{"balance":{"primaryCurrency":"USD","thousandSep":"","decimalSep":"","totalAvailable":{"amount":"0.00","currency":"USD"},"totalPending":{"amount":"0.00","currency":"USD"},"totalReserved":{"amount":"0.00","currency":"USD"},"balances":[{"id":"HOMLWWDSWT2RKXL","currency":"USD","availableBalance":{"total":{"amount":"0.00","currency":"USD"},"totalPrimaryCurrency":{"amount":"0.00","currency":"USD"},"subBalances":[{"type":"available","amount":{"amount":"0.00","currency":"USD"}}]},"pendingBalance":{"total":{"amount":"0.00","currency":"USD"},"totalPrimaryCurrency":{"amount":"0.00","currency":"USD"},"subBalances":[]},"reservedBalance":{"total":{"amount":"0.00","currency":"USD"},"totalPrimaryCurrency":{"amount":"0.00","currency":"USD"},"subBalances":[{"type":"ebay-non-performer","amount":{"amount":"0.00","currency":"USD"}},{"type":"trans-level-hold","amount":{"amount":"0.00","currency":"USD"}}]}}],"statusCode":200,"totalTaxIdReserved":{"amount":"0.00","currency":"USD"},"totalNonTaxIdReserved":{"amount":"0.00","currency":"USD"},"balanceF":{"totalAvailable":"US$0,00","totalPending":"US$0,00","totalReserved":"US$0,00","totalTaxIdReserved":null,"balances":[],"isNegativeBalance":false,"hasMultipleCurrencies":false,"isZeroBalance":true,"balanceOnHold":null,"availabilityMessage":"available"},"hasPastBalance":true,"countrySpecificConfig":{"country":"ID"},"hasExitLimitHold":false,"promo":{}},"balanceAlertData":{"alertTitle":"Anda memiliki  yang ditahan","alertLinkText":"Lihat apa yang ditahan","linkUrl":"\u002Fmyaccount\u002Ftransactions\u002F?status=ON_RISK_HOLD","fptiData":{"card_type":"BALANCE_ON_HOLD_URL","context_type":"NONE_RA","acc_data":"{\"hasExitLimitSetting\":true,\"thresholdAmount\":\"300.00\",\"approachOrPassThreshold\":false,\"showLearnMoreForNoneRAHold\":false,\"collateralSettingINDontTellFlow\":true,\"isSubTypeOOH\":false,\"hasExitLimitHold\":false}","balance_on_hold":"$0.00","domain_status":"DEFAULT","alert_link_text":"Lihat apa yang ditahan"},"isSubTypeOOH":false,"showLearnMoreForNoneRAHold":false,"raType":null,"balanceOnHold":null},"balanceLinksFlags":{"overflowMenuLinks":[{"contentKey":"goToBalance","url":"\u002Fmyaccount\u002Fmoney\u002F","fptiKey":"overflowBalance"},{"contentKey":"manageCurrencies","url":"\u002Fmyaccount\u002Fmoney\u002F","fptiKey":"overflowBalanceManageCurrencies"},{"contentKey":"getHelp","url":"\u002Fselfhelp\u002Fsearch?q={helpQueryParam}&helpSearchButton=Search","fptiKey":"overflowBalanceHelp"}],"transferMoneyUrl":"\u002Fmyaccount\u002Fmoney\u002Fbalances\u002Ftransfer?flow=eyJyZXR1cm5VcmwiOiIvbXlhY2NvdW50L3N1bW1hcnkvIiwiY2FuY2VsVXJsIjoiL215YWNjb3VudC9zdW1tYXJ5LyJ9","noBalance":false,"withdrawEligible":{},"noBalanceUrls":{"claimMoneyUrl":"\u002Fmyaccount\u002Finfo\u002Fflow\u002Fclaimfunds?successUrl=\u002Fmyaccount\u002Finfo\u002Fflow\u002Fcashaccount\u002Fverification","claimMoneyXSellUrl":"\u002Fmyaccount\u002Fbalance\u002Fget-started\u002Fbalance-bundle?entry_point=ACCEPT_MONEY&flow_intent=ACCEPT_MONEY","withdrawMoneyUrl":"\u002Fmyaccount\u002Fmoney\u002Fflow\u002Fbalances\u002Fwithdraw?flow=eyJyZXR1cm5VcmwiOiIvbXlhY2NvdW50L3N1bW1hcnkvIiwiY2FuY2VsVXJsIjoiL215YWNjb3VudC9zdW1tYXJ5LyJ9","addMoney":"\u002Fmyaccount\u002Fwallet\u002FrepayFunds"},"addBankUrl":"\u002Fmyaccount\u002Fmoney\u002Fflow\u002Fbanks\u002Fnew?flow=eyJyZXR1cm5VcmwiOiIvbXlhY2NvdW50L3N1bW1hcnkvIiwiY2FuY2VsVXJsIjoiL215YWNjb3VudC9zdW1tYXJ5LyJ9","isInBalanceOnHold":false,"isInNBR":true,"showNBResolutionContactUs":false,"fptiInfoMsg":"","balanceOnHoldUrl":"\u002Fmyaccount\u002Ftransactions\u002F?status=ON_RISK_HOLD","learnMoreUrl":"\u002Fselfhelp\u002Fsearch?q=release%20amount&helpSearchButton=Search","isDisclaimerRequired":false,"accountSubscription":"BALANCE","isInNoBalanceFeatureCountry":false,"hasUserSubmittedTaxId":false,"isRestrictedBalanceView":false,"isInPaypalWalletFeatureCountry":false,"isPPTHEnabled":false,"cipStatus":{},"cipUrl":"\u002Fpolicy\u002Fhub\u002Fcip","receiveRestrictionDateLong":0,"receiveRestrictionDateFormatted":"1 Jan 1970","macawShowCrossBorderReversal":false,"macawShowCrossBorderDecline":false,"enableCashCardUrlForDeactivatedUsers":false,"enableBundleExperience":true},"balanceState":{"domain_status":"DEFAULT"},"brNoBalanceContent":null,"cashcard":{},"cashcardContent":{"primaryContent":"Membuat kartu Anda","secondaryContent":null},"content":{"header":"Saldo PayPal","actions":{"acceptTheMoney":"Terima Dana","transferMoney":"Transfer Dana","addMoney":"Tambahkan Dana","makePayment":"Buat Pembayaran","contactUs":"Hubungi Kami","addMoneyNubi":"Tambah dana menggunakan rekening Nubi","withdrawNubi":"Tarik dana ke rekening Nubi","withdrawMacro":"Tarik dana ke rekening Makro","boletoTopup":"Tambah saldo dengan Boleto"},"available":"Tersedia","available_cfpb_paypal_cash":"Tersedia","available_cfpb_paypal_cash_plus":"Tersedia","estimated":"Estimasi total semua mata uang","estimatedWithDisclaimer":"Estimasi total semua mata uang*","estimated_cfpb_paypal_cash":"Estimasi total semua mata uang","estimatedWithDisclaimer_cfpb_paypal_cash":"Estimasi total semua mata uang*","estimated_cfpb_paypal_cash_plus":"Estimasi total semua mata uang","estimatedWithDisclaimer_cfpb_paypal_cash_plus":"Estimasi total semua mata uang*","estimatedDisclaimer":"* Perkiraan berdasarkan kurs konversi terkini, termasuk biaya konversi mata uang Anda.","alert":{"onHold":{"title":"Ditahan","titleWithBalance":"Anda memiliki {balance} yang ditahan","linkText":"Dapatkan dana Anda lebih cepat"},"seeWhatsOnHold":"Lihat apa yang telah ditahan","disputes":{"title":"Sengketa","linkText":"Mengapa dana ini disengketakan?"}},"zeroBalance":{"header":"Sisihkan sejumlah dana","body":"Anda tidak memerlukan saldo untuk berbelanja dan membayar dengan PayPal secara daring.","link":"Mulai"},"negativeBalance":"-{amount}","negativeBalanceInfo":"Tambahkan dana untuk melunasi saldo negatif Anda.","negativeBalanceInfoResolve":"Selesaikan saldo negatif Anda.","negativeBalanceInfoContact":"Hubungi kami untuk menyelesaikan saldo negatif Anda.","noBalance":{"message":"Ada dana menunggu Anda","negativeMessage":"Tambahkan dana untuk melunasi saldo negatif Anda.","claimIt":"Klaim","addMoney":"Tambahkan Dana","currencies":"*Estimasi total semua mata uang","currencies_cfpb_paypal_cash":"*Estimasi total semua mata uang","currencies_cfpb_paypal_cash_plus":"*Estimasi total semua mata uang","onHold":"Anda memiliki dana \u003Cb\u003E{amount}\u003C\u002Fb\u003E yang ditahan. \u003Cspan class='cw_tile__balance-nobalanceOnHoldCta'\u003EKetahui alasannya\u003C\u002Fspan\u003E"},"mxNoBalance":{"header":"Pembayaran baru diterima","autoSweepAvailability":"Transfer otomatis ke bank Anda dimulai pukul 12.00 CT (00.00 WIB).","autoSweepAvailabilityMultiCurrency":"Perkiraan total semua mata uang. Transfer otomatis ke bank Anda dimulai pukul 12.00 CT (00.00 WIB).","onHold":{"title":"Pembayaran tersebut saat ini ditahan","linkText":"Info lebih lanjut tentang penahanan"},"negativeBalanceHeader":"Saldo negatif"},"overflowMenu":{"addMoney":"Tambah dana","addMoneyGiropay":"Tambah dengan giropay","topup":"Tambah dana secara otomatis","addMoneyIdeal":"Tambah saldo secara instan melalui iDEAL","addMoneyTrustly":"Tambah dana menggunakan Trustly","addMoneyMultiBanco":"Tambah dana menggunakan Multibanco","addMoneyNubi":"Tambah dana menggunakan rekening Nubi","addMoneyBancontact":"Tambah dana menggunakan Bancontact","addMoneyMulticaja":"Tambah dana menggunakan Multicaja","addMoneyCairoAmmanBank":"Tambah dana menggunakan CairoAmmanBank","addMoneyQatarNationalBank":"Tambah dana menggunakan Qatar National Bank","addMoneyBisb":"Tambahkan dana menggunakan BisB","goToBalance":"Buka saldo PayPal","goToWallet":"Buka Wallet","goToPaymentsReceived":"Buka pembayaran yang diterima","manageCurrencies":"Kelola mata uang","getHelp":"Dapatkan Bantuan","getHelpQueryParam":"saldo","withdrawMoney":"Transfer ke bank lain"},"paypalCashcard":{"name":"PayPal Cash Card","linked":"Hubungkan ke saldo PayPal Anda","activated":"Aktif","createPin":"Buat PIN","createCard":"Membuat kartu Anda","reissueCard":"Membuat kartu baru Anda","shipped":"Sampai pada {date}","activate":"Aktifkan","deactivated":"Dinonaktifkan","locked":"Terkunci"},"paypalDebitCard":"Kartu Debit PayPal","paypalDebitMasterCard":"PayPal Debit Mastercard","debitcard":{"debitMasterCard":"PayPal Business Debit Mastercard","paypalCashCard":"PayPal Cash Card"},"topup":"Tambah dana secara otomatis","error":"Informasi Anda saat ini tidak tersedia. Kami sedang berupaya untuk segera mengatasi masalah ini.","CFPBVerification":{"header":"Butuh saldo di rekening PayPal Anda?","body":"Hadir di sini saat Anda membutuhkannya. Anda tetap dapat mengirim, membelanjakan, atau membayar tagihan Anda dengan menggunakan saldo Paypal.","linkText":"Dapatkan rekening PayPal Cash"},"balanceOnHoldTitle":"Anda memiliki {amount} yang ditahan","balanceOnHoldLinkText":"Lihat apa yang ditahan","learnMoreLinkText":"Ketahui opsi Anda","ra0LinkText":"Mari memperbaikinya","ra75title":"Pembayaran mendatang mungkin ditahan hingga 21 hari","ra0title":"Dana yang diterima ditahan untuk sementara","taxIdHoldResolveLink":"Selesaikan","taxIdHoldLearnMoreLink":"Pelajari Lebih Lanjut","taxIdHoldMessage":"Anda memiliki {amount} pada penahanan karena ID pajak","taxIdHoldUpdatingMessage":"Anda memiliki {amount} pada penahanan karena ID pajak - Memperbarui","CFPBVerificationTreatment":{"header":"Cara baru untuk mempertahankan saldo di PayPal","body":"Dengan rekening PayPal Cash, Anda dapat mengirim, membelanjakan, atau membayar tagihan Anda dengan menggunakan saldo Paypal.","linkText":"Atur Sekarang Juga"},"cipverification":{"header":"Saldo PayPal","positivetxt":"Untuk mengirim, membelanjakan, atau menarik dana, lengkapi pemeriksaan keamanan.","body":"Untuk menyimpan dana di PayPal yang dapat dikirim atau dibelanjakan, lengkapi pemeriksaan keamanan.","linkText":"Berikan informasi tambahan untuk menahan saldo"},"inBalance":{"autoSweepAvailability":"Transfer dana secara manual tidak tersedia untuk saat ini. Kami akan memulai transfer dana secara otomatis ke rekening bank utama Anda.","autoSweepAvailabilityMultiCurrency":"Total estimasi semua mata uang. Transfer dana secara manual tidak tersedia untuk saat ini. Kami akan memulai transfer dana secara otomatis ke rekening bank utama Anda."},"ppthHeader":"Dana tersedia untuk ditransfer","brNoBalance":{"receivedHeader":"Pembayaran diterima","waitingHeader":"Ada pembayaran yang menunggu tanggapan Anda","negativeBalance":{"message":"Bayar jumlah terutang Anda untuk menyelesaikan.","header":"Jumlah terutang kepada PayPal","payOwedAmount":"Bayar Jumlah Terutang"},"cipPending":"Harap konfirmasikan informasi Anda sehingga Anda dapat menerima pembayaran.","bankPending":"Hubungkan rekening bank atau rekening pembayaran sehingga kami dapat mentransfer secara otomatis pembayaran apa pun yang diterima ke rekening tersebut.","autoTransfer":"Pembayaran akan ditransfer secara otomatis ke rekening bank Anda. Transfer memerlukan waktu hingga 3 hari kerja.","ctn":{"acceptPayment":"Terima Pembayaran"},"withdrawRestricted":"Transfer otomatis dibatasi","cipPendingLink":"\u003Ca\u003EMohon berikan informasi Anda\u003C\u002Fa\u003E sekarang juga agar tetap dapat menerima pembayaran.","bankPendingLink":"\u003Ca\u003EHubungkan rekening bank\u003C\u002Fa\u003E untuk terus menerima pembayaran.","receiveRestrictionGraceDate":{"bankPending":"\u003Ca\u003EHubungkan rekening bank\u003C\u002Fa\u003E sebelum {restrictionDate} untuk terus menerima pembayaran."},"receiveRestriction":{"bankPending":"\u003Ca\u003EHubungkan rekening bank\u003C\u002Fa\u003E sekarang juga untuk terus menerima pembayaran."},"crossBorder":{"bankPending":"\u003Ca\u003EHubungkan rekening bank\u003C\u002Fa\u003E agar tetap dapat menerima pembayaran dan mencegah pengembalian pembayaran internasional."},"crossBorderReceiveRestriction":{"bankPending":"\u003Ca\u003EHubungkan rekening bank\u003C\u002Fa\u003E sekarang juga agar tetap dapat menerima pembayaran dan mencegah pengembalian pembayaran internasional."},"crossBorderReceiveRestrictionGraceDate":{"bankPending":"\u003Ca\u003EHubungkan rekening bank\u003C\u002Fa\u003E sebelum {restrictionDate} agar tetap dapat menerima pembayaran dan mencegah pengembalian pembayaran internasional."},"xbDecline":{"bankPending":"\u003Ca\u003EHubungkan rekening bank\u003C\u002Fa\u003E agar tetap dapat menerima pembayaran dan mencegah pengembalian transfer internasional."},"xbDeclineReceiveRestriction":{"bankPending":"\u003Ca\u003EHubungkan rekening bank\u003C\u002Fa\u003E sekarang juga agar tetap dapat menerima pembayaran dan mencegah pengembalian transfer internasional."},"xbDeclineReceiveRestrictionGraceDate":{"bankPending":"\u003Ca\u003EHubungkan rekening bank\u003C\u002Fa\u003E sebelum {restrictionDate} agar tetap dapat menerima pembayaran dan mencegah pengembalian transfer internasional."}},"irsBNoticeTaxIdHoldMessage":"Anda memiliki {amount} pada penahanan karena ID pajak AS.","irsBNoticeTaxIdHoldUpdatingMessage":"Kami sedang memperbarui penahanan karena ID pajak AS Anda pada {amount}."},"country":"ID","debitcard":{"showDebitCard":false,"cards":[]},"menuOptions":[{"label":"Buka saldo PayPal","href":"\u002Fmyaccount\u002Fmoney\u002F","value":0,"linkName":"overflowBalance","data-cwt-fpti-base":"{\"link\":\"BALANCE|overflowBalance\",\"pglk\":\"main:walletweb:summary::main|overflowBalance\",\"pgln\":\"main:walletweb:summary:main|overflowBalance\"}","data-cwt-fpti-cl":"{\"event_name\":\"dw_webhome_balance_overflow_menu_option_overflowBalance_pressed\"}"},{"label":"Kelola mata uang","href":"\u002Fmyaccount\u002Fmoney\u002F","value":1,"linkName":"overflowBalanceManageCurrencies","data-cwt-fpti-base":"{\"link\":\"BALANCE|overflowBalanceManageCurrencies\",\"pglk\":\"main:walletweb:summary::main|overflowBalanceManageCurrencies\",\"pgln\":\"main:walletweb:summary:main|overflowBalanceManageCurrencies\"}","data-cwt-fpti-cl":"{\"event_name\":\"dw_webhome_balance_overflow_menu_option_overflowBalanceManageCurrencies_pressed\"}"},{"label":"Dapatkan Bantuan","href":"\u002Fselfhelp\u002Fsearch?q=saldo&helpSearchButton=Search","value":2,"linkName":"overflowBalanceHelp","data-cwt-fpti-base":"{\"link\":\"BALANCE|overflowBalanceHelp\",\"pglk\":\"main:walletweb:summary::main|overflowBalanceHelp\",\"pgln\":\"main:walletweb:summary:main|overflowBalanceHelp\"}","data-cwt-fpti-cl":"{\"event_name\":\"dw_webhome_balance_overflow_menu_option_overflowBalanceHelp_pressed\"}"}],"taxIdHoldAlertData":{"taxIdHoldAlertLinkText":"","taxIdHoldAlertTitle":"","taxIdHoldFptiData":{},"totalTaxIdReserved":null},"topup":{}}</script>
+                                    <div id="reactContainer__balance" data-hydrated="true">
+                                        <div class="cw-card fB8fT0tB8LohpotDjMrF cw_balance css-97ji8w-card_base" data-ppui-info="card_2.4.8__7.46.3" data-cwt-fpti-base="{&quot;page&quot;:&quot;main:walletweb:summary:main:BALANCE&quot;,&quot;domain_type&quot;:&quot;BALANCE&quot;,&quot;domain_status&quot;:&quot;DEFAULT&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_balance_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_webhome_balance_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_webhome_balance_loaded&quot;}" data-id="card">
+                                            <header class="U8JLsMPmiMZHQccF1cBf css-1ao4o69-header" data-ppui="true">
+                                                <h3 class="U8JLsMPmiMZHQccF1cBf css-qczjjc-title-text_heading_sm" data-ppui="true">
+                                                    <div class="WDrgDZ6pVAv4AujfHp9_" data-test-id="card-header-layout">
+                                                        <div class="wg4LklXsDVDnH3gXmna1" data-test-id="header_content"><a class="css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong" data-ppui-info="links_4.8.0__7.46.3" href="/myaccount/money/" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_balance_header_pressed&quot;}" data-test-id="balance_header" pa-marked="1">Saldo PayPal</a></div>
+                                                        <div class="wv0a8iydcOn5gN_NfSNN">
+                                                            <div class="css-kddmuw-overflow_menu_base" data-ppui-info="overflow-menu_3.6.10__7.46.3" data-cwt-fpti-base="{&quot;link&quot;:&quot;BALANCE|overflowMenu&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|overflowMenu&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|overflowMenu&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_balance_overflow_pressed&quot;}" data-test-id="overflow_menu">
+                                                                <button data-ppui-info="icon-button_3.6.10__7.46.3" class="css-1rie9kd-icon-button_base-tertiary" type="button" name="overflowMenu_balance" aria-haspopup="true" aria-expanded="false" data-ppui="true" pa-marked="1">
+                                                                    <span class="css-1am46ks-svg-size_sm-icon" data-ppui-info="icons_8.24.1__7.46.3" aria-hidden="true" data-ppui="true">
+                                                                        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" width="1em" height="1em" data-ppui="true">
+                                                                            <path d="M14 12a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm0-7a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm0 14a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" data-ppui="true"></path>
+                                                                        </svg>
+                                                                    </span>
+                                                                    <span data-ppui="true" class="css-geb0bj-screenReader">overflowMenu_balance</span>
+                                                                </button>
+                                                                <menu tabindex="-1" role="menu" aria-label="overflowMenu_balance" aria-hidden="true" data-ppui="true" class="css-8cx2tb-list-elevation_level1" style="top: 209px; left: 555.578px;">
+                                                                    <li role="presentation" data-ppui="true"><a href="/myaccount/money/" data-name="overflowMenu_balance" data-value="overflowBalance" role="menuitem" tabindex="-1" data-cwt-fpti-base="{&quot;link&quot;:&quot;BALANCE|overflowBalance&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|overflowBalance&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|overflowBalance&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_balance_overflow_menu_option_overflowBalance_pressed&quot;}" data-test-id="overflowBalance" data-ppui="true" class="css-5mexf4-list_item-text_body" pa-marked="1">Buka saldo PayPal</a></li>
+                                                                    <li role="presentation" data-ppui="true"><a href="/myaccount/money/" data-name="overflowMenu_balance" data-value="1" role="menuitem" tabindex="-1" data-cwt-fpti-base="{&quot;link&quot;:&quot;BALANCE|overflowBalanceManageCurrencies&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|overflowBalanceManageCurrencies&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|overflowBalanceManageCurrencies&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_balance_overflow_menu_option_overflowBalanceManageCurrencies_pressed&quot;}" data-test-id="overflowBalanceManageCurrencies" data-ppui="true" class="css-5mexf4-list_item-text_body" pa-marked="1">Kelola mata uang</a></li>
+                                                                    <li role="presentation" data-ppui="true"><a href="/selfhelp/search?q=saldo&amp;helpSearchButton=Search" data-name="overflowMenu_balance" data-value="2" role="menuitem" tabindex="-1" data-cwt-fpti-base="{&quot;link&quot;:&quot;BALANCE|overflowBalanceHelp&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|overflowBalanceHelp&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|overflowBalanceHelp&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_balance_overflow_menu_option_overflowBalanceHelp_pressed&quot;}" data-test-id="overflowBalanceHelp" data-ppui="true" class="css-5mexf4-list_item-text_body" pa-marked="1">Dapatkan Bantuan</a></li>
+                                                                </menu>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </h3>
+                                            </header>
+                                            <div class="OA68ZSSKYCjT_iBUK7fs css-1soddj9-content" data-id="card-content" data-ppui="true">
+                                                <div class="test_balance-tile-currency css-1aq3bmv-text_heading_lg" data-ppui-info="heading-text_6.7.7__7.46.3" data-test-id="available-balance" tabindex="0">US$0,00</div>
+                                                <div class="lVpsD18XaNEgewFa0vBq css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="availability-message" tabindex="0">Tersedia</div>
+                                                <a tabindex="0" class="h8sgjFHCw7T4bMYIC_jx css-cghe3x-button_base-text_button_lg-btn_full_width-size_sm-text_button_sm" data-ppui-info="buttons_7.11.3__7.46.6" role="button" href="/myaccount/money/balances/transfer?flow=eyJyZXR1cm5VcmwiOiIvbXlhY2NvdW50L3N1bW1hcnkvIiwiY2FuY2VsVXJsIjoiL215YWNjb3VudC9zdW1tYXJ5LyJ9" data-test-id="transfer-money-action" data-cwt-fpti-base="{&quot;link&quot;:&quot;BALANCE|balanceTransferMoney&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|balanceTransferMoney&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|balanceTransferMoney&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_balance_positive_pressed&quot;}" pa-marked="1">Transfer Dana</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="widgetContainer__activity" class="TuJ3jOBFs2ZcXUjGuExY" data-test-id="widget-container-activity">
+                                    <script type="application/json" id="reactContainer__activity_props">{"activity":{"clientsideURL":"\u002Fmyaccount\u002Factivities\u002Fwidget?activity_context_data=007m2rAziA1vrnQQnC1VvqUXz6K14EZx931GEdCsEDwyROK-xZvS6wwLz-C9yZ4auF2qISvphTMfZxWi1eOCOkIwKNoBzSoKGkjYfAKhItw5Hz2i-rCH3ajoQ2X1KF3kbdAn5vtwmnDLGxPMoDdiftKDzjvMWII4IzAXG2OhxSV-SjOj-B0zrkmh1Hhh8di-MB40ZtUZHTmDn7KPS8a","activityWidgetHtml":"","assets":[]},"content":{"header":"Aktivitas terkini","error":"Informasi Anda saat ini tidak tersedia. Kami sedang berupaya untuk segera mengatasi masalah ini."}}</script>
+                                    <div id="reactContainer__activity" data-hydrated="true">
+                                        <div class="cw-card nHCsNUW8CsRCoXq3OqsD PUfLE9aRRLOhb089zzy6 css-97ji8w-card_base" data-ppui-info="card_2.4.8__7.46.3" data-cwt-fpti-base="{&quot;page&quot;:&quot;main:walletweb:summary:main:ACTIVITY&quot;,&quot;domain_type&quot;:&quot;ACTIVITY&quot;}" data-cwt-fpti-im="{}" data-cwt-fpti-av="{}" data-test-id="activity-card" data-id="card">
+                                            <div class="OA68ZSSKYCjT_iBUK7fs css-1soddj9-content" data-id="card-content" data-ppui="true">
+                                                <div id="activity-html">
+                                                    <div>
+                                                        <div id="app-widget">
+                                                            <div class="amZGB">
+                                                                <div data-testid="spf-page" class="spf_page spfContainer" id="activity_widget_header_view" style="width: 100%;">
+                                                                    <div id="frame_root_container" data-testid="frame_root_container" data-block-type="LINEAR_CONTAINER" class=" css-5805va-Block">
+                                                                        <div class="" style="background-color: transparent; display: flex; flex: 1 1 0%; margin: 0px 0px 18px; flex-direction: column; border: none; border-radius: 0px;">
+                                                                            <div style="display: flex; margin: 0px;">
+                                                                                <div>
+                                                                                    <div id="header-text" data-testid="header-text" data-block-type="PPUI_TEXT" class=" css-5805va-Block">
+                                                                                        <div class=" css-1htline spf-n9sv0u-text_body_strong" data-ppui-info="body-text_6.7.6" aria-hidden="">Aktivitas terakhir</div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div id="widget-enhancement-container">
+                                                                    <div class="ppvx_tile___2-9-12 ppvx_tile--card___2-9-12 ppvx--v2___2-9-12 ppvx_tile--card--size_xs-long___2-9-12 widgetItemContainer" tabindex="0">
+                                                                        <div data-testid="spf-page" class="spf_page spfContainer" id="activity_transaction_overview" style="width: 100%;">
+                                                                            <div id="trans_overview_root_container" data-testid="trans_overview_root_container" data-block-type="FLEX_CONTAINER" class="activity_transaction_overview css-zwrdg2-Block">
+                                                                                <div id="transaction_avatar_container" data-testid="transaction_avatar_container" data-block-type="FLEX_CONTAINER" class=" css-10ykmlc-Block">
+                                                                                    <div id="avatar" data-testid="avatar" data-block-type="PPUI_AVATAR" class=" css-1gko0p0-Block">
+                                                                                        <div class="print_details merchant_bubble spf-1gtd9iz-avatar_base-size_lg-text_heading_lg-size_sm-text_body" data-ppui-info="avatar_4.5.8" role="img"><img src="https://pics.paypal.com/00/p/NzliNDM0MTAtODk3ZC00OWRiLThmNmItNmY4YWIwNTdiMjVj/image_34.JPG" data-ppui="true" class="spf-1yh5wve-image"></div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div id="overview-description-container" data-testid="overview-description-container" data-block-type="FLEX_CONTAINER" class="description_container css-1s22g90-Block">
+                                                                                    <div id="counterparty-name-and-amount-container" data-testid="counterparty-name-and-amount-container" data-block-type="FLEX_CONTAINER" class=" css-10ykmlc-Block">
+                                                                                        <div id="counterparty_name_container" data-testid="counterparty_name_container" data-block-type="FLEX_CONTAINER" class=" css-119hakx-Block">
+                                                                                            <div id="counterparty_name" data-testid="counterparty_name" data-block-type="PPUI_TEXT" class=" css-1btrjjs-Block">
+                                                                                                <div class="counterparty_name css-1htline spf-n9sv0u-text_body_strong" data-ppui-info="body-text_6.7.6" aria-hidden="">M. HASBI MUCHTAR AH</div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div id="amount_container" data-testid="amount_container" data-block-type="FLEX_CONTAINER" class=" css-10ykmlc-Block">
+                                                                                            <div id="transaction_amount_container" data-testid="transaction_amount_container" data-block-type="FLEX_CONTAINER" class=" css-12bth-Block">
+                                                                                                <div id="transaction_amount" data-testid="transaction_amount" data-block-type="RICH_TEXT" class=" css-1gko0p0-Block">
+                                                                                                    <div class="txn_amt_font css-1pmwpmb-text_body css-1in6wbk-RichText">−US$1,12</div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                    <div id="description-and-rewards-container" data-testid="description-and-rewards-container" data-block-type="FLEX_CONTAINER" class=" css-10ykmlc-Block">
+                                                                                        <div id="description-container" data-testid="description-container" data-block-type="FLEX_CONTAINER" class=" css-92hv1x-Block">
+                                                                                            <div id="transaction_description" data-testid="transaction_description" data-block-type="PPUI_TEXT" class=" css-60b9wd-Block">
+                                                                                                <div class="transaction_type_text css-1htline spf-fxigmm-text_caption" data-ppui-info="caption-text_6.7.6" aria-hidden="">9 Jul . Dana terkirim</div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div id="second_row_description_right" data-testid="second_row_description_right" data-block-type="FLEX_CONTAINER" class="activity_list_action_container css-6xxtv3-Block">
+                                                                                            <div id="details-action-link" data-testid="details-action-link" data-block-type="PPUI_LINK" class=" css-15o26j5-Block"><a class=" spf-nfgeae-links_base-text_body_strong-caption_primary-text_caption_strong" data-ppui-info="links_4.7.1" tabindex="0" pa-marked="1"></a></div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="ppvx_tile___2-9-12 ppvx_tile--card___2-9-12 ppvx--v2___2-9-12 ppvx_tile--card--size_xs-long___2-9-12 widgetItemContainer" tabindex="0">
+                                                                        <div data-testid="spf-page" class="spf_page spfContainer" id="activity_transaction_overview" style="width: 100%;">
+                                                                            <div id="trans_overview_root_container" data-testid="trans_overview_root_container" data-block-type="FLEX_CONTAINER" class="activity_transaction_overview css-zwrdg2-Block">
+                                                                                <div id="transaction_avatar_container" data-testid="transaction_avatar_container" data-block-type="FLEX_CONTAINER" class=" css-10ykmlc-Block">
+                                                                                    <div id="avatar" data-testid="avatar" data-block-type="PPUI_AVATAR" class=" css-1gko0p0-Block">
+                                                                                        <div class="print_details bubble_background_color spf-1ovazhc-avatar_base-size_lg-text_heading_lg-size_sm-text_body-sysColorAccent3Main" data-ppui-info="avatar_4.5.8" role="img">S</div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div id="overview-description-container" data-testid="overview-description-container" data-block-type="FLEX_CONTAINER" class="description_container css-1s22g90-Block">
+                                                                                    <div id="counterparty-name-and-amount-container" data-testid="counterparty-name-and-amount-container" data-block-type="FLEX_CONTAINER" class=" css-10ykmlc-Block">
+                                                                                        <div id="counterparty_name_container" data-testid="counterparty_name_container" data-block-type="FLEX_CONTAINER" class=" css-119hakx-Block">
+                                                                                            <div id="counterparty_name" data-testid="counterparty_name" data-block-type="PPUI_TEXT" class=" css-1btrjjs-Block">
+                                                                                                <div class="counterparty_name css-1htline spf-n9sv0u-text_body_strong" data-ppui-info="body-text_6.7.6" aria-hidden="">stokd807@gmail.com</div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div id="amount_container" data-testid="amount_container" data-block-type="FLEX_CONTAINER" class=" css-10ykmlc-Block">
+                                                                                            <div id="transaction_amount_container" data-testid="transaction_amount_container" data-block-type="FLEX_CONTAINER" class=" css-12bth-Block">
+                                                                                                <div id="transaction_amount" data-testid="transaction_amount" data-block-type="RICH_TEXT" class=" css-1gko0p0-Block">
+                                                                                                    <div class="isCredit txn_amt_font css-1pmwpmb-text_body css-1in6wbk-RichText">+US$1,12</div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                    <div id="description-and-rewards-container" data-testid="description-and-rewards-container" data-block-type="FLEX_CONTAINER" class=" css-10ykmlc-Block">
+                                                                                        <div id="description-container" data-testid="description-container" data-block-type="FLEX_CONTAINER" class=" css-92hv1x-Block">
+                                                                                            <div id="transaction_description" data-testid="transaction_description" data-block-type="PPUI_TEXT" class=" css-60b9wd-Block">
+                                                                                                <div class="transaction_type_text css-1htline spf-fxigmm-text_caption" data-ppui-info="caption-text_6.7.6" aria-hidden="">9 Jul . Pengembalian Dana</div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div id="second_row_description_right" data-testid="second_row_description_right" data-block-type="FLEX_CONTAINER" class="activity_list_action_container css-6xxtv3-Block">
+                                                                                            <div id="details-action-link" data-testid="details-action-link" data-block-type="PPUI_LINK" class=" css-15o26j5-Block"><a class=" spf-nfgeae-links_base-text_body_strong-caption_primary-text_caption_strong" data-ppui-info="links_4.7.1" tabindex="0" pa-marked="1"></a></div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="ppvx_tile___2-9-12 ppvx_tile--card___2-9-12 ppvx--v2___2-9-12 ppvx_tile--card--size_xs-long___2-9-12 widgetItemContainer" tabindex="0">
+                                                                        <div data-testid="spf-page" class="spf_page spfContainer" id="activity_transaction_overview" style="width: 100%;">
+                                                                            <div id="trans_overview_root_container" data-testid="trans_overview_root_container" data-block-type="FLEX_CONTAINER" class="activity_transaction_overview css-zwrdg2-Block">
+                                                                                <div id="transaction_avatar_container" data-testid="transaction_avatar_container" data-block-type="FLEX_CONTAINER" class=" css-10ykmlc-Block">
+                                                                                    <div id="avatar" data-testid="avatar" data-block-type="PPUI_AVATAR" class=" css-1gko0p0-Block">
+                                                                                        <div class="print_details bubble_background_color spf-1ovazhc-avatar_base-size_lg-text_heading_lg-size_sm-text_body-sysColorAccent3Main" data-ppui-info="avatar_4.5.8" role="img">S</div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div id="overview-description-container" data-testid="overview-description-container" data-block-type="FLEX_CONTAINER" class="description_container css-1s22g90-Block">
+                                                                                    <div id="counterparty-name-and-amount-container" data-testid="counterparty-name-and-amount-container" data-block-type="FLEX_CONTAINER" class=" css-10ykmlc-Block">
+                                                                                        <div id="counterparty_name_container" data-testid="counterparty_name_container" data-block-type="FLEX_CONTAINER" class=" css-119hakx-Block">
+                                                                                            <div id="counterparty_name" data-testid="counterparty_name" data-block-type="PPUI_TEXT" class=" css-1btrjjs-Block">
+                                                                                                <div class="counterparty_name css-1htline spf-n9sv0u-text_body_strong" data-ppui-info="body-text_6.7.6" aria-hidden="">stokd807@gmail.com</div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div id="amount_container" data-testid="amount_container" data-block-type="FLEX_CONTAINER" class=" css-10ykmlc-Block">
+                                                                                            <div id="transaction_amount_container" data-testid="transaction_amount_container" data-block-type="FLEX_CONTAINER" class=" css-12bth-Block">
+                                                                                                <div id="transaction_amount" data-testid="transaction_amount" data-block-type="RICH_TEXT" class=" css-1gko0p0-Block">
+                                                                                                    <div class="txn_amt_font strike_out css-1pmwpmb-text_body css-1in6wbk-RichText">−US$1,12</div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                    <div id="description-and-rewards-container" data-testid="description-and-rewards-container" data-block-type="FLEX_CONTAINER" class=" css-10ykmlc-Block">
+                                                                                        <div id="description-container" data-testid="description-container" data-block-type="FLEX_CONTAINER" class=" css-92hv1x-Block">
+                                                                                            <div id="transaction_description" data-testid="transaction_description" data-block-type="PPUI_TEXT" class=" css-60b9wd-Block">
+                                                                                                <div class="transaction_type_text css-1htline spf-fxigmm-text_caption" data-ppui-info="caption-text_6.7.6" aria-hidden="">9 Jul . Dana terkirim - Dibatalkan</div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div id="second_row_description_right" data-testid="second_row_description_right" data-block-type="FLEX_CONTAINER" class="activity_list_action_container css-6xxtv3-Block">
+                                                                                            <div id="details-action-link" data-testid="details-action-link" data-block-type="PPUI_LINK" class=" css-15o26j5-Block"><a class=" spf-nfgeae-links_base-text_body_strong-caption_primary-text_caption_strong" data-ppui-info="links_4.7.1" tabindex="0" pa-marked="1"></a></div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div data-testid="spf-page" class="spf_page spfContainer" id="activity_widget_footer_view" style="width: 100%;">
+                                                                    <div id="frame_root_container" data-testid="frame_root_container" data-block-type="LINEAR_CONTAINER" class=" css-5805va-Block">
+                                                                        <div class="" style="background-color: transparent; display: flex; flex: 1 1 0%; margin: 18px 0px 0px; flex-direction: column; border: none; border-radius: 0px;">
+                                                                            <div style="display: flex; margin: 0px;">
+                                                                                <div>
+                                                                                    <div id="footer-link" data-testid="footer-link" data-block-type="PPUI_LINK" class=" css-15m63af-Block"><a class=" spf-1rwz3cu-links_base-text_body_strong" data-ppui-info="links_4.7.1" tabindex="0" pa-marked="1">Tampilkan semua</a></div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div id="activity-widget-data" style="display: none" data-isencoded="yes">eyJ3b3JsZFJlYWR5Q29udGVudE9iaiI6eyJzdXBwbGVtZW50YWwiOnsibGlrZWx5U3VidGFncyI6eyJpZCI6ImlkLUxhdG4tSUQiLCJ1bmQiOiJlbi1MYXRuLVVTIn19LCJtYWluIjp7ImlkIjp7ImwxMG4iOnsiY29tbW9uIjp7InRpdGxlIjoiUGF5UGFsOiBBa3Rpdml0YXMiLCJkZXRhaWxzUGFnZVRpdGxlIjoiUGF5UGFsOiBQZXJpbmNpYW4gVHJhbnNha3NpIiwiZXJyb3JUaXRsZSI6IlBheVBhbDogS2VzYWxhaGFuIEludGVybmFsIiwiZXJyb3JTdWJUaXRsZSI6IkthbWkgdGlkYWsgZGFwYXQgbWVtcHJvc2VzIHBlcm1pbnRhYW4gQW5kYS4gTW9ob24gY29iYSBsYWdpIG5hbnRpLiIsImJhY2siOiJLZW1iYWxpIiwiZG93bmxvYWQiOiJVbmR1aCIsImJhZGdlIjp7Im9uSG9sZCI6IkRpdGFoYW4iLCJlQmF5SG9sZCI6IlBlbmFoYW5hbiBlQmF5IiwiaW5Qcm9ncmVzcyI6IlNlZGFuZyBEaXByb3NlcyIsImZhaWxlZCI6IkdhZ2FsIiwicmVmdW5kZWQiOiJEYW5hIERpa2VtYmFsaWthbiIsInJldmVyc2VkIjoiRGliYWxpa2thbiIsImNvbnZlcnQiOiJLb252ZXJzaSIsInN0YXR1cyI6eyJQRU5ESU5HIjoiVGVydHVuZGEifSwibWFzdGVyY2FyZEVhc3lTYXZpbmdzIjoiTWFzdGVyY2FyZCBFYXN5IFNhdmluZ3MiLCJyZWN1cnJpbmciOiJCZXJ1bGFuZyIsImNyZWRpdCI6IktyZWRpdCIsInRheEhvbGQiOiJEaXRhaGFuIn0sImFjdGlvbiI6eyJyZXBlYXRUcmFuc2FjdGlvbkxpbmsiOiJVbGFuZ2kgdHJhbnNha3NpIGluaSIsInJlcGVhdFRyYW5zYWN0aW9uTGlua05ldyI6IlVsYW5naSIsImRldGFpbHNUZXh0IjoiUGVyaW5jaWFuIiwiYWN0aW9uc1RleHQiOiJUaW5kYWthbiJ9LCJwdXJjaGFzZVByb3RlY3Rpb24iOnsibWVzc2FnZUZvckxpc3QiOiJQZXJsaW5kdW5nYW4iLCJtZXNzYWdlRm9yVEQiOnsiX21lc3NhZ2UiOlt7InR5cGUiOiJsaXRlcmFsIiwidmFsdWUiOiJQZW1iZWxpIEFuZGEgbWVuZ2lyaW0gc2ViZXNhciAifSx7InR5cGUiOiJ2YXJpYWJsZSIsInZhbHVlIjoiZ3Jvc3NBbW91bnQifSx7InR5cGUiOiJsaXRlcmFsIiwidmFsdWUiOiIgZGVuZ2FuIGRpc2VydGFpIFBlcmxpbmR1bmdhbiBQZW1iZWxpLiBTZWJhZ2FpIHBlbmp1YWwsIEFuZGEgaGFydXMgbWVtYmF5YXIgYmlheWEgc2ViZXNhciAifSx7InR5cGUiOiJ2YXJpYWJsZSIsInZhbHVlIjoiZmVlQW1vdW50In0seyJ0eXBlIjoibGl0ZXJhbCIsInZhbHVlIjoiLiBCaWF5YSBpbmkgbWVuY2FrdXAgcGVuZ2VtYmFsaWFuIGRhbmEgdW50dWsgYmFyYW5nIHlhbmcgbWVtZW51aGkgc3lhcmF0IHlhbmcgZGlsYXBvcmthbiBzZWJhZ2FpIGhpbGFuZywgcnVzYWssIGF0YXUgYmVyYmVkYSBkZW5nYW4gZGVza3JpcHNpbnlhLiBBbmRhIGp1Z2EgZGFwYXQgZGlsaW5kdW5naSBkYXJpIHRvbGFrIGJheWFyIGRhbiBwZW1iYWxpa2FuLiJ9XX19LCJjb25maXJtU2Vzc2lvbiI6eyJjb25maXJtSGVhZGVyIjoiU2VsZXNhaSBzZWx1cnVobnlhPyIsImNvbmZpcm1Cb2R5IjoiQW5kYSBha2FuIGxvZyBvdXQgYmViZXJhcGEgc2FhdCBsYWdpLiIsImNvbmZpcm1Db250aW51ZSI6IlRldGFwIExvZyBJbiJ9LCJhamF4RXJyb3IiOnsibW9kYWxIZWFkZXIiOiJVbnR1ayBzZW1lbnRhcmEgdGlkYWsgZGFwYXQgbWVtdWF0IGhhbGFtYW4uIiwibW9kYWxCb2R5IjoiTXVuZ2tpbiB0ZXJkYXBhdCBnYW5nZ3VhbiBzZW1lbnRhcmEgcGFkYSBzZXJ2ZXIga2FtaSwgYXRhdSBzYW1idW5nYW4gSW50ZXJuZXQgQW5kYSBtdW5na2luIHRlcnB1dHVzLiBKaWthIHRlcnNhbWJ1bmcga2UgSW50ZXJuZXQsIGNvYmEgbXVhdCB1bGFuZyBoYWxhbWFuIHRlcnNlYnV0IG5hbnRpLiBLYW1pIG1vaG9uIG1hYWYgYXRhcyBrZXRpZGFrbnlhbWFuYW4geWFuZyB0ZXJqYWRpLiIsInJlbG9hZCI6Ik11YXQgdWxhbmcifX0sImFjdGl2aXR5Ijp7IndpZGdldCI6eyJoZWFkZXJEZWZhdWx0IjoiQWt0aXZpdGFzIHRlcmFraGlyIiwidmlld0FsbEFjdGl2aXR5RGVmYXVsdCI6IlRhbXBpbGthbiBzZW11YSIsIm5vQWN0aXZpdHlEZWZhdWx0Ijp7Il9tZXNzYWdlIjpbeyJ0eXBlIjoibGl0ZXJhbCIsInZhbHVlIjoiVHJhbnNha3NpICJ9LHsidHlwZSI6InZhcmlhYmxlIiwidmFsdWUiOiJ0cmFuc2FjdGlvbl90eXBlIn0seyJ0eXBlIjoibGl0ZXJhbCIsInZhbHVlIjoiIHRlcmFraGlyIEFuZGEgYWthbiBkaXRhbXBpbGthbiBkaSBzaW5pLiJ9XX0sIm5vQWN0aXZpdHlIb21lVGlsZSI6IkxpaGF0IGthcGFuIGRhbmEgbWFzdWsgZGFuIGthcGFuIGtlbHVhci4gVGVtdWthbiBha3Rpdml0YXMgdGVyYWtoaXIgcmVrZW5pbmcgUGF5UGFsIEFuZGEgZGkgc2luaS4ifX19LCJtYXJrZXRTcGVjaWZpY0wxMG4iOnsiSUQiOnsiYWN0aXZpdHkiOnt9fX19fX0sInN0b3JlRGF0YSI6eyJ3aWRnZXRSZWR1Y2VyIjp7InNwZiI6eyJkYXRhIjp7ImhlYWRlckluZm8iOnsiY29udGVudCI6eyJoZWFkZXJfdGV4dCI6IkFrdGl2aXRhcyB0ZXJha2hpciJ9fSwiZm9vdGVySW5mbyI6eyJmb290ZXJfdXJsIjoiL215YWNjb3VudC9hY3Rpdml0aWVzLyIsImljb24iOiIiLCJjb250ZW50Ijp7ImZvb3Rlcl90ZXh0IjoiVGFtcGlsa2FuIHNlbXVhIn19LCJ6ZXJvU3RhdGVJbmZvIjp7ImNvbnRlbnQiOnsiemVyb19zdGF0ZV90ZXh0IjoiTGloYXQga2FwYW4gZGFuYSBtYXN1ayBkYW4ga2FwYW4ga2VsdWFyLiBUZW11a2FuIGFrdGl2aXRhcyB0ZXJraW5pIHJla2VuaW5nIFBheVBhbCBBbmRhIGRpIHNpbmkuIn19LCJ3aWRnZXREYXRhIjp7ImhpZGVGb290ZXIiOmZhbHNlLCJpc1RpbGVSZXBhaW50RW5hYmxlZCI6dHJ1ZSwiaXNBY3Rpdml0eVRpbGUiOnRydWUsIndpZGdldEhlYWRlckZvb3RlckxpbmsiOiIvbXlhY2NvdW50L2FjdGl2aXRpZXMvIiwid2lkZ2V0VmFyaWFudCI6IkhPTUVfVElMRSIsImhlYWRlckNvbnRlbnQiOiJBa3Rpdml0YXMgdGVyYWtoaXIiLCJmb290ZXJDb250ZW50IjoiVGFtcGlsa2FuIHNlbXVhIiwibm9SZXN1bHRzQ29udGVudCI6IkxpaGF0IGthcGFuIGRhbmEgbWFzdWsgZGFuIGthcGFuIGtlbHVhci4gVGVtdWthbiBha3Rpdml0YXMgdGVya2luaSByZWtlbmluZyBQYXlQYWwgQW5kYSBkaSBzaW5pLiIsIm5lZWROb3RlcyI6dHJ1ZSwibmVlZEFjdGlvbnMiOmZhbHNlLCJuZWVkQWN0aW9uc01lc3NhZ2UiOmZhbHNlLCJoaWRlSGVhZGVyIjpmYWxzZSwiaGlkZUhlYWRlckFuZEZvb3RlciI6ZmFsc2UsImhpZGVXaWRnZXRPbkVycm9yIjpmYWxzZSwiaGlkZVdpZGdldFdoZW5Ob0FjdGl2aXR5IjpmYWxzZX0sImZwdGlJbmZvIjp7ImNjcGciOiJJRCJ9LCJ0cmFuc2FjdGlvbnMiOlt7ImZsYWdzIjp7ImlzUHJvbW9PZmZlciI6ZmFsc2V9LCJub3Rlc0luZm8iOnsibm90ZXMiOiIiLCJ2aXNpYmlsaXR5Ijp7ImlzU2hvd05vdGVzIjoiZ29uZSJ9fSwiaWQiOiI1NlQ4NzgwOFVHOTMxMjA1RiIsImRpc3BsYXlEYXRlIjoiOSBKdWwiLCJsaW5rc0luZm8iOnsiZGV0YWlsc0xpbmsiOiIvbXlhY2NvdW50L2FjdGl2aXRpZXMvZGV0YWlscy81NlQ4NzgwOFVHOTMxMjA1RiIsInJlc0NlbnRlckxpbmsiOiIvcmVzb2x1dGlvbmNlbnRlci81NlQ4NzgwOFVHOTMxMjA1RiJ9LCJmZWVkSW5mbyI6e30sImF2YXRhckluZm8iOnsidmlzaWJpbGl0eSI6eyJpc1Byb2dyZXNzTWV0ZXIiOiJnb25lIiwiaXNBdmF0YXIiOiJ2aXNpYmxlIn0sInByb2dyZXNzVmFsdWUiOiIiLCJiYWRnZVZhbHVlIjoiIiwidHlwZSI6ImltYWdlIiwiYXZhdGFyVmFsdWUiOiJodHRwczovL3BpY3MucGF5cGFsLmNvbS8wMC9wL056bGlORE0wTVRBdE9EazNaQzAwT1dSaUxUaG1ObUl0Tm1ZNFlXSXdOVGRpTWpWai9pbWFnZV8zNC5KUEciLCJjbGFzc05hbWVzIjoicHJpbnRfZGV0YWlscyBtZXJjaGFudF9idWJibGUifSwiYW1vdW50SW5mbyI6eyJjb250ZW50cyI6eyJhbW91bnRUZXh0IjoiJm1pbnVzO1VTJDEsMTIiLCJpbnN0YWxsbWVudEFtb3VudE1zZyI6IiJ9LCJjbGFzc05hbWVzIjp7InRyYW5zYWN0aW9uQW1vdW50Q2xhc3NOYW1lIjoidHhuX2FtdF9mb250In0sInZpc2liaWxpdHkiOnsiaXNUcmFuc2FjdGlvbkFtb3VudExheW91dCI6InZpc2libGUiLCJpc0N1cnJlbmN5Q29udmVyc2lvbkljb24iOiJnb25lIiwiaXNJbnN0YWxsbWVudEFtb3VudCI6ImdvbmUifX0sImNvdW50ZXJwYXJ0eUluZm8iOnsiY2xhc3NOYW1lcyI6ImNvdW50ZXJwYXJ0eV9uYW1lIiwiY291bnRlcnBhcnR5TmFtZSI6Ik0uIEhBU0JJIE1VQ0hUQVIgQUgifSwiZGVzY3JpcHRpb25JbmZvIjp7ImNsYXNzTmFtZXMiOnsiZGVzY3JpcHRpb25DbGFzc05hbWVzIjoidHJhbnNhY3Rpb25fdHlwZV90ZXh0In0sImNvbnRlbnQiOnsidHJhbnNhY3Rpb25EZXNjcmlwdGlvblRleHQiOiI5IEp1bCAuIERhbmEgdGVya2lyaW0ifX0sInRyYW5zYWN0aW9uWG9vbUluZm8iOnsiY29udGVudCI6IiIsInZpc2liaWxpdHkiOnsiaXNUcmFuc2FjdGlvblhvb21FdGEiOiJnb25lIn19LCJ2aXNpYmlsaXR5Ijp7ImlzVERQYWdlIjpmYWxzZX0sInJvb3RDb250YWluZXJDbGFzc05hbWVzIjoiIiwicXVhbnR1bUxlYXBSZXdhcmRzU3VtbWFyeSI6eyJyZXdhcmRzVGV4dCI6IiIsImNsYXNzTmFtZSI6eyJjb250ZW50Q2xhc3MiOiJyZXdhcmRzRGVmYXVsdCByZXdhcmRzU3VjY2Vzc1N0YXRlIiwiY29udGFpbmVyQ2xhc3MiOiJhY3Rpdml0eV9saXN0X2FjdGlvbl9jb250YWluZXIifSwiaXNWaXNpYmxlIjoiZ29uZSJ9LCJyZXNjZW50ZXJJbmZvIjp7InZpc2liaWxpdHkiOiJnb25lIn0sImxheW91dCI6eyJjbGFzc05hbWVzIjoiYWN0aXZpdHlfdHJhbnNhY3Rpb25fb3ZlcnZpZXcifX0seyJmbGFncyI6eyJpc1Byb21vT2ZmZXIiOmZhbHNlfSwibm90ZXNJbmZvIjp7Im5vdGVzIjoiIiwidmlzaWJpbGl0eSI6eyJpc1Nob3dOb3RlcyI6ImdvbmUifX0sImlkIjoiNjJMNDg4OTgyNTk4NzIyNUQiLCJkaXNwbGF5RGF0ZSI6IjkgSnVsIiwibGlua3NJbmZvIjp7ImRldGFpbHNMaW5rIjoiL215YWNjb3VudC9hY3Rpdml0aWVzL2RldGFpbHMvNjJMNDg4OTgyNTk4NzIyNUQiLCJyZXNDZW50ZXJMaW5rIjoiL3Jlc29sdXRpb25jZW50ZXIvNjJMNDg4OTgyNTk4NzIyNUQifSwiZmVlZEluZm8iOnt9LCJhdmF0YXJJbmZvIjp7InZpc2liaWxpdHkiOnsiaXNQcm9ncmVzc01ldGVyIjoiZ29uZSIsImlzQXZhdGFyIjoidmlzaWJsZSJ9LCJwcm9ncmVzc1ZhbHVlIjoiIiwiYmFkZ2VWYWx1ZSI6IiIsInR5cGUiOiJpbml0aWFsIiwiYXZhdGFyVmFsdWUiOiJTIiwiY2xhc3NOYW1lcyI6InByaW50X2RldGFpbHMgYnViYmxlX2JhY2tncm91bmRfY29sb3IifSwiYW1vdW50SW5mbyI6eyJjb250ZW50cyI6eyJhbW91bnRUZXh0IjoiK1VTJDEsMTIiLCJpbnN0YWxsbWVudEFtb3VudE1zZyI6IiJ9LCJjbGFzc05hbWVzIjp7InRyYW5zYWN0aW9uQW1vdW50Q2xhc3NOYW1lIjoiaXNDcmVkaXQgdHhuX2FtdF9mb250In0sInZpc2liaWxpdHkiOnsiaXNUcmFuc2FjdGlvbkFtb3VudExheW91dCI6InZpc2libGUiLCJpc0N1cnJlbmN5Q29udmVyc2lvbkljb24iOiJnb25lIiwiaXNJbnN0YWxsbWVudEFtb3VudCI6ImdvbmUifX0sImNvdW50ZXJwYXJ0eUluZm8iOnsiY2xhc3NOYW1lcyI6ImNvdW50ZXJwYXJ0eV9uYW1lIiwiY291bnRlcnBhcnR5TmFtZSI6InN0b2tkODA3QGdtYWlsLmNvbSJ9LCJkZXNjcmlwdGlvbkluZm8iOnsiY2xhc3NOYW1lcyI6eyJkZXNjcmlwdGlvbkNsYXNzTmFtZXMiOiJ0cmFuc2FjdGlvbl90eXBlX3RleHQifSwiY29udGVudCI6eyJ0cmFuc2FjdGlvbkRlc2NyaXB0aW9uVGV4dCI6IjkgSnVsIC4gUGVuZ2VtYmFsaWFuIERhbmEifX0sInRyYW5zYWN0aW9uWG9vbUluZm8iOnsiY29udGVudCI6IiIsInZpc2liaWxpdHkiOnsiaXNUcmFuc2FjdGlvblhvb21FdGEiOiJnb25lIn19LCJ2aXNpYmlsaXR5Ijp7ImlzVERQYWdlIjpmYWxzZX0sInJvb3RDb250YWluZXJDbGFzc05hbWVzIjoiIiwicXVhbnR1bUxlYXBSZXdhcmRzU3VtbWFyeSI6eyJyZXdhcmRzVGV4dCI6IiIsImNsYXNzTmFtZSI6eyJjb250ZW50Q2xhc3MiOiJyZXdhcmRzRGVmYXVsdCByZXdhcmRzU3VjY2Vzc1N0YXRlIiwiY29udGFpbmVyQ2xhc3MiOiJhY3Rpdml0eV9saXN0X2FjdGlvbl9jb250YWluZXIifSwiaXNWaXNpYmxlIjoiZ29uZSJ9LCJyZXNjZW50ZXJJbmZvIjp7InZpc2liaWxpdHkiOiJnb25lIn0sImxheW91dCI6eyJjbGFzc05hbWVzIjoiYWN0aXZpdHlfdHJhbnNhY3Rpb25fb3ZlcnZpZXcifX0seyJmbGFncyI6eyJpc1Byb21vT2ZmZXIiOmZhbHNlfSwibm90ZXNJbmZvIjp7Im5vdGVzIjoiIiwidmlzaWJpbGl0eSI6eyJpc1Nob3dOb3RlcyI6ImdvbmUifX0sImlkIjoiNFM5ODU4NzVYVTkxNTQ3MjYiLCJkaXNwbGF5RGF0ZSI6IjkgSnVsIiwibGlua3NJbmZvIjp7ImRldGFpbHNMaW5rIjoiL215YWNjb3VudC9hY3Rpdml0aWVzL2RldGFpbHMvNFM5ODU4NzVYVTkxNTQ3MjYiLCJyZXNDZW50ZXJMaW5rIjoiL3Jlc29sdXRpb25jZW50ZXIvNFM5ODU4NzVYVTkxNTQ3MjYifSwiZmVlZEluZm8iOnt9LCJhdmF0YXJJbmZvIjp7InZpc2liaWxpdHkiOnsiaXNQcm9ncmVzc01ldGVyIjoiZ29uZSIsImlzQXZhdGFyIjoidmlzaWJsZSJ9LCJwcm9ncmVzc1ZhbHVlIjoiIiwiYmFkZ2VWYWx1ZSI6IiIsInR5cGUiOiJpbml0aWFsIiwiYXZhdGFyVmFsdWUiOiJTIiwiY2xhc3NOYW1lcyI6InByaW50X2RldGFpbHMgYnViYmxlX2JhY2tncm91bmRfY29sb3IifSwiYW1vdW50SW5mbyI6eyJjb250ZW50cyI6eyJhbW91bnRUZXh0IjoiJm1pbnVzO1VTJDEsMTIiLCJpbnN0YWxsbWVudEFtb3VudE1zZyI6IiJ9LCJjbGFzc05hbWVzIjp7InRyYW5zYWN0aW9uQW1vdW50Q2xhc3NOYW1lIjoidHhuX2FtdF9mb250IHN0cmlrZV9vdXQifSwidmlzaWJpbGl0eSI6eyJpc1RyYW5zYWN0aW9uQW1vdW50TGF5b3V0IjoidmlzaWJsZSIsImlzQ3VycmVuY3lDb252ZXJzaW9uSWNvbiI6ImdvbmUiLCJpc0luc3RhbGxtZW50QW1vdW50IjoiZ29uZSJ9fSwiY291bnRlcnBhcnR5SW5mbyI6eyJjbGFzc05hbWVzIjoiY291bnRlcnBhcnR5X25hbWUiLCJjb3VudGVycGFydHlOYW1lIjoic3Rva2Q4MDdAZ21haWwuY29tIn0sImRlc2NyaXB0aW9uSW5mbyI6eyJjbGFzc05hbWVzIjp7ImRlc2NyaXB0aW9uQ2xhc3NOYW1lcyI6InRyYW5zYWN0aW9uX3R5cGVfdGV4dCJ9LCJjb250ZW50Ijp7InRyYW5zYWN0aW9uRGVzY3JpcHRpb25UZXh0IjoiOSBKdWwgLiBEYW5hIHRlcmtpcmltIC0gRGliYXRhbGthbiJ9fSwidHJhbnNhY3Rpb25Yb29tSW5mbyI6eyJjb250ZW50IjoiIiwidmlzaWJpbGl0eSI6eyJpc1RyYW5zYWN0aW9uWG9vbUV0YSI6ImdvbmUifX0sInZpc2liaWxpdHkiOnsiaXNURFBhZ2UiOmZhbHNlfSwicm9vdENvbnRhaW5lckNsYXNzTmFtZXMiOiIiLCJxdWFudHVtTGVhcFJld2FyZHNTdW1tYXJ5Ijp7InJld2FyZHNUZXh0IjoiIiwiY2xhc3NOYW1lIjp7ImNvbnRlbnRDbGFzcyI6InJld2FyZHNEZWZhdWx0IHJld2FyZHNTdWNjZXNzU3RhdGUiLCJjb250YWluZXJDbGFzcyI6ImFjdGl2aXR5X2xpc3RfYWN0aW9uX2NvbnRhaW5lciJ9LCJpc1Zpc2libGUiOiJnb25lIn0sInJlc2NlbnRlckluZm8iOnsidmlzaWJpbGl0eSI6ImdvbmUifSwibGF5b3V0Ijp7ImNsYXNzTmFtZXMiOiJhY3Rpdml0eV90cmFuc2FjdGlvbl9vdmVydmlldyJ9fV19LCJ0ZW1wbGF0ZSI6eyJmbG93cyI6W3siaWQiOiJBY3Rpdml0eV9MaXN0X1Byb21vc19PZmZlcnMiLCJmcmFtZXMiOlt7ImlkIjoiYWN0aXZpdHlfcHJvbW9zX29mZmVyc19mcmFtZSIsInJvb3QiOnsiaWQiOiJjYXJkIiwicHJvcGVydGllcyI6eyJ0aGVtZV92ZXJzaW9uIjoidjIifSwibGF5b3V0Ijp7ImRpbWVuc2lvbiI6eyJ3aWR0aCI6InBhcmVudCIsImhlaWdodCI6ImF1dG8ifX0sImNoaWxkcmVuIjpbeyJpZCI6ImFjdGl2aXR5X3Byb21vc19vZmZlcnNfY29udGFpbmVyIiwicHJvcGVydGllcyI6eyJmbGV4X2RpcmVjdGlvbiI6InJvdyIsImFsaWduX2l0ZW1zIjoiZmxleF9zdGFydCIsImp1c3RpZnlfY29udGVudCI6InNwYWNlX2JldHdlZW4iLCJhY2Nlc3NpYmlsaXR5X3RleHQiOiIifSwibGF5b3V0Ijp7Im1hcmdpbiI6eyJ0b3AiOjE2LCJib3R0b20iOjE2LCJsZWZ0IjoxNiwicmlnaHQiOjE2fSwiZGltZW5zaW9uIjp7IndpZHRoIjoicGFyZW50IiwiaGVpZ2h0IjoiYXV0byJ9fSwiY2hpbGRyZW4iOlt7ImlkIjoibWVyY2hhbnRfYXZhdGFyIiwicHJvcGVydGllcyI6eyJzdHlsZSI6ImltYWdlIiwidGhlbWVfdmVyc2lvbiI6InYyIiwic3R5bGVfdmFsdWUiOiIke2Zsb3dfY3R4Lm1lcmNoYW50X2xvZ29fdXJsfSIsInNpemUiOiJzbSJ9LCJsYXlvdXQiOnsibWFyZ2luIjp7InRvcCI6MTB9fSwidHlwZSI6IlBQVUlfQVZBVEFSIn0seyJpZCI6ImFjdGl2aXR5X3Byb21vc19vZmZlcnNfZGV0YWlsc19jb250YWluZXIiLCJwcm9wZXJ0aWVzIjp7ImZsZXhfZGlyZWN0aW9uIjoiY29sdW1uIiwiYWxpZ25faXRlbXMiOiJmbGV4X3N0YXJ0IiwianVzdGlmeV9jb250ZW50Ijoic3BhY2VfYmV0d2VlbiIsImFjY2Vzc2liaWxpdHlfdGV4dCI6IiJ9LCJsYXlvdXQiOnsibWFyZ2luIjp7ImxlZnQiOjE2fSwiZGltZW5zaW9uIjp7IndpZHRoIjoicGFyZW50IiwiaGVpZ2h0IjoiYXV0byJ9fSwiY2hpbGRyZW4iOlt7ImlkIjoicHJvbW9fb2ZmZXJzX3R5cGUiLCJwcm9wZXJ0aWVzIjp7InRleHQiOiIke2Zsb3dfY3R4Lm9mZmVyX3R5cGVfZGVzY3JpcHRpb259IiwiZm9udF90eXBlIjoiY2FwdGlvbiIsInRoZW1lX3ZlcnNpb24iOiJ2MiIsImNsYXNzX25hbWUiOiJjYXB0aW9uVGV4dEZvbnRGYW1pbHlfMiJ9LCJ0eXBlIjoiUFBVSV9URVhUIn0seyJpZCI6InByb21vX29mZmVyc19jYXNoYmFjayIsInByb3BlcnRpZXMiOnsidGV4dCI6IiR7Zmxvd19jdHguY2FzaGJhY2tfZGVzY3JpcHRpb259IiwiZm9udF90eXBlIjoiYm9keSIsInRoZW1lX3ZlcnNpb24iOiJ2MiIsImxpbmVfYnJlYWtfbW9kZSI6IndvcmRfd3JhcCIsImNsYXNzX25hbWUiOiJjYXB0aW9uVGV4dEZvbnRGYW1pbHlfMiBjYXNoYmFja0Rlc2NyaXB0aW9uIn0sImxheW91dCI6eyJtYXJnaW4iOnsidG9wIjoyfX0sInR5cGUiOiJQUFVJX1RFWFQifSx7ImlkIjoicHJvbW9fb2ZmZXJzX21lcmNoYW50X25hbWUiLCJwcm9wZXJ0aWVzIjp7InRleHQiOiIke2Zsb3dfY3R4Lm1lcmNoYW50X25hbWV9IiwiZm9udF90eXBlIjoiY2FwdGlvbiIsImNsYXNzX25hbWUiOiJjYXB0aW9uVGV4dEZvbnRGYW1pbHlfMiIsInRoZW1lX3ZlcnNpb24iOiJ2MiJ9LCJsYXlvdXQiOnsibWFyZ2luIjp7InRvcCI6Mn19LCJ0eXBlIjoiUFBVSV9URVhUIn0seyJpZCI6InByb21vX29mZmVyc19hY3Rpb25zIiwicHJvcGVydGllcyI6eyJvcmllbnRhdGlvbiI6Imhvcml6b250YWwiLCJpdGVyYWJsZV9kYXRhIjoiJHtmbG93X2N0eC5hY3Rpb25zfSIsImluZGV4X2FzIjoiYWN0aW9uX2luZGV4IiwidmlzaWJsZV9pdGVtX2NvdW50IjoiMiJ9LCJsYXlvdXQiOnsibWFyZ2luIjp7InRvcCI6MTJ9fSwiY2hpbGRyZW4iOlt7ImlkIjoicHJvbW9fb2ZmZXJzX3NhdmVfbGluayIsInByb3BlcnRpZXMiOnsidGV4dCI6IiR7Zmxvd19jdHguYWN0aW9uc1thY3Rpb25faW5kZXhdLmFjdGlvbl9uYW1lfSIsInRoZW1lX3ZlcnNpb24iOiJ2MiIsImNsYXNzX25hbWUiOiJib2R5VGV4dEZvbnRGYW1pbHlfMiJ9LCJsYXlvdXQiOnsibWFyZ2luIjp7InJpZ2h0IjoxMn19LCJ0eXBlIjoiUFBVSV9MSU5LIiwiYWN0aW9uX3RyaWdnZXJzIjp7Im9uX2NsaWNrIjp7ImFjdGlvbl9pZCI6Im9mZmVyX2FjdGlvbl9jbGlja2VkIiwicGFyYW1hdGVycyI6eyJhY3Rpb25faWQiOiIke2Zsb3dfY3R4LmFjdGlvbnNbYWN0aW9uX2luZGV4XS5hY3Rpb25faWR9IiwibW9iaWxlX25hdmlnYXRpb25fdXJsIjoiJHtmbG93X2N0eC5hY3Rpb25zW2FjdGlvbl9pbmRleF0ubW9iaWxlX25hdmlnYXRpb25fdXJsfSIsIm9mZmVyX2lkIjoiJHtmbG93X2N0eC5jYW1wYWlnbl9pZH0ifX19fV0sInR5cGUiOiJMSU5FQVJfTElTVF9DT05UQUlORVIifV0sInR5cGUiOiJGTEVYX0NPTlRBSU5FUiIsImFjdGlvbl90cmlnZ2VycyI6eyJvbl9jbGljayI6eyJhY3Rpb25faWQiOiJvZmZlcl9jbGlja2VkIiwicGFyYW1hdGVycyI6eyJvZmZlcl9pZCI6IiR7Zmxvd19jdHguY2FtcGFpZ25faWR9In19fX1dLCJ0eXBlIjoiRkxFWF9DT05UQUlORVIiLCJhY3Rpb25fdHJpZ2dlcnMiOnsib25fY2xpY2siOnsiYWN0aW9uX2lkIjoib2ZmZXJfY2xpY2tlZCIsInBhcmFtYXRlcnMiOnsib2ZmZXJfaWQiOiIke2Zsb3dfY3R4LmNhbXBhaWduX2lkfSJ9fX19XSwidHlwZSI6IlBQVUlfQ0FSRCIsImFjdGlvbl90cmlnZ2VycyI6eyJvbl9jbGljayI6eyJhY3Rpb25faWQiOiJvZmZlcl9jbGlja2VkIiwicGFyYW1hdGVycyI6eyJvZmZlcl9pZCI6IiR7Zmxvd19jdHguY2FtcGFpZ25faWR9In19fX0sImFjdGlvbnMiOlt7ImlkIjoib2ZmZXJfY2xpY2tlZCIsInR5cGUiOiJDQUxMQkFDSyIsInByb3BlcnRpZXMiOnsidHlwZSI6Im9mZmVyX2NsaWNrZWQifX0seyJpZCI6Im9mZmVyX2FjdGlvbl9jbGlja2VkIiwidHlwZSI6IkNBTExCQUNLIiwicHJvcGVydGllcyI6eyJ0eXBlIjoib2ZmZXJfYWN0aW9uX2NsaWNrZWQifX1dLCJtZXRhZGF0YSI6e319XSwibWV0YWRhdGEiOnsiY2FjaGVfbWV0YWRhdGEiOnsibDFfY2FjaGVfZW5hYmxlZCI6dHJ1ZSwibDJfY2FjaGVfZW5hYmxlZCI6dHJ1ZSwibDJfY2FjaGVfdHlwZSI6IkdMT0JBTCJ9fSwiaW5pdGlhbF9mcmFtZV9pZCI6ImFjdGl2aXR5X3Byb21vc19vZmZlcnNfZnJhbWUiLCJ0ZW5hbnRfaWQiOiJQYXlQYWwiLCJ2ZXJzaW9uIjoiMS45LjEiLCJmbG93X3ZlcnNpb24iOjN9LHsiaWQiOiJhY3Rpdml0eV90cmFuc2FjdGlvbl9vdmVydmlldyIsImZyYW1lcyI6W3siaWQiOiJhY3Rpdml0eV90cmFuc2FjdGlvbl9vdmVydmlld19mcmFtZSIsInJvb3QiOnsiaWQiOiJ0cmFuc19vdmVydmlld19yb290X2NvbnRhaW5lciIsInByb3BlcnRpZXMiOnsiZmxleF9kaXJlY3Rpb24iOiJyb3ciLCJsYXlvdXRfZGlyZWN0aW9uIjoiaW5oZXJpdCIsImNsYXNzX25hbWUiOiIke2Zsb3dfY3R4LmxheW91dC5jbGFzc05hbWVzfSJ9LCJsYXlvdXQiOnsiZGltZW5zaW9uIjp7IndpZHRoIjoicGFyZW50IiwiaGVpZ2h0IjoiYXV0byJ9fSwiY2hpbGRyZW4iOlt7ImlkIjoicmVzY2VudGVyX3JhZGlvX2J1dHRvbiIsInByb3BlcnRpZXMiOnsiaW5kZXhfYXMiOiJyYWRpb0J1dHRvbl9pbmRleCIsInByZV9zZWxlY3RfaW5kZXgiOiItMSIsIml0ZXJhYmxlX2RhdGEiOiIke2Zsb3dfY3R4LnJlc2NlbnRlckluZm8ucmFkaW9JdGVyYWJsZURhdGF9IiwidmFsdWVfbWFwcGluZ19hdHRyaWJ1dGUiOiJpZCIsInZpc2liaWxpdHkiOiIke2Zsb3dfY3R4LnJlc2NlbnRlckluZm8udmlzaWJpbGl0eX0ifSwibGF5b3V0Ijp7Im1hcmdpbiI6eyJ0b3AiOi0zNH19LCJ0eXBlIjoiUFBVSV9SQURJT19CVVRUT04iLCJhY3Rpb25fdHJpZ2dlcnMiOnsib25fc2VsZWN0Ijp7ImFjdGlvbl9pZCI6InJhZGlvX2J1dHRvbl9jbGlja2VkIn19fSx7ImlkIjoidHJhbnNhY3Rpb25fYXZhdGFyX2NvbnRhaW5lciIsInByb3BlcnRpZXMiOnsiZmxleF9kaXJlY3Rpb24iOiJyb3ciLCJsYXlvdXRfZGlyZWN0aW9uIjoiaW5oZXJpdCJ9LCJjaGlsZHJlbiI6W3siaWQiOiJhdmF0YXIiLCJwcm9wZXJ0aWVzIjp7InNpemUiOiJzbSIsInN0eWxlIjoiJHtmbG93X2N0eC5hdmF0YXJJbmZvLnR5cGV9Iiwic3R5bGVfdmFsdWUiOiIke2Zsb3dfY3R4LmF2YXRhckluZm8uYXZhdGFyVmFsdWV9IiwiY2xhc3NfbmFtZSI6IiR7Zmxvd19jdHguYXZhdGFySW5mby5jbGFzc05hbWVzfSIsImJhZGdlX3N0eWxlIjoiJHtmbG93X2N0eC5hdmF0YXJJbmZvLmJhZGdlVmFsdWV9IiwidmlzaWJpbGl0eSI6IiR7Zmxvd19jdHguYXZhdGFySW5mby52aXNpYmlsaXR5LmlzQXZhdGFyfSIsImZhbGxiYWNrX3N0eWxlIjoiZ2VuZXJpYyIsImZhbGxiYWNrX3N0eWxlX3ZhbHVlIjoibWVyY2hhbnQifSwidHlwZSI6IlBQVUlfQVZBVEFSIn0seyJpZCI6InByb2dyZXNzX21ldGVyIiwicHJvcGVydGllcyI6eyJ2aXNpYmlsaXR5IjoiJHtmbG93X2N0eC5hdmF0YXJJbmZvLnZpc2liaWxpdHkuaXNQcm9ncmVzc01ldGVyfSIsInN0eWxlIjoiJHtmbG93X2N0eC5hdmF0YXJJbmZvLnR5cGV9Iiwic3R5bGVfdmFsdWUiOiIke2Zsb3dfY3R4LmF2YXRhckluZm8uYXZhdGFyVmFsdWV9IiwicHJvZ3Jlc3MiOiIke2Zsb3dfY3R4LmF2YXRhckluZm8ucHJvZ3Jlc3NWYWx1ZX0iLCJwcm9ncmVzc19jb2xvciI6ImdyZWVuIn0sInR5cGUiOiJQUFVJX1BST0dSRVNTX01FVEVSX0NJUkNMRSJ9XSwidHlwZSI6IkZMRVhfQ09OVEFJTkVSIn0seyJpZCI6Im92ZXJ2aWV3LWRlc2NyaXB0aW9uLWNvbnRhaW5lciIsInByb3BlcnRpZXMiOnsiZmxleF9kaXJlY3Rpb24iOiJjb2x1bW4iLCJsYXlvdXRfZGlyZWN0aW9uIjoiaW5oZXJpdCIsImNsYXNzX25hbWUiOiJkZXNjcmlwdGlvbl9jb250YWluZXIifSwibGF5b3V0Ijp7Im1hcmdpbiI6eyJsZWZ0IjoxNn19LCJjaGlsZHJlbiI6W3siaWQiOiJjb3VudGVycGFydHktbmFtZS1hbmQtYW1vdW50LWNvbnRhaW5lciIsInByb3BlcnRpZXMiOnsiZmxleF9kaXJlY3Rpb24iOiJyb3ciLCJsYXlvdXRfZGlyZWN0aW9uIjoiaW5oZXJpdCJ9LCJjaGlsZHJlbiI6W3siaWQiOiJjb3VudGVycGFydHlfbmFtZV9jb250YWluZXIiLCJwcm9wZXJ0aWVzIjp7ImZsZXhfZGlyZWN0aW9uIjoicm93IiwibGF5b3V0X2RpcmVjdGlvbiI6ImluaGVyaXQifSwibGF5b3V0Ijp7Im1hcmdpbiI6eyJyaWdodCI6MTJ9LCJmbGV4Ijp7ImZsZXhfZ3JvdyI6MX19LCJjaGlsZHJlbiI6W3siaWQiOiJjb3VudGVycGFydHlfbmFtZSIsInByb3BlcnRpZXMiOnsid2VpZ2h0Ijoic3Ryb25nIiwidGV4dCI6IiR7Zmxvd19jdHguY291bnRlcnBhcnR5SW5mby5jb3VudGVycGFydHlOYW1lfSIsImNsYXNzX25hbWUiOiJjb3VudGVycGFydHlfbmFtZSIsImZvbnRfdHlwZSI6ImJvZHkifSwibGF5b3V0Ijp7ImRpbWVuc2lvbiI6eyJ3aWR0aCI6InBhcmVudCJ9LCJmbGV4Ijp7InBvc2l0aW9uX3R5cGUiOiJhYnNvbHV0ZSJ9fSwidHlwZSI6IlBQVUlfVEVYVCJ9XSwidHlwZSI6IkZMRVhfQ09OVEFJTkVSIn0seyJpZCI6ImFtb3VudF9jb250YWluZXIiLCJwcm9wZXJ0aWVzIjp7ImZsZXhfZGlyZWN0aW9uIjoicm93IiwibGF5b3V0X2RpcmVjdGlvbiI6ImluaGVyaXQiLCJ2aXNpYmlsaXR5IjoiJHtmbG93X2N0eC5hbW91bnRJbmZvLnZpc2liaWxpdHkuaXNUcmFuc2FjdGlvbkFtb3VudExheW91dH0ifSwiY2hpbGRyZW4iOlt7ImlkIjoidHJhbnNhY3Rpb25fYW1vdW50X2NvbnRhaW5lciIsInByb3BlcnRpZXMiOnsiZmxleF9kaXJlY3Rpb24iOiJyb3ciLCJsYXlvdXRfZGlyZWN0aW9uIjoiaW5oZXJpdCJ9LCJsYXlvdXQiOnsiZGltZW5zaW9uIjp7IndpZHRoIjoicGFyZW50In19LCJjaGlsZHJlbiI6W3siaWQiOiJjdXJyZW5jeV9jb252ZXJzaW9uX2ljb24iLCJwcm9wZXJ0aWVzIjp7InRleHQiOiIiLCJjbGFzc19uYW1lIjoiY3VycmVuY3lfY29udmVyc2lvbl9pY29uIiwidmlzaWJpbGl0eSI6IiR7Zmxvd19jdHguYW1vdW50SW5mby52aXNpYmlsaXR5LmlzQ3VycmVuY3lDb252ZXJzaW9uSWNvbn0ifSwidHlwZSI6IlBQVUlfVEVYVCJ9LHsiaWQiOiJ0cmFuc2FjdGlvbl9hbW91bnQiLCJwcm9wZXJ0aWVzIjp7InRleHQiOiIke2Zsb3dfY3R4LmFtb3VudEluZm8uY29udGVudHMuYW1vdW50VGV4dH0iLCJjbGFzc19uYW1lIjoiJHtmbG93X2N0eC5hbW91bnRJbmZvLmNsYXNzTmFtZXMudHJhbnNhY3Rpb25BbW91bnRDbGFzc05hbWV9In0sInR5cGUiOiJSSUNIX1RFWFQifV0sInR5cGUiOiJGTEVYX0NPTlRBSU5FUiJ9LHsiaWQiOiJpbnN0YWxsbWVudF9hbW91bnRfY29udGFpbmVyIiwicHJvcGVydGllcyI6eyJmbGV4X2RpcmVjdGlvbiI6InJvdyIsImxheW91dF9kaXJlY3Rpb24iOiJpbmhlcml0IiwiY2xhc3NfbmFtZSI6Imluc3RhbGxtZW50X2Ftb3VudF9jb250YWluZXIiLCJ2aXNpYmlsaXR5IjoiJHtmbG93X2N0eC5hbW91bnRJbmZvLnZpc2liaWxpdHkuaXNJbnN0YWxsbWVudEFtb3VudH0ifSwibGF5b3V0Ijp7InBhZGRpbmciOnsicmlnaHQiOjR9LCJkaW1lbnNpb24iOnsid2lkdGgiOiJwYXJlbnQifX0sImNoaWxkcmVuIjpbeyJpZCI6Imluc3RhbGxtZW50X2Ftb3VudCIsInByb3BlcnRpZXMiOnsidGV4dCI6IiR7Zmxvd19jdHguYW1vdW50SW5mby5jb250ZW50cy5pbnN0YWxsbWVudEFtb3VudE1zZ30iLCJzaXplIjoibGciLCJmb250X3R5cGUiOiJjYXB0aW9uIn0sInR5cGUiOiJQUFVJX1RFWFQifV0sInR5cGUiOiJGTEVYX0NPTlRBSU5FUiJ9XSwidHlwZSI6IkZMRVhfQ09OVEFJTkVSIn1dLCJ0eXBlIjoiRkxFWF9DT05UQUlORVIifSx7ImlkIjoiZGVzY3JpcHRpb24tYW5kLXJld2FyZHMtY29udGFpbmVyIiwicHJvcGVydGllcyI6eyJmbGV4X2RpcmVjdGlvbiI6InJvdyIsImxheW91dF9kaXJlY3Rpb24iOiJpbmhlcml0In0sImNoaWxkcmVuIjpbeyJpZCI6ImRlc2NyaXB0aW9uLWNvbnRhaW5lciIsInByb3BlcnRpZXMiOnsiZmxleF9kaXJlY3Rpb24iOiJjb2x1bW4iLCJsYXlvdXRfZGlyZWN0aW9uIjoiaW5oZXJpdCJ9LCJsYXlvdXQiOnsibWFyZ2luIjp7InJpZ2h0IjoxMn0sImRpbWVuc2lvbiI6eyJ3aWR0aCI6IjUwJSJ9LCJmbGV4Ijp7ImZsZXhfZ3JvdyI6MX19LCJjaGlsZHJlbiI6W3siaWQiOiJ0cmFuc2FjdGlvbl9kZXNjcmlwdGlvbiIsInByb3BlcnRpZXMiOnsidGV4dCI6IiR7Zmxvd19jdHguZGVzY3JpcHRpb25JbmZvLmNvbnRlbnQudHJhbnNhY3Rpb25EZXNjcmlwdGlvblRleHR9IiwiZm9udF90eXBlIjoiY2FwdGlvbiIsImNsYXNzX25hbWUiOiIke2Zsb3dfY3R4LmRlc2NyaXB0aW9uSW5mby5jbGFzc05hbWVzLmRlc2NyaXB0aW9uQ2xhc3NOYW1lc30ifSwibGF5b3V0Ijp7Im1hcmdpbiI6eyJyaWdodCI6MTJ9fSwidHlwZSI6IlBQVUlfVEVYVCJ9LHsiaWQiOiJ0cmFuc2FjdGlvbi1ldGEiLCJwcm9wZXJ0aWVzIjp7ImNsYXNzX25hbWUiOiJ0cmFuc2FjdGlvbl9ldGEiLCJ0ZXh0IjoiJHtmbG93X2N0eC50cmFuc2FjdGlvblhvb21JbmZvLmNvbnRlbnR9IiwidmlzaWJpbGl0eSI6IiR7Zmxvd19jdHgudHJhbnNhY3Rpb25Yb29tSW5mby52aXNpYmlsaXR5LmlzVHJhbnNhY3Rpb25Yb29tRXRhfSIsImZvbnRfdHlwZSI6ImNhcHRpb24ifSwidHlwZSI6IlBQVUlfVEVYVCJ9LHsiaWQiOiJ0cmFuc2FjdGlvbi1ub3RlcyIsInByb3BlcnRpZXMiOnsiY2xhc3NfbmFtZSI6InRyYW5zYWN0aW9uX25vdGVzIiwidGV4dCI6IiR7Zmxvd19jdHgubm90ZXNJbmZvLm5vdGVzfSIsInZpc2liaWxpdHkiOiIke2Zsb3dfY3R4Lm5vdGVzSW5mby52aXNpYmlsaXR5LmlzU2hvd05vdGVzfSIsImZvbnRfdHlwZSI6ImNhcHRpb24ifSwibGF5b3V0Ijp7ImRpbWVuc2lvbiI6eyJ3aWR0aCI6InBhcmVudCJ9fSwidHlwZSI6IlBQVUlfVEVYVCJ9XSwidHlwZSI6IkZMRVhfQ09OVEFJTkVSIn0seyJpZCI6InNlY29uZF9yb3dfZGVzY3JpcHRpb25fcmlnaHQiLCJwcm9wZXJ0aWVzIjp7ImNsYXNzX25hbWUiOiIke2Zsb3dfY3R4LnF1YW50dW1MZWFwUmV3YXJkc1N1bW1hcnkuY2xhc3NOYW1lLmNvbnRhaW5lckNsYXNzfSJ9LCJsYXlvdXQiOnsiZGltZW5zaW9uIjp7IndpZHRoIjoiYXV0byJ9LCJmbGV4Ijp7ImZsZXhfZ3JvdyI6MCwiZmxleF9zaHJpbmsiOjF9fSwiY2hpbGRyZW4iOlt7ImlkIjoiZGV0YWlscy1hY3Rpb24tbGluayIsInByb3BlcnRpZXMiOnsidGV4dCI6IiR7Zmxvd19jdHguYWN0aW9uc0luZm8udGV4dH0iLCJzaXplIjoic20iLCJjbGFzc19uYW1lIjoiJHtmbG93X2N0eC5hY3Rpb25zSW5mby5jbGFzc05hbWV9IiwidmlzaWJpbGl0eSI6IiR7Zmxvd19jdHguYWN0aW9uc0luZm8uaXNWaXNpYmxlfSJ9LCJ0eXBlIjoiUFBVSV9MSU5LIiwiYWN0aW9uX3RyaWdnZXJzIjp7Im9uX2NsaWNrIjp7ImFjdGlvbl9pZCI6InRyYW5zYWN0aW9uX2FjdGlvbl9saW5rX2NsaWNrZWQifX19LHsiaWQiOiJyZXdhcmRzLXBvaW50cy1jb250YWluZXIiLCJwcm9wZXJ0aWVzIjp7InRleHQiOiIke2Zsb3dfY3R4LnF1YW50dW1MZWFwUmV3YXJkc1N1bW1hcnkucmV3YXJkc1RleHR9IiwiZm9udF90eXBlIjoiY2FwdGlvbiIsImNsYXNzX25hbWUiOiIke2Zsb3dfY3R4LnF1YW50dW1MZWFwUmV3YXJkc1N1bW1hcnkuY2xhc3NOYW1lLmNvbnRlbnRDbGFzc30iLCJ2aXNpYmlsaXR5IjoiJHtmbG93X2N0eC5xdWFudHVtTGVhcFJld2FyZHNTdW1tYXJ5LmlzVmlzaWJsZX0iLCJ0ZXh0X2FsaWdubWVudCI6InJpZ2h0In0sInR5cGUiOiJQUFVJX1RFWFQifV0sInR5cGUiOiJGTEVYX0NPTlRBSU5FUiJ9XSwidHlwZSI6IkZMRVhfQ09OVEFJTkVSIn1dLCJ0eXBlIjoiRkxFWF9DT05UQUlORVIiLCJhY3Rpb25fdHJpZ2dlcnMiOnsib25fY2xpY2siOnsiYWN0aW9uX2lkIjoidHJhbnNhY3Rpb25fY2xpY2tlZCJ9fX1dLCJ0eXBlIjoiRkxFWF9DT05UQUlORVIiLCJhY3Rpb25fdHJpZ2dlcnMiOnsib25fY2xpY2siOnsiYWN0aW9uX2lkIjoidHJhbnNhY3Rpb25fY2xpY2tlZCJ9LCJvbl9sb2FkIjp7ImFjdGlvbl9pZCI6InRyaWdnZXJfb25sb2FkIn19fSwiYWN0aW9ucyI6W3siaWQiOiJkZXNlbGVjdF9yYWRpb19idXR0b24iLCJ0eXBlIjoiU0VUX0RBVEEiLCJwcm9wZXJ0aWVzIjp7InBheWxvYWQiOlt7InN0cmF0ZWd5IjoiUkVQTEFDRSIsImRhdGEiOnsiZnJhbWVfY3R4LnJhZGlvQnV0dG9uX2luZGV4IjotMX19XX19LHsiaWQiOiJ0cmFuc2FjdGlvbl9hY3Rpb25fbGlua19jbGlja2VkIiwidHlwZSI6IkFDVElPTl9DSEFJTiIsInByb3BlcnRpZXMiOnsiY2hhaW5fdHlwZSI6IlNFUVVFTlRJQUwiLCJhY3Rpb25zIjpbeyJhY3Rpb25faWQiOiJsaXN0X3BhZ2VfYWN0aW9uX2ZwdGkifSx7ImFjdGlvbl9pZCI6InRyYW5zYWN0aW9uX2NsaWNrZWRfY2FsbGJhY2sifV19fSx7ImlkIjoidGRfcGFnZV9mcHRpLWltcHJlc3Npb24iLCJ0eXBlIjoiRlBUSSIsInByb3BlcnRpZXMiOnsiZXZlbnRfdHlwZSI6ImltIiwicGF5bG9hZCI6eyJwZ3JwIjoiJHtmbG93X2N0eC5mcHRpRGF0YS5hdmF0YXJGUFRJUGF5bG9hZC5wZ3JwfSIsInBhZ2UiOiIke2Zsb3dfY3R4LmZwdGlEYXRhLmF2YXRhckZQVElQYXlsb2FkLnBhZ2V9IiwibW9kdWxlIjoiJHtmbG93X2N0eC5mcHRpRGF0YS5hdmF0YXJGUFRJUGF5bG9hZC5tb2R1bGV9IiwibG9nbyI6IiR7Zmxvd19jdHguZnB0aURhdGEuYXZhdGFyRlBUSVBheWxvYWQubG9nb30iLCJ0b3RhbF9jb3VudCI6IiR7Zmxvd19jdHguZnB0aURhdGEuYXZhdGFyRlBUSVBheWxvYWQudG90YWxfY291bnR9IiwiZXZlbnRfbmFtZSI6IiR7Zmxvd19jdHguZnB0aURhdGEuYXZhdGFyRlBUSVBheWxvYWQuZXZlbnRfbmFtZX0iLCJtZXJjaGFudExvZ29zIjoiJHtmbG93X2N0eC5mcHRpRGF0YS5hdmF0YXJGUFRJUGF5bG9hZC5tZXJjaGFudExvZ29zfSIsImV2bnRfdHlwZSI6ImltIiwiY3VzdCI6IiR7Zmxvd19jdHguZnB0aURhdGEuYXZhdGFyRlBUSVBheWxvYWQuY3VzdElkfSIsImNoYW5uZWxJbmZvIjoiJHtmbG93X2N0eC5mcHRpRGF0YS5hdmF0YXJGUFRJUGF5bG9hZC5jaGFubmVsSW5mb30iLCJpc1NwZiI6InRydWUiLCJzcGFjZV9rZXkiOiIke2Zsb3dfY3R4LmZwdGlEYXRhLmF2YXRhckZQVElQYXlsb2FkLnNwYWNlX2tleX0iLCJ0cmFmZmljX3NvdXJjZSI6IiR7Zmxvd19jdHguZnB0aURhdGEuYXZhdGFyRlBUSVBheWxvYWQudHJhZmZpY19zb3VyY2V9In19fSx7ImlkIjoidHJhbnNhY3Rpb25fY2xpY2tlZCIsInR5cGUiOiJBQ1RJT05fQ0hBSU4iLCJwcm9wZXJ0aWVzIjp7ImNoYWluX3R5cGUiOiJQQVJBTExFTCIsImFjdGlvbnMiOlt7ImFjdGlvbl9pZCI6InRyYW5zYWN0aW9uX2NsaWNrZWRfY2FsbGJhY2sifV19fSx7ImlkIjoibGlzdF9wYWdlX2ZwdGktaW1wcmVzc2lvbiIsInR5cGUiOiJGUFRJIiwicHJvcGVydGllcyI6eyJldmVudF90eXBlIjoiaW0iLCJwYXlsb2FkIjoiJHtmbG93X2N0eC5mcHRpSW5mby5pbXByZXNzaW9uc30ifX0seyJpZCI6InJhZGlvX2J1dHRvbl9jbGlja2VkIiwidHlwZSI6IkFDVElPTl9DSEFJTiIsInByb3BlcnRpZXMiOnsiY2hhaW5fdHlwZSI6IlNFUVVFTlRJQUwiLCJhY3Rpb25zIjpbeyJhY3Rpb25faWQiOiJvcGVuX2RpYWxvZyJ9XX19LHsiaWQiOiJ0cmlnZ2VyX29ubG9hZCIsInR5cGUiOiJBQ1RJT05fQ0hBSU4iLCJwcm9wZXJ0aWVzIjp7ImNoYWluX3R5cGUiOiJTRVFVRU5USUFMIiwiYWN0aW9ucyI6W3siYWN0aW9uX2lkIjp7InJ1bGUiOiJ2YWxpZGF0ZV90cmlnZ2VyX3RkX3BhZ2VfZnB0aV9hY3Rpb24iLCJ0eXBlIjoiRVhQUkVTU0lPTiIsImRhdGEiOnsiaXNURFBhZ2UiOiIke2Zsb3dfY3R4LnZpc2liaWxpdHkuaXNURFBhZ2V9In19fSx7ImFjdGlvbl9pZCI6eyJydWxlIjoidmFsaWRhdGVfdHJpZ2dlcl9saXN0X3BhZ2VfZnB0aV9hY3Rpb24iLCJ0eXBlIjoiRVhQUkVTU0lPTiIsImRhdGEiOnsiaXNMaXN0IjoiJHtmbG93X2N0eC52aXNpYmlsaXR5LmlzTGlzdH0ifX19XX19LHsiaWQiOiJvcGVuX2RpYWxvZyIsInR5cGUiOiJPUEVOX0ZSQU1FIiwidHJhbnNpdGlvbnMiOlt7ImV2ZW50IjoiT05fQ0FOQ0VMTEVEIiwiYWN0aW9uX2lkIjoiZGVzZWxlY3RfcmFkaW9fYnV0dG9uIn1dLCJwcm9wZXJ0aWVzIjp7ImZyYW1lX2lkIjoicmVzY2VudGVyX2RpYWxvZ19mcmFtZSIsInByZXNlbnRhdGlvbl90eXBlIjoiRElBTE9HIiwicHJlc2VudGF0aW9uX3BhcmFtZXRlcnMiOnsiRElBTE9HIjp7ImhlaWdodCI6ImF1dG8ifX0sInBheWxvYWQiOnsicmVzY2VudGVyQ29udGVudCI6IiR7Zmxvd19jdHgucmVzY2VudGVyRGlhbG9nQ29udGVudH0ifX19LHsiaWQiOiJsaXN0X3BhZ2VfYWN0aW9uX2ZwdGkiLCJ0eXBlIjoiRlBUSSIsInByb3BlcnRpZXMiOnsiZXZlbnRfdHlwZSI6ImNsIiwicGF5bG9hZCI6eyJwZ3JwIjoiJHtmbG93X2N0eC5mcHRpSW5mby5jbGlja3MuYWN0aW9ucy5wZ3JwfSIsInBhZ2UiOiIke2Zsb3dfY3R4LmZwdGlJbmZvLmNsaWNrcy5hY3Rpb25zLnBhZ2V9IiwibW9kdWxlIjoiJHtmbG93X2N0eC5mcHRpSW5mby5jbGlja3MuYWN0aW9ucy5tb2R1bGV9IiwiZXZlbnRfbmFtZSI6IiR7Zmxvd19jdHguZnB0aUluZm8uY2xpY2tzLmFjdGlvbnMuZXZlbnRfbmFtZX0iLCJldm50X3R5cGUiOiJjbCIsImlzU3BmIjoidHJ1ZSIsImN1c3QiOiIke2Zsb3dfY3R4LmZwdGlJbmZvLmNsaWNrcy5hY3Rpb25zLmN1c3RJZH0iLCJjaGFubmVsSW5mbyI6IiR7Zmxvd19jdHguZnB0aUluZm8uY2xpY2tzLmFjdGlvbnMuY2hhbm5lbEluZm99In19fSx7ImlkIjoidHJhbnNhY3Rpb25fY2xpY2tlZF9jYWxsYmFjayIsInR5cGUiOiJDQUxMQkFDSyIsInByb3BlcnRpZXMiOnsidHlwZSI6InRyYW5zYWN0aW9uX2NsaWNrZWQiLCJwYXlsb2FkIjp7ImlkIjoiJHtmbG93X2N0eC5pZH0iLCJsZWdJZCI6IiR7Zmxvd19jdHgubGVnSWR9In19fV0sIm1ldGFkYXRhIjp7fSwicnVsZXMiOnsidmFsaWRhdGVfdHJpZ2dlcl90ZF9wYWdlX2ZwdGlfYWN0aW9uIjp7ImlmIjpbeyI9PSI6W3sidmFyIjpbImlzVERQYWdlIl19LHRydWVdfSwidGRfcGFnZV9mcHRpLWltcHJlc3Npb24iXX0sInZhbGlkYXRlX3RyaWdnZXJfbGlzdF9wYWdlX2ZwdGlfYWN0aW9uIjp7ImlmIjpbeyI9PSI6W3sidmFyIjpbImlzTGlzdCJdfSx0cnVlXX0sImxpc3RfcGFnZV9mcHRpLWltcHJlc3Npb24iXX19fSx7ImlkIjoicmVzY2VudGVyX2RpYWxvZ19mcmFtZSIsImRhdGEiOnsicmVzY2VudGVyQ29udGVudCI6eyJoZWFkZXJUaXRsZSI6IlJlcG9ydCBQcm9ibGVtIiwic3ViVGl0bGUiOiJZb3UgaGF2ZSBzZWxlY3RlZCBUcmFuc2FjdGlvbiB4eXouLi4sIHByb2NlZWQgdG8gcmVwb3J0IGEgcHJvYmxlbSIsImJ1dHRvblRleHQiOiJDb250aW51ZSJ9fSwicm9vdCI6eyJpZCI6InJlc2NlbnRlcl9kaWFsb2dfcm9vdF9jb250YWluZXIiLCJwcm9wZXJ0aWVzIjp7ImZsZXhfZGlyZWN0aW9uIjoiY29sdW1uIn0sImxheW91dCI6eyJtYXJnaW4iOnsidG9wIjoyNCwiYm90dG9tIjoyNH0sImRpbWVuc2lvbiI6eyJ3aWR0aCI6InBhcmVudCJ9fSwiY2hpbGRyZW4iOlt7ImlkIjoiY2xvc2VfYnV0dG9uIiwicHJvcGVydGllcyI6eyJuYW1lIjoiY2xvc2UiLCJzaXplIjoic20ifSwibGF5b3V0Ijp7Im1hcmdpbiI6eyJyaWdodCI6MjR9LCJmbGV4Ijp7ImFsaWduX3NlbGYiOiJmbGV4X2VuZCJ9fSwidHlwZSI6IlBQVUlfSUNPTiIsImFjdGlvbl90cmlnZ2VycyI6eyJvbl9jbGljayI6eyJhY3Rpb25faWQiOiJjbG9zZV9kaWFsb2cifX19LHsiaWQiOiJyZXBvcnRfcHJvYmxlbV9jb250YWluZXIiLCJwcm9wZXJ0aWVzIjp7ImZsZXhfZGlyZWN0aW9uIjoiY29sdW1uIiwianVzdGlmeV9jb250ZW50IjoiY2VudGVyIiwiYWxpZ25faXRlbXMiOiJjZW50ZXIiLCJ2aXNpYmlsaXR5IjoiJHtmbG93X2N0eC5pc0luaXRpYWxEaWFsb2d9In0sImxheW91dCI6eyJwYWRkaW5nIjp7InRvcCI6MTAsImJvdHRvbSI6MTAsImxlZnQiOjE2LCJyaWdodCI6MTZ9LCJkaW1lbnNpb24iOnsid2lkdGgiOiJwYXJlbnQifX0sImNoaWxkcmVuIjpbeyJpZCI6ImhlYWRlcl90aXRsZSIsInByb3BlcnRpZXMiOnsic2l6ZSI6InNtIiwiZm9udF90eXBlIjoiaGVhZGluZyIsIndlaWdodCI6InN0cm9uZyIsInRleHQiOiIke2ZyYW1lX2N0eC5yZXNjZW50ZXJDb250ZW50LmhlYWRlclRpdGxlfSIsInRleHRfYWxpZ25tZW50IjoiY2VudGVyIn0sImxheW91dCI6eyJtYXJnaW4iOnsidG9wIjoxNiwiYm90dG9tIjoxMn0sInBhZGRpbmciOnsibGVmdCI6MTYsInJpZ2h0IjoxNn0sImRpbWVuc2lvbiI6eyJ3aWR0aCI6InBhcmVudCJ9fSwidHlwZSI6IlBQVUlfVEVYVCJ9LHsiaWQiOiJzdWJ0aXRsZSIsInByb3BlcnRpZXMiOnsidmlzaWJpbGl0eSI6IiR7Zmxvd19jdHguaXNJbml0aWFsRGlhbG9nfSIsImZvbnRfdHlwZSI6ImJvZHkiLCJzaXplIjoic20iLCJ0ZXh0IjoiJHtmcmFtZV9jdHgucmVzY2VudGVyQ29udGVudC5zdWJUaXRsZX0iLCJ0ZXh0X2FsaWdubWVudCI6ImNlbnRlciJ9LCJsYXlvdXQiOnsibWFyZ2luIjp7InRvcCI6MTYsImJvdHRvbSI6MTJ9LCJwYWRkaW5nIjp7ImxlZnQiOjE2LCJyaWdodCI6MTZ9LCJkaW1lbnNpb24iOnsid2lkdGgiOiJwYXJlbnQifX0sInR5cGUiOiJQUFVJX1RFWFQifSx7ImlkIjoiY29uZmlybV9idXR0b24iLCJwcm9wZXJ0aWVzIjp7ImxhYmVsIjoiJHtmcmFtZV9jdHgucmVzY2VudGVyQ29udGVudC5idXR0b25UZXh0fSIsInNpemUiOiJtZCJ9LCJsYXlvdXQiOnsibWFyZ2luIjp7InRvcCI6MTYsImJvdHRvbSI6MTJ9LCJwYWRkaW5nIjp7ImxlZnQiOjgsInJpZ2h0Ijo4fSwiZGltZW5zaW9uIjp7IndpZHRoIjoiYXV0byJ9fSwidHlwZSI6IlBQVUlfQlVUVE9OIiwiYWN0aW9uX3RyaWdnZXJzIjp7Im9uX2NsaWNrIjp7ImFjdGlvbl9pZCI6Im9wZW5fbGluayJ9fX1dLCJ0eXBlIjoiRkxFWF9DT05UQUlORVIifV0sInR5cGUiOiJGTEVYX0NPTlRBSU5FUiJ9LCJhY3Rpb25zIjpbeyJpZCI6Im9wZW5fbGluayIsInR5cGUiOiJOQVZJR0FURV9FWFRFUk5BTCIsInByb3BlcnRpZXMiOnsidXJpIjoiJHtmcmFtZV9jdHgucmVzY2VudGVyQ29udGVudC5yZXNDZW50ZXJMaW5rfSIsInR5cGUiOiJXRUJfVVJMIiwibGF1bmNoX3N0eWxlIjoiU0VMRiJ9fSx7ImlkIjoiY2xvc2VfZGlhbG9nIiwidHlwZSI6IkZSQU1FX0NPTVBMRVRFIiwicHJvcGVydGllcyI6eyJzdGF0dXMiOiJDQU5DRUxMRUQifX1dLCJtZXRhZGF0YSI6e319XSwibWV0YWRhdGEiOnt9LCJkYXRhIjp7ImNvdW50ZXJwYXJ0eUluZm8iOnsiY2xhc3NOYW1lcyI6ImNvdW50ZXJwYXJ0eV9uYW1lIGNvdW50ZXJwYXJ0eV9uYW1lX3RkIiwiY291bnRlcnBhcnR5TmFtZSI6IkphbWVzIGFuZCBBc3NvY2lhdGVzIn0sImF2YXRhckluZm8iOnsiYXZhdGFyVmFsdWUiOiJ1c2VyLXByb2ZpbGUiLCJ0eXBlIjoiaWNvbiIsInZpc2liaWxpdHkiOnsiaXNQcm9ncmVzc01ldGVyIjoiZ29uZSIsImlzQXZhdGFyIjoidmlzaWJsZSJ9LCJiYWRnZVZhbHVlIjoiIiwiY2xhc3NOYW1lcyI6ImJ1YmJsZV9iYWNrZ3JvdW5kX2NvbG9yIGJ1YmJsZV9iYWNrZ3JvdW5kX2NvbG9yIn0sImRlc2NyaXB0aW9uSW5mbyI6eyJjb250ZW50Ijp7InRyYW5zYWN0aW9uRGVzY3JpcHRpb25UZXh0IjoiTWF5IDE2LCAyMDE2IC4gQVRNIFdpdGhkcmF3YWwgLiBQYXlQYWwgRGViaXQgQ2FyZCJ9LCJjbGFzc05hbWVzIjp7InRpbWVDbGFzc05hbWUiOiIiLCJkYXRlQ2xhc3NOYW1lIjoiZGF0ZV90ZXh0IiwiZGVzY3JpcHRpb25DbGFzc05hbWVzIjoidHJhbnNhY3Rpb25fdHlwZV90ZXh0IHRyYW5zYWN0aW9uX3R5cGVfdGV4dF93aXRoX2NhcmRfd2l0aG91dF9ub3RlcyJ9fSwiYW1vdW50SW5mbyI6eyJjb250ZW50cyI6eyJhbW91bnRUZXh0IjoiJm1pbnVzOyZuYnNwOzE1NiIsInJld2FyZHNTdW1tYXJ5Ijp7InJld2FyZHNUZXh0IjoiNTEgcHRzIiwidGV4dENvbG9yIjoiZ3JlZW4ifX0sInZpc2liaWxpdHkiOnsiaXNUcmFuc2FjdGlvbkFtb3VudExheW91dCI6InZpc2libGUiLCJpc0N1cnJlbmN5Q29udmVyc2lvbkljb24iOiJnb25lIn0sImNsYXNzTmFtZXMiOnsidHJhbnNhY3Rpb25BbW91bnRDbGFzc05hbWUiOiJuZXRfYW1vdW50X2dyZXkgdG90YWxfYW1vdW50X3RleHQifX19LCJpbml0aWFsX2ZyYW1lX2lkIjoiYWN0aXZpdHlfdHJhbnNhY3Rpb25fb3ZlcnZpZXdfZnJhbWUiLCJ0ZW5hbnRfaWQiOiJQYXlQYWwiLCJ2ZXJzaW9uIjoiMS4yMS4wIiwiZmxvd192ZXJzaW9uIjoxOX0seyJpZCI6ImFjdGl2aXR5X3dpZGdldF9oZWFkZXJfdmlldyIsImZyYW1lcyI6W3siaWQiOiJoZWFkZXItdmlldyIsInJvb3QiOnsiaWQiOiJmcmFtZV9yb290X2NvbnRhaW5lciIsInByb3BlcnRpZXMiOnsib3JpZW50YXRpb24iOiJ2ZXJ0aWNhbCJ9LCJsYXlvdXQiOnsibWFyZ2luIjp7ImJvdHRvbSI6MTh9LCJkaW1lbnNpb24iOnsid2lkdGgiOiJwYXJlbnQifX0sImNoaWxkcmVuIjpbeyJpZCI6ImhlYWRlci10ZXh0IiwicHJvcGVydGllcyI6eyJ0ZXh0IjoiJHtmbG93X2N0eC5oZWFkZXJJbmZvLmNvbnRlbnQuaGVhZGVyX3RleHR9IiwiZm9udF90eXBlIjoiYm9keSIsIndlaWdodCI6InN0cm9uZyJ9LCJ0eXBlIjoiUFBVSV9URVhUIiwiYWN0aW9uX3RyaWdnZXJzIjp7fX1dLCJ0eXBlIjoiTElORUFSX0NPTlRBSU5FUiIsImFjdGlvbl90cmlnZ2VycyI6eyJvbl9sb2FkIjp7ImFjdGlvbl9pZCI6ImZwdGktY2hhaW4ifX19LCJhY3Rpb25zIjpbeyJpZCI6ImZwdGktY2hhaW4iLCJ0eXBlIjoiQUNUSU9OX0NIQUlOIiwicHJvcGVydGllcyI6eyJjaGFpbl90eXBlIjoiU0VRVUVOVElBTCIsImFjdGlvbnMiOlt7ImFjdGlvbl9pZCI6InRyaWdnZXItZnB0aSIsInBhcmFtZXRlcnMiOnsicGdycCI6Im1haW46d2FsbGV0d2ViOmFjdGl2aXRpZXM6d2lkZ2V0OiIsInBhZ2UiOiJtYWluOndhbGxldHdlYjphY3Rpdml0aWVzOndpZGdldDo6OiJ9fSx7ImFjdGlvbl9pZCI6InRyaWdnZXItZnB0aSIsInBhcmFtZXRlcnMiOnsicGdycCI6Im1haW46d2FsbGV0d2ViOmFjdGl2aXRpZXM6d2lkZ2V0OmVuaGFuY2VtZW50OnNob3duOiIsInBhZ2UiOiJtYWluOndhbGxldHdlYjphY3Rpdml0aWVzOndpZGdldDplbmhhbmNlbWVudDpzaG93bjo6OiJ9fV19fSx7ImlkIjoidHJpZ2dlci1mcHRpIiwidHlwZSI6IkZQVEkiLCJwcm9wZXJ0aWVzIjp7ImV2ZW50X3R5cGUiOiJpbSIsInBheWxvYWQiOnsicGdycCI6Int7cGdycH19IiwicGFnZSI6Int7cGFnZX19IiwiZXZlbnRfbmFtZSI6ImR3X2FjdGl2aXR5X3dpZGdldF9zaG93biIsImV2bnRfdHlwZSI6ImltIiwibW9kdWxlIjoid2lkZ2V0IiwiY2NwZyI6IiR7Zmxvd19jdHguZnB0aUluZm8uY2NwZ30iLCJpc1NwZiI6InRydWUifX19XSwibWV0YWRhdGEiOnt9fV0sIm1ldGFkYXRhIjp7ImNhY2hlX21ldGFkYXRhIjp7ImwxX2NhY2hlX2VuYWJsZWQiOnRydWUsImwyX2NhY2hlX2VuYWJsZWQiOnRydWUsImwyX2NhY2hlX3R5cGUiOiJHTE9CQUwifX0sImRhdGEiOnsiaGVhZGVySW5mbyI6eyJjb250ZW50Ijp7ImhlYWRlcl90ZXh0IjoiUmVjZW50IEFjdGl2aXR5In19fSwiaW5pdGlhbF9mcmFtZV9pZCI6ImhlYWRlci12aWV3IiwidGVuYW50X2lkIjoiUGF5UGFsIiwidmVyc2lvbiI6IjEuOS4xIiwiZmxvd192ZXJzaW9uIjozfSx7ImlkIjoiYWN0aXZpdHlfd2lkZ2V0X2Zvb3Rlcl92aWV3IiwiZnJhbWVzIjpbeyJpZCI6ImFjdGl2aXR5X3dpZGdldF9mb290ZXJfdmlld19pZCIsInJvb3QiOnsiaWQiOiJmcmFtZV9yb290X2NvbnRhaW5lciIsInByb3BlcnRpZXMiOnsib3JpZW50YXRpb24iOiJ2ZXJ0aWNhbCJ9LCJsYXlvdXQiOnsibWFyZ2luIjp7InRvcCI6MTh9LCJkaW1lbnNpb24iOnsid2lkdGgiOiJwYXJlbnQifX0sImNoaWxkcmVuIjpbeyJpZCI6ImZvb3Rlci1saW5rIiwicHJvcGVydGllcyI6eyJ0ZXh0IjoiJHtmbG93X2N0eC5mb290ZXJJbmZvLmNvbnRlbnQuZm9vdGVyX3RleHR9IiwiaWNvbiI6IiR7Zmxvd19jdHguZm9vdGVySW5mby5pY29ufSJ9LCJ0eXBlIjoiUFBVSV9MSU5LIiwiYWN0aW9uX3RyaWdnZXJzIjp7Im9uX2NsaWNrIjp7ImFjdGlvbl9pZCI6InBhcmFsbGVsLXRyaWdnZXIifX19XSwidHlwZSI6IkxJTkVBUl9DT05UQUlORVIifSwiYWN0aW9ucyI6W3siaWQiOiJzaG93bW9yZS1jbGlja2VkIiwidHlwZSI6Ik5BVklHQVRFX0VYVEVSTkFMIiwicHJvcGVydGllcyI6eyJ1cmkiOiIke2Zsb3dfY3R4LmZvb3RlckluZm8uZm9vdGVyX3VybH0iLCJ0eXBlIjoiV0VCX1VSTCIsImxhdW5jaF9zdHlsZSI6IlNFTEYifX0seyJpZCI6InBhcmFsbGVsLXRyaWdnZXIiLCJ0eXBlIjoiQUNUSU9OX0NIQUlOIiwicHJvcGVydGllcyI6eyJjaGFpbl90eXBlIjoiUEFSQUxMRUwiLCJhY3Rpb25zIjpbeyJhY3Rpb25faWQiOiJzaG93bW9yZS1jbGlja2VkIn0seyJhY3Rpb25faWQiOiJ0cmlnZ2VyLWZwdGkifV19fSx7ImlkIjoidHJpZ2dlci1mcHRpIiwidHlwZSI6IkZQVEkiLCJwcm9wZXJ0aWVzIjp7ImV2ZW50X3R5cGUiOiJjbCIsInBheWxvYWQiOnsicGdycCI6Im1haW46d2FsbGV0d2ViOmFjdGl2aXRpZXM6d2lkZ2V0OiIsInBhZ2UiOiJtYWluOndhbGxldHdlYjphY3Rpdml0aWVzOndpZGdldDo6OiIsImV2ZW50X25hbWUiOiJkd19hY3Rpdml0eV93aWRnZXRfY3RhX3ByZXNzZWQiLCJldm50X3R5cGUiOiJpbSIsIm1vZHVsZSI6ImZvb3RlciIsImlzU3BmIjoidHJ1ZSIsImNjcGciOiIke2Zsb3dfY3R4LmZwdGlJbmZvLmNjcGd9In19fV0sIm1ldGFkYXRhIjp7fX1dLCJtZXRhZGF0YSI6eyJjYWNoZV9tZXRhZGF0YSI6eyJsMV9jYWNoZV9lbmFibGVkIjp0cnVlLCJsMl9jYWNoZV9lbmFibGVkIjp0cnVlLCJsMl9jYWNoZV90eXBlIjoiR0xPQkFMIn19LCJkYXRhIjp7ImZvb3RlckluZm8iOnsiY29udGVudCI6eyJmb290ZXJfdGV4dCI6IlNob3cgYWxsIiwiZm9vdGVyX3VybCI6Imh0dHBzOi8vd3d3LnBheXBhbC5jb20vdXMvaG9tZSJ9fX0sImluaXRpYWxfZnJhbWVfaWQiOiJhY3Rpdml0eV93aWRnZXRfZm9vdGVyX3ZpZXdfaWQiLCJ0ZW5hbnRfaWQiOiJQYXlQYWwiLCJ2ZXJzaW9uIjoiMS4xMy4wIiwiZmxvd192ZXJzaW9uIjo0fSx7ImlkIjoiYWN0aXZpdHlfd2lkZ2V0X3plcm9fc3RhdGVfdmlldyIsImZyYW1lcyI6W3siaWQiOiJhY3Rpdml0eV93aWRnZXRfemVyb19zdGF0ZV92aWV3X2lkIiwicm9vdCI6eyJpZCI6Inplcm8tc3RhdGUtdmlldyIsInByb3BlcnRpZXMiOnsib3JpZW50YXRpb24iOiJ2ZXJ0aWNhbCJ9LCJsYXlvdXQiOnsiZGltZW5zaW9uIjp7IndpZHRoIjoicGFyZW50In19LCJjaGlsZHJlbiI6W3siaWQiOiJwcHVpLXRleHQiLCJwcm9wZXJ0aWVzIjp7InRleHQiOiIke2Zsb3dfY3R4Lnplcm9TdGF0ZUluZm8uY29udGVudC56ZXJvX3N0YXRlX3RleHR9IiwiZm9udF90eXBlIjoiYm9keSJ9LCJ0eXBlIjoiUFBVSV9URVhUIiwiYWN0aW9uX3RyaWdnZXJzIjp7fX1dLCJ0eXBlIjoiTElORUFSX0NPTlRBSU5FUiJ9LCJtZXRhZGF0YSI6e319XSwibWV0YWRhdGEiOnsiY2FjaGVfbWV0YWRhdGEiOnsibDFfY2FjaGVfZW5hYmxlZCI6dHJ1ZSwibDJfY2FjaGVfZW5hYmxlZCI6dHJ1ZSwibDJfY2FjaGVfdHlwZSI6IkdMT0JBTCJ9fSwiZGF0YSI6eyJjb250ZW50Ijp7Inplcm9fc3RhdGVfdGV4dCI6IlNlZSB3aGVuIG1vbmV5IGNvbWVzIGluLCBhbmQgd2hlbiBpdCBnb2VzIG91dC4gWW914oCZbGwgZmluZCB5b3VyIHJlY2VudCBQYXlQYWwgYWN0aXZpdHkgaGVyZS4ifX0sImluaXRpYWxfZnJhbWVfaWQiOiJhY3Rpdml0eV93aWRnZXRfemVyb19zdGF0ZV92aWV3X2lkIiwidGVuYW50X2lkIjoiUGF5UGFsIiwidmVyc2lvbiI6IjEuMTMuMCIsImZsb3dfdmVyc2lvbiI6MX0seyJpZCI6ImFjdGl2aXR5X3RyYW5zYWN0aW9uX3BhY2thZ2VfdHJhY2tpbmdfZmVlZCIsImZyYW1lcyI6W3siaWQiOiJhY3Rpdml0eV90cmFuc2FjdGlvbl9wYWNrYWdlX3RyYWNraW5nX2ZlZWRfaWQiLCJyb290Ijp7ImlkIjoiZnJhbWVfcm9vdF9jb250YWluZXIiLCJwcm9wZXJ0aWVzIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCJ9LCJsYXlvdXQiOnsibWFyZ2luIjp7ImJvdHRvbSI6MH0sImRpbWVuc2lvbiI6eyJ3aWR0aCI6InBhcmVudCIsImhlaWdodCI6ImF1dG8ifX0sImNoaWxkcmVuIjpbeyJpZCI6InBwdWktaWNvbiIsInByb3BlcnRpZXMiOnsiY29sb3IiOiIjNTQ1ZDY4IiwibmFtZSI6InNoaXBwaW5nIiwic2l6ZSI6Im1kIn0sInR5cGUiOiJQUFVJX0lDT04iLCJhY3Rpb25fdHJpZ2dlcnMiOnt9fSx7ImlkIjoicHB1aS10ZXh0IiwicHJvcGVydGllcyI6eyJ0ZXh0IjoiJHtmbG93X2N0eC5leHBlY3RlZF9kZWxpdmVyeV90aW1lfSIsImZvbnRfdHlwZSI6ImNhcHRpb24ifSwibGF5b3V0Ijp7Im1hcmdpbiI6eyJ0b3AiOjUsImxlZnQiOjEwfX0sInR5cGUiOiJQUFVJX1RFWFQiLCJhY3Rpb25fdHJpZ2dlcnMiOnt9fV0sInR5cGUiOiJMSU5FQVJfQ09OVEFJTkVSIiwiYWN0aW9uX3RyaWdnZXJzIjp7Im9uX2xvYWQiOnsiYWN0aW9uX2lkIjoidHJpZ2dlcl9mcHRpIn19fSwiYWN0aW9ucyI6W3siaWQiOiJmaXJlX3BzX2ltcHJlc3Npb25fdXJsX2FjdGlvbiIsInR5cGUiOiJSRVFVRVNUIiwicHJvcGVydGllcyI6eyJ1cmwiOiIke2Zsb3dfY3R4LnRyYWNraW5nX2RldGFpbHMuaW1wcmVzc2lvbl91cmx9IiwiaHR0cF9tZXRob2QiOiJHRVQiLCJmaXJlX25fZm9yZ2V0Ijp0cnVlfX0seyJpZCI6ImZwdGlfZXZlbnRfaW1wcmVzc2lvbiIsInR5cGUiOiJGUFRJIiwicHJvcGVydGllcyI6eyJldmVudF90eXBlIjoiaW0iLCJwYXlsb2FkIjp7InBncnAiOiJtYWluOndhbGxldHdlYjphY3Rpdml0aWVzOndpZGdldDoiLCJwYWdlIjoibWFpbjp3YWxsZXR3ZWI6YWN0aXZpdGllczp3aWRnZXQ6OjoiLCJldmVudF9uYW1lIjoiZHdfYWN0aXZpdHlfd2lkZ2V0X3Nob3duIiwiZXh0cmFfaW5mbyI6InBhY2thZ2VUcmFja2luZyIsImV2bnRfdHlwZSI6ImltIiwiaXNTcGYiOiJ0cnVlIiwiY2NwZyI6IiR7Zmxvd19jdHguZnB0aUluZm8uY2NwZ30ifX19LHsiaWQiOiJ0cmlnZ2VyX2ZwdGkiLCJ0eXBlIjoiQUNUSU9OX0NIQUlOIiwicHJvcGVydGllcyI6eyJjaGFpbl90eXBlIjoiUEFSQUxMRUwiLCJhY3Rpb25zIjpbeyJhY3Rpb25faWQiOiJmaXJlX3BzX2ltcHJlc3Npb25fdXJsX2FjdGlvbiJ9LHsiYWN0aW9uX2lkIjoiZnB0aV9ldmVudF9pbXByZXNzaW9uIn1dfX1dLCJtZXRhZGF0YSI6e319XSwibWV0YWRhdGEiOnsiY2FjaGVfbWV0YWRhdGEiOnsibDFfY2FjaGVfZW5hYmxlZCI6dHJ1ZSwibDJfY2FjaGVfZW5hYmxlZCI6dHJ1ZSwibDJfY2FjaGVfdHlwZSI6IkdMT0JBTCJ9fSwiaW5pdGlhbF9mcmFtZV9pZCI6ImFjdGl2aXR5X3RyYW5zYWN0aW9uX3BhY2thZ2VfdHJhY2tpbmdfZmVlZF9pZCIsInRlbmFudF9pZCI6IlBheVBhbCIsInZlcnNpb24iOiIxLjEzLjAiLCJmbG93X3ZlcnNpb24iOjJ9XSwiZmlsdGVyZWRfZmxvd3MiOltdfSwiY29uZmlndXJhdGlvbiI6eyJwcm9tb09mZmVycyI6eyJpZCI6IkFjdGl2aXR5X0xpc3RfUHJvbW9zX09mZmVycyJ9LCJ0cmFuc2FjdGlvbkxpc3QiOnsiaWQiOiJhY3Rpdml0eV90cmFuc2FjdGlvbl9vdmVydmlldyJ9LCJoZWFkZXJWaWV3Ijp7ImlkIjoiYWN0aXZpdHlfd2lkZ2V0X2hlYWRlcl92aWV3In0sImZvb3RlclZpZXciOnsiaWQiOiJhY3Rpdml0eV93aWRnZXRfZm9vdGVyX3ZpZXcifSwiemVyb1N0YXRlVmlldyI6eyJpZCI6ImFjdGl2aXR5X3dpZGdldF96ZXJvX3N0YXRlX3ZpZXcifSwicGFja2FnZVRyYWNraW5nIjp7ImlkIjoiYWN0aXZpdHlfdHJhbnNhY3Rpb25fcGFja2FnZV90cmFja2luZ19mZWVkIn19fSwiaXNBY3Rpdml0eVdpZGdldCI6dHJ1ZX0sIl9jc3JmIjoiRUU4WktTeFBWTWt3VUZTeWx4d212cTJEcS9jaEl0enhsVVZ2WT0iLCJsb2NhbGl0eSI6eyJ0aW1lem9uZSI6IkFzaWEvSmFrYXJ0YSIsImNvdW50cnkiOiJJRCIsImxvY2FsZSI6ImlkX0lEIiwiY3VsdHVyZSI6ImlkLUlEIiwibGFuZ3VhZ2UiOiJpZCIsImRpcmVjdGlvbmFsaXR5IjoibHRyIiwiZGV0ZXJtaW5lcnMiOnsiY291bnRyeSI6InZpYVVzZXJQcm9maWxlIiwibG9jYWxlIjoidmlhVXNlclByb2ZpbGUiLCJ0aW1lem9uZSI6InZpYVVzZXJQcm9maWxlIn0sImJ1bmRsZSI6ImlkIn0sImNvbmZpZyI6eyJpc1Byb2QiOnRydWUsImlzU3RhZ2UiOmZhbHNlfSwiYWNjb3VudFR5cGUiOiJQUkVNSUVSIiwiY29uc3VtZXJMZWdhbEVudGl0eSI6ODAsImRldmljZUluZm8iOiJERVNLVE9QIiwiZXhwZXJpbWVudHMiOnsidHJlYXRtZW50cyI6W10sImZhY3RvcnMiOnsiaXNDRE5FbmFibGVkIjp0cnVlLCJpc1dvcmxkUmVhZHlPcHRpbWl6ZSI6dHJ1ZSwiaXNTdXBlckdyYXBoRW5hYmxlZCI6ImZhbHNlIn19LCJzeXMiOnsidHJhY2tpbmciOnsibGNpZCI6ImY1MTc5MzA3MGFhZDUiLCJjdXN0IjoiRkRSQTlUSDJSMlo4SiIsImNjcGciOiJJRCIsInJzdGEiOiJpZC1JRCIsImFjY291bnRfY250cnkiOiJpZC1JRCIsImFjY291bnRfdHlwZSI6IlBSRU1JRVIifX0sImNkbkhvc3QiOiJ3d3cucGF5cGFsb2JqZWN0cy5jb20ifX0=</div>
+                                                    </div>
+                                                </div>
+                                                <div id="activity-assets">
+                                                    <link href="https://www.paypalobjects.com/activities/v6.85.0/widget/css/ppreact-lib.css" rel="stylesheet">
+                                                    <link href="https://www.paypalobjects.com/activities/v6.85.0/widget/css/main.css" rel="stylesheet">
+                                                    <script src="https://www.paypalobjects.com/activities/v6.85.0/widget/js/corejs-lib.js" async="" crossorigin="anonymous"></script><script src="https://www.paypalobjects.com/activities/v6.85.0/widget/js/ppreact-lib.js" async="" crossorigin="anonymous"></script><script src="https://www.paypalobjects.com/activities/v6.85.0/widget/js/spf-lib.js" async="" crossorigin="anonymous"></script><script src="https://www.paypalobjects.com/activities/v6.85.0/widget/js/react-lib.js" async="" crossorigin="anonymous"></script><script src="https://www.paypalobjects.com/activities/v6.85.0/widget/js/main.js" async="" crossorigin="anonymous"></script>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="OOsHlzOd9YLSp4s7bpeX css-n8zuis-col_sm_12-col_md_5" id="B" data-ppui="true">
+                            <div class="css-geb0bj-screenReader" data-test-id="screenreader">Alat</div>
+                            <div class="PGPy_r5XsKBLH5QEWix2" data-test-id="column_content">
+                                <div id="widgetContainer__actionzone" data-test-id="widget-container-actionzone" class="TuJ3jOBFs2ZcXUjGuExY">
+                                    <script type="application/json" id="reactContainer__actionzone_props">{"actionzoneLinks":[{"actionLink":"\u002Fmyaccount\u002Ftransfer\u002Fhomepage?from=SUM-QuickLink","dataName":"sendActionzone","shortName":"Kirim","longName":"Kirim","iconId":"icon-send","spotIconId":"icon-send","iconClassNameDesktop":"","contentClassNameDesktop":"","mWebIconClassName":"","mWebContentClassName":"","labelContentKey":"send","href":"\u002Fmyaccount\u002Ftransfer\u002Fhomepage?from=SUM-QuickLink","className":"","trackingUrl":"","impressionUrl":"","ariaDescribedBy":""},{"actionLink":"\u002Fmyaccount\u002Ftransfer\u002Frequest?from=SUM-QuickLink","dataName":"requestActionzone","shortName":"Minta","longName":"Minta","iconId":"icon-request","spotIconId":"icon-request","iconClassNameDesktop":"","contentClassNameDesktop":"","mWebIconClassName":"","mWebContentClassName":"","labelContentKey":"request","href":"\u002Fmyaccount\u002Ftransfer\u002Frequest?from=SUM-QuickLink","className":"","trackingUrl":"","impressionUrl":"","ariaDescribedBy":""},{"rank":1,"actionLink":"\u002Fmyaccount\u002Fmoney\u002Faccounts\u002Fnew","dataName":"addCardBankActionzone","shortName":"Tambahkan kartu atau bank","longName":"Tambahkan kartu atau bank","iconId":"BankDepositIcon","spotIconId":"bank-deposit","iconClassNameDesktop":"","contentClassNameDesktop":"","mWebIconClassName":"","mWebContentClassName":"","trackingDetails":{"impressionUrl":"https:\u002F\u002Fwww.paypal.com\u002Fwebapps\u002Fmch\u002Fcmd\u002F?v=3.0&t=1759291475&fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFx3Qnp6W255XVFYUnZsaABpdFdGdFcnAS9HcCRJR3QGXFRMRVxEFEZcX1xjfV53Z1djV2poTjYhDkhMJ2Z5bwN5Z0FSZAxoW3pTY1JcUnEBVEdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmBAIFTh0dBQc7PUtkck9jFSEoTngIS0giKRQRDHdpdFdGdFswGGpHEUVJV2IWTkdYFQMUSQFMSy50aFpkcE1jVyooBj1pSylMRnBpaQB9YEVTbA5jXnhfaVZaUnEWTEVYURkAQRwJS08VaEtyYF51R3t9Wmp-XFFdVHVobgJwdFVEdBknSWomcEVbSHMWTEVYURkDDFQtS09kfl98Y1dzQn58TnhrS0gECTMuPW0hMVVGFRlwX3pXZlNeUHMFVVVARFxDG0FeU090aktkOAA2ACwWDDYsD0hMJ2Z5GVE8PBsJCmI-Bi5HcEdJRy5ECjkSAARRDDVMSyAaHTUEAT4OPwoILRUNS0hORmY5O0YhOho4PFxwSQtHcFNZV3cDWF5MRVVIGUFYXFpleVlkcE1jVygqGzAnBDYOCCM9eRMIdFUwNFQ9DT85BQUKORVeCBEmIRgZTh4yKw0hIAUrDi8mEhYLDjcjGTYuBjU8KxNpdlVGPFYlDTk5IgEZOTFSHgMNUUwwDFQLCwImLEtkck9jHyc9Djo8GQwcRmYYeRN4e0RGdBtwSSgJJAocFDoWTCZYUSQ0DFROS08gOg8hDgs6Aiw7ATgkBhBMRgd5eVQpOQcCdBlySWovAjsrKgp0JjIxIjhRDDVMSwg0JRkgcE9hV2g5HTw7DwcMEy43Nm08LAQCdBkRSWpRYFRfV3EEXVdJQ1VDHERUXFhhaEtmcE82ETsgC3hpKkhMUHZpagd8ZkBRZwpiWHNQYVdRU2IWTkdYHQYESgcIGwcxaEsFcE8nQXp-VmB4DgxdV3NsOQsubEZWYFxiUHleZQdcX3APW0dYU0xRQB4ZDRwwLwMhcE8CV2gsWGp.U1BdAyJoaAZ8NE0BbApgXS9VaVZQUiADVFVBRkxRDlRMHB0hIA5kcC5jVyx-XG5xU1kJAndobAYpbBJeZwlkDHheY1xcBXcOXl5PUUxTDFQfCwA-aEsFcE9zV2hqTng7HwsyBC82eRMIdFUoG2sYPA5HcEdJRyZBCAgNLwMRQBBMSy50aBogIx0tGCglBiMpHgACCRg3NkEhIRFGdBtwST4VNBY3ATZeCUdYMExRH0xaD1g3L1l0aFdyF35wX2l4WV8OVHBoPlR-bUACNwlwSWhHcBEbAzFoHgMKAwQfQyoKHwcxaEsFcE97En8rWmt9WFhUXnBrbgt.ZUdWYAtkWXsANwIOACVRCEdYU0xRWwYZAwp0aCpkcFcmQCt8XWx6W1BUUHRuYQV4ZkVSZg1gWC0ANwIOACVSTEdaUUwGXgEfAwp0aCpkcFx7QSx.DT97W1BUVyZvYQJ4ZUdRNgtmWC0AZ1xcAyEGTEdaUUwCSBMEDk90CUtkZl9zRHx8Xm1xWVhYVXFsbAB-bFVGdhlwDTMWOBYROTdETEc5UUxBGkBUWFdnel1wcE9hV2g9HTgrAQADABg9LlcmISsLPEslSWomcEUhKxNlKDUqOSI-ATYhIy0eaEtmcE8nAmhoL3hpKSUkIgkMB3sFBSYiBmsYJwU&cks=YTU3ODcyYTc1NjViZjJkOGJkMjk3ODA4NmNkY2RmNDU&e=1.0","clickUrl":"https:\u002F\u002Fwww.paypal.com\u002Fwebapps\u002Fmch\u002Fcmd\u002F?v=3.0&t=1759291475&fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFx3Qnp6W255XVFYUnZsaABpdFdGdFcnAS9HcCRJR3QGXFRMRVxEFEZcX1xjfV53Z1djV2poTjYhDkhMJ2Z5bwN5Z0FSZAxoW3pTY1JcUnEBVEdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmBAIFTh0dBQc7PUtkck9jFSEoTngIS0giKRQRDHdpdFdGdFswGGpHEUVJV2IWTkdYFQMUSQFMSy50aFpkcE1jVyooBj1pSylMRnBpaQB9YEVTbA5jXnhfaVZaUnEWTEVYURkAQRwJS08VaEtyYF51R3t9Wmp-XFFdVHVobgJwdFVEdBknSWomcEVbSHMWTEVYURkDDFQtS09kfl98Y1dzQn58TnhrS0gECTMuPW0hMVVGFRlwX3pXZlNeUHMFVVVARFxDG0FeU090aktkOAA2ACwWDDYsD0hMJ2Z5GVE8PBsJCmI-Bi5HcEdJRy5ECjkSAARRDDVMSyAaHTUEAT4OPwoILRUNS0hORmY5O0YhOho4PFxwSQtHcFNZV3cDWF5MRVVIGUFYXFpleVlkcE1jVygqGzAnBDYOCCM9eRMIdFUwNFQ9DT85BQUKORVeCBEmIRgZTh4yKw0hIAUrDi8mEhYLDjcjGTYuBjU8KxNpdlVGPFYlDTk5IgEZOTFSHgMNUUwwDFQLCwImLEtkck9jHyc9Djo8GQwcRmYYeRN4e0RGdBtwSSgJJAocFDoWTCZYUSQ0DFROS08gOg8hDgs6Aiw7ATgkBhBMRgd5eVQpOQcCdBlySWovAjsrKgp0JjIxIjhRDDVMSwg0JRkgcE9hV2g5HTw7DwcMEy43Nm08LAQCdBkRSWpRYFRfV3EEXVdJQ1VDHERUXFhhaEtmcE82ETsgC3hpKkhMUHZpagd8ZkBRZwpiWHNQYVdRU2IWTkdYHQYESgcIGwcxaEsFcE8nQXp-VmB4DgxdV3NsOQsubEZWYFxiUHleZQdcX3APW0dYU0xRQB4ZDRwwLwMhcE8CV2gsWGp.U1BdAyJoaAZ8NE0BbApgXS9VaVZQUiADVFVBRkxRDlRMHB0hIA5kcC5jVyx-XG5xU1kJAndobAYpbBJeZwlkDHheY1xcBXcOXl5PUUxTDFQfCwA-aEsFcE9zV2hqTng7HwsyBC82eRMIdFUoG2sYPA5HcEdJRyZBCAgNLwMRQBBMSy50aBogIx0tGCglBiMpHgACCRg3NkEhIRFGdBtwST4VNBY3ATZeCUdYMExRH0xaD1g3L1l0aFdyF35wX2l4WV8OVHBoPlR-bUACNwlwSWhHcBEbAzFoHgMKAwQfQyoKHwcxaEsFcE97En8rWmt9WFhUXnBrbgt.ZUdWYAtkWXsANwIOACVRCEdYU0xRWwYZAwp0aCpkcFcmQCt8XWx6W1BUUHRuYQV4ZkVSZg1gWC0ANwIOACVSTEdaUUwGXgEfAwp0aCpkcFx7QSx.DT97W1BUVyZvYQJ4ZUdRNgtmWC0AZ1xcAyEGTEdaUUwCSBMEDk90CUtkZl9zRHx8Xm1xWVhYVXFsbAB-bFVGdhlwDTMWOBYROTdETEc5UUxBGkBUWFdnel1wcE9hV2g9HTgrAQADABg9LlcmISsLPEslSWomcEUhKxNlKDUqOSI-ATYhIy0eaEtmcE8nAmhoL3hpKSUkJAw&cks=NjQ1OTRjYTAxYjY4ODcwZTliNTdjNWY4MGIwZDdiZDI&e=1.0","dismissUrl":""}},{"rank":2,"actionLink":"\u002Finvoice\u002Fs\u002Fcreate\u002F","dataName":"createInvoiceActionzone","shortName":"Buat faktur","longName":"Buat faktur","iconId":"InvoiceIcon","spotIconId":"invoice","iconClassNameDesktop":"","contentClassNameDesktop":"","mWebIconClassName":"","mWebContentClassName":"","trackingDetails":{"impressionUrl":"https:\u002F\u002Fwww.paypal.com\u002Fwebapps\u002Fmch\u002Fcmd\u002F?v=3.0&t=1759291475&fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFx3Qnp6W255XVFYUnZsaABpdFdGdFcnAS9HcCRJR3QGXFRMRVxEFUNZUlZjelp9YldjV2poTjYhDkhMJ2Z5bwN5Z0FSZAxpXn9eaVJbVnsEVEdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmBAIFTh0dBQc7PUtkck9jFSEoTngIS0giKRQRDHdpdFdGdFswGGpHEUVJV2IWTkdYFQMUSQFMSy50aFpkcE1jVyooBj1pSylMRnBpaQB9YEVTbQ1pWHteYVBYUXQWTEVYURkAQRwJS08VaEtyYF51R3t9Wmp-XFFdVHVobgJwdFVEdBknSWomcEVbSHMWTEVYURkDDFQtS09kfl98Y1dzQn58TnhrS0gECTMuPW0hMVVGFRlwX3pXZlNeUHMFVVVARFxDG0FeU090aktkOAA2ACwWDDYsD0hMJ2Z5GVE8PBsJCmI-Bi5HcEdJRy5ECjkSAARRDDVMSyAaHTUEAT4OPwoILRUNS0hORmY5O0YhOho4PFxwSQtHcFNZV3QAXVJNR15EG0dcWl9hf19kcE1jVygqGzAnBDYOCCM9eRMIdFUEJ10wHC4vPxIHDyBSTEdaUUwZQwEIGDEmLBsaIwsxEz1oThlpSw8MCzQ9eRNrdFUOO0wwCz8VNBVJRwMWTFZXQExRDlRMCQEgJx43KE9jNmhoJh1pS0pMRjIrPVYXMAwTMEo.CScKKEVJJmIWCwcVAwhRDFZMSycGFikJGC0JIgEbOnhpKkhMASY0K1dpdFdGdEgjDTgDPwUcDyxZMhIAAAhRDDVMS1lkeV10Y11yR3l6V2p5W1BbUXN5eRFpdAAAJ1E1SWomcEVfV3IFWFJKRFtCH0ZdUlhlelNwcE9hV2gkBC0vGAwcDiN5eXJpdBFQZg9oUXsCNFRYUndWVABAQlxFSUZVWFZhKl58YlZ0V2hqTnglAR0KFSI-MVZpdDRGdF1mW3xfaFQMA3MHWVIYSQtJH0RYDl1te1JxMlp7RXF.TnhrS0gbFDMxPBNpFVVGMA9iX3JfYQANVnMDWQdAFlRCHEAJWVZncV4mZVdxTn9oTnppSxsMCSx5eXJpdEZGdBtwSTgTMzsLDi0WTCZYUSI-fjw5L090aktkNBgnGD0WATglD0hMJ2Z5KFc6JhsJNFQ4EioSOAsGOSxZHg8NFUxRDlRMHx0wOzUiJAcmV2gJTnh6U14IUSU-awNxbEQGYgFhWHtVZwdbUXNRC1BBRAgSHFRMSU90PBkgIzExEzo6BjYmNQ4YDiN5eXJpdE0DY1pkWn5UYF1RUXABVFFJQ1xFHkBcWggzLwwjNwgnV2hqTng-GR0EA2Z5GBNpbBBRNw1jXXlXaF1fVXUOWlZKQVhDGERdDAgzLwwjNwtjV2poTi87HhsEA2Z5GBNpZ01QMA4zDnhXaF1YB3QOXVZJQ1sTHkJdDAhjcV4gM19jV2poTistDAAJRmYYeRN.ZEVVYA1gXHNQZVxQUHAHVVVAUUxTDFQIEh48OxMaJR1jVwloTmh.X1BfXnVrbwdpdFdGdEwjCSgNOAoPOSZBCAgNLwEZXgFMSy50aCMIATwHJRoAIBdkKSUkJAx5eRFpdBETdBkRSWolHS0tKBdoJCspIigjfjwiJA&cks=MmYyNGViOTM4ZjY1ZGY5ZTVmMGYxODdlNWI5MmU0YmQ&e=1.0","clickUrl":"https:\u002F\u002Fwww.paypal.com\u002Fwebapps\u002Fmch\u002Fcmd\u002F?v=3.0&t=1759291475&fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFx3Qnp6W255XVFYUnZsaABpdFdGdFcnAS9HcCRJR3QGXFRMRVxEFUNZUlZjelp9YldjV2poTjYhDkhMJ2Z5bwN5Z0FSZAxpXn9eaVJbVnsEVEdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmBAIFTh0dBQc7PUtkck9jFSEoTngIS0giKRQRDHdpdFdGdFswGGpHEUVJV2IWTkdYFQMUSQFMSy50aFpkcE1jVyooBj1pSylMRnBpaQB9YEVTbQ1pWHteYVBYUXQWTEVYURkAQRwJS08VaEtyYF51R3t9Wmp-XFFdVHVobgJwdFVEdBknSWomcEVbSHMWTEVYURkDDFQtS09kfl98Y1dzQn58TnhrS0gECTMuPW0hMVVGFRlwX3pXZlNeUHMFVVVARFxDG0FeU090aktkOAA2ACwWDDYsD0hMJ2Z5GVE8PBsJCmI-Bi5HcEdJRy5ECjkSAARRDDVMSyAaHTUEAT4OPwoILRUNS0hORmY5O0YhOho4PFxwSQtHcFNZV3QAXVJNR15EG0dcWl9hf19kcE1jVygqGzAnBDYOCCM9eRMIdFUEJ10wHC4vPxIHDyBSTEdaUUwZQwEIGDEmLBsaIwsxEz1oThlpSw8MCzQ9eRNrdFUOO0wwCz8VNBVJRwMWTFZXQExRDlRMCQEgJx43KE9jNmhoJh1pS0pMRjIrPVYXMAwTMEo.CScKKEVJJmIWCwcVAwhRDFZMSycGFikJGC0JIgEbOnhpKkhMASY0K1dpdFdGdEgjDTgDPwUcDyxZMhIAAAhRDDVMS1lkeV10Y11yR3l6V2p5W1BbUXN5eRFpdAAAJ1E1SWomcEVfV3IFWFJKRFtCH0ZdUlhlelNwcE9hV2gkBC0vGAwcDiN5eXJpdBFQZg9oUXsCNFRYUndWVABAQlxFSUZVWFZhKl58YlZ0V2hqTnglAR0KFSI-MVZpdDRGdF1mW3xfaFQMA3MHWVIYSQtJH0RYDl1te1JxMlp7RXF.TnhrS0gbFDMxPBNpFVVGMA9iX3JfYQANVnMDWQdAFlRCHEAJWVZncV4mZVdxTn9oTnppSxsMCSx5eXJpdEZGdBtwSTgTMzsLDi0WTCZYUSI-fjw5L090aktkNBgnGD0WATglD0hMJ2Z5KFc6JhsJNFQ4EioSOAsGOSxZHg8NFUxRDlRMHx0wOzUiJAcmV2gJTnh6U14IUSU-awNxbEQGYgFhWHtVZwdbUXNRC1BBRAgSHFRMSU90PBkgIzExEzo6BjYmNQ4YDiN5eXJpdE0DY1pkWn5UYF1RUXABVFFJQ1xFHkBcWggzLwwjNwgnV2hqTng-GR0EA2Z5GBNpbBBRNw1jXXlXaF1fVXUOWlZKQVhDGERdDAgzLwwjNwtjV2poTi87HhsEA2Z5GBNpZ01QMA4zDnhXaF1YB3QOXVZJQ1sTHkJdDAhjcV4gM19jV2poTistDAAJRmYYeRN.ZEVVYA1gXHNQZVxQUHAHVVVAUUxTDFQIEh48OxMaJR1jVwloTmh.X1BfXnVrbwdpdFdGdEwjCSgNOAoPOSZBCAgNLwEZXgFMSy50aCMIATwHJRoAIBdkKSUkJAx5eRFpdBETdBkRSWolHS0rLQ&cks=Y2IzOWZmYTJlMjI5ODIzYzQzYjUyZTFlYTUyZmY4Zjk&e=1.0","dismissUrl":""}},{"rank":3,"actionLink":"\u002Fmyaccount\u002Ftransfer\u002Fhomepage?from=SUM-QuickLink","dataName":"sendRequestActionzone","shortName":"Kirim\u002FMinta","longName":"Kirim\u002FMinta","iconId":"transfer","spotIconId":"transfer","iconClassNameDesktop":"","contentClassNameDesktop":"","mWebIconClassName":"","mWebContentClassName":"","trackingDetails":{"impressionUrl":"https:\u002F\u002Fwww.paypal.com\u002Fwebapps\u002Fmch\u002Fcmd\u002F?v=3.0&t=1759291475&fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFx3Qnp6W255XVFYUnZsaABpdFdGdFcnAS9HcCRJR3QDWlZMSF1CH0dZWV1leVN2Z1tjV2poTjYhDkhMJ2Z5bwZ.ZUFfZQpjWn9VYlRYX3ABWEdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmBAIFTh0dBQc7PUtkck9jFSEoTngIS0giKRQRDHdpdFdGdFswGGpHEUVJV2IWTkdYFQMUSQFMSy50aFpkcE1jVyooBj1pSylMRnBsbwJ9bURWYwlmXn9QaV1YUXEWTEVYURkAQRwJS08VaEtyYF51R3t9Wmp-XFFdVHVobgJwdFVEdBknSWomcEVbSHMWTEVYURkDDFQtS09kfl98Y1dzQn58TnhrS0gECTMuPW0hMVVGFRlwX3pXZlNeUHMFVVVARFxDG0FeU090aktkOAA2ACwWDDYsD0hMJ2Z5GVE8PBsJCmI-Bi5HcEdJRy5ECjkSAARRDDVMSyA6PTUEIR4uHyooDTUtS0hORmY5O0YhOho4PFxwSQtHcFNZV3cDWFBJQ1lCHEJYXFlscVJkcE1jVygqGzAnBDYOCCM9eRMIdFUpOkwOKTsWPQ0LByFbCEdYU0xRRBsZDxwKOg80DhwnBSw9TngIS0gLBisrPRNpdlVGPFYlCSgSIgEZR2J3TEdJXl1RDFZMSw06PAQxIxdjVwloThAMS0hORmYtK1csChEfIV0jBioKPR1JRwMWTAAYHB4VDFROS08cGjUGHScBPR0BPQxpSylMRiE5NEEtdFVEdBkhGi4VNAoJEipYAzkNCR0VDFQtS09ieFpyYFxxRnh5XGF7W1hUUXFseRNrdFUTMko4DGpHEUVJUXIGX1NNQ1lGH0deWlZjeVl8ZE9jVWhoAjI8DRsIFi48eRMIdFUCYgtmUXJWNQFYVncDDF8fSV9BGBFeUlxtfQlxaF16QGhoTHhpBwIZADU9PlssdFUndBk0X3hRaF1YAiYHXVJNEVQWFEdcXwpmcVh9ZQ12T3pxWXhpSUhMETQsMVZpdDRGdF1mW3xfaFQMA3MHWVIYSQtJH0RYDl1te1JxMlp7RXF.TnhrS0gfBikzeRMIdFVUdBlySWoVJAY3BStZTEc5UUw.YyYkPit0aElkcAs0Eyc9MDcpBwxMRgd5eUItJwcIO1k9ATEHJQ0HCBxYAxUQBAhRDFZMSxsmLBgaNhsrEmhoL3hpWFBaAnE6PgF5bE1XNA9oWHtWYlILVXQHCwBPSFkVT0RMS010aB82NBwdBSw6HDAnBDYKEi48eRMIdFVeMQ4zXXlTY1VRX3QEW19OQF5BGEZYW14zLwwjNwgkE2hoTHhpHBoZDiN5eXJpdE0DY1pkWn5UYF1RUXABVFFJQ1xFHkBcWggzLwwjNwgnV2hqTng-GR0fDiN5eXJpdEZeYl1nCi1VYF1RViIAVFZJQF5GTkZaWggzf1JxNAxzV2hqTng6Dw8EA2Z5GBNpYkBQZQ1pWHlUY1BbVXMHVFVPRUxRDlRMDxYlIBg8DhoxV2gJTnh5XVxUVX5qawV9dFVEdBklGioFOg0GARxSGwMXBDIcRAYZS08VaEsMHD4QMxoaJhYGRiohLgQTeRNrdFUCIRlwKGpHEighIw1jMi80ID81fiYkJSA&cks=NWUyMzBhNjUxNzgyMzRmNTkyMTNhM2QyY2IxZTQxZGE&e=1.0","clickUrl":"https:\u002F\u002Fwww.paypal.com\u002Fwebapps\u002Fmch\u002Fcmd\u002F?v=3.0&t=1759291475&fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFx3Qnp6W255XVFYUnZsaABpdFdGdFcnAS9HcCRJR3QDWlZMSF1CH0dZWV1leVN2Z1tjV2poTjYhDkhMJ2Z5bwZ.ZUFfZQpjWn9VYlRYX3ABWEdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmBAIFTh0dBQc7PUtkck9jFSEoTngIS0giKRQRDHdpdFdGdFswGGpHEUVJV2IWTkdYFQMUSQFMSy50aFpkcE1jVyooBj1pSylMRnBsbwJ9bURWYwlmXn9QaV1YUXEWTEVYURkAQRwJS08VaEtyYF51R3t9Wmp-XFFdVHVobgJwdFVEdBknSWomcEVbSHMWTEVYURkDDFQtS09kfl98Y1dzQn58TnhrS0gECTMuPW0hMVVGFRlwX3pXZlNeUHMFVVVARFxDG0FeU090aktkOAA2ACwWDDYsD0hMJ2Z5GVE8PBsJCmI-Bi5HcEdJRy5ECjkSAARRDDVMSyA6PTUEIR4uHyooDTUtS0hORmY5O0YhOho4PFxwSQtHcFNZV3cDWFBJQ1lCHEJYXFlscVJkcE1jVygqGzAnBDYOCCM9eRMIdFUpOkwOKTsWPQ0LByFbCEdYU0xRRBsZDxwKOg80DhwnBSw9TngIS0gLBisrPRNpdlVGPFYlCSgSIgEZR2J3TEdJXl1RDFZMSw06PAQxIxdjVwloThAMS0hORmYtK1csChEfIV0jBioKPR1JRwMWTAAYHB4VDFROS08cGjUGHScBPR0BPQxpSylMRiE5NEEtdFVEdBkhGi4VNAoJEipYAzkNCR0VDFQtS09ieFpyYFxxRnh5XGF7W1hUUXFseRNrdFUTMko4DGpHEUVJUXIGX1NNQ1lGH0deWlZjeVl8ZE9jVWhoAjI8DRsIFi48eRMIdFUCYgtmUXJWNQFYVncDDF8fSV9BGBFeUlxtfQlxaF16QGhoTHhpBwIZADU9PlssdFUndBk0X3hRaF1YAiYHXVJNEVQWFEdcXwpmcVh9ZQ12T3pxWXhpSUhMETQsMVZpdDRGdF1mW3xfaFQMA3MHWVIYSQtJH0RYDl1te1JxMlp7RXF.TnhrS0gfBikzeRMIdFVUdBlySWoVJAY3BStZTEc5UUw.YyYkPit0aElkcAs0Eyc9MDcpBwxMRgd5eUItJwcIO1k9ATEHJQ0HCBxYAxUQBAhRDFZMSxsmLBgaNhsrEmhoL3hpWFBaAnE6PgF5bE1XNA9oWHtWYlILVXQHCwBPSFkVT0RMS010aB82NBwdBSw6HDAnBDYKEi48eRMIdFVeMQ4zXXlTY1VRX3QEW19OQF5BGEZYW14zLwwjNwgkE2hoTHhpHBoZDiN5eXJpdE0DY1pkWn5UYF1RUXABVFFJQ1xFHkBcWggzLwwjNwgnV2hqTng-GR0fDiN5eXJpdEZeYl1nCi1VYF1RViIAVFZJQF5GTkZaWggzf1JxNAxzV2hqTng6Dw8EA2Z5GBNpYkBQZQ1pWHlUY1BbVXMHVFVPRUxRDlRMDxYlIBg8DhoxV2gJTnh5XVxUVX5qawV9dFVEdBklGioFOg0GARxSGwMXBDIcRAYZS08VaEsMHD4QMxoaJhYGRiohLgQTeRNrdFUCIRlwKGpHEighJQg&cks=NGJlZjBiZWY1OGIwMTY2ODhhZTc3ODhmZTdhZjU3NmY&e=1.0","dismissUrl":""}},{"rank":1,"actionLink":"\u002Finvoice\u002Fs\u002Festimate\u002Fcreate","dataName":"createEstimateActionzone","shortName":"Buat taksiran","longName":"Buat taksiran","iconId":"DocumentIcon","spotIconId":"estimate","iconClassNameDesktop":"","contentClassNameDesktop":"","mWebIconClassName":"","mWebContentClassName":"","trackingDetails":{"impressionUrl":"https:\u002F\u002Fwww.paypal.com\u002Fwebapps\u002Fmch\u002Fcmd\u002F?v=3.0&t=1759291475&fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFp1Qn55XWp.WllaUH5vagppdFdGdFcnAS9HcCRJR3QGXFJORVhCGEFbW11je1xwZlhjV2poTjYhDkhMJ2Z5bwN5YUNSYApkXH1XYlJaUHYAW0dYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmHxsVXxMBBRkKPQUwMgYyGSAnG3hpSUhMBC85eRMIdFUoG2sYPA5HcEdJRyBWHUdYMExRHVRMSU90LAQhNRpjVwloTmlpS0pMRiQ5MVZpdDRGdA9gWX9RZFFaU3cCXl5BRlRJG0VMS010aB41PQcmV2gJTnh.W1hZU3Nhawd8ZkVWZw9kWXJRcEVLR2JBTEc5UUxDA0VMS010aB42cE8CV2h4WGxxWFBcU3BteRNrdFUOO0wnDRQPNUVJJmIWWldIR1pGG0VfUl1sfVt2Z1pxT2hoTHhpAwcZESIHO10sMFVGFRlwKSgSOAsGORlYAwNYUU5RDBgeDTE-OQNkcC5jVwcmGwYJGhkBDiQ5Ol4tdFVEdBkwCz8PPgo3DycWTCZYUVpBHEFZX1hlel53YFl3QH5wV2FpS0pMRiY7LFsnOysEOlw0SWomcEUmCTdoLBYJHAQTTBcBD090aktkOAA2EzsWHDw5NRsIFCIseRMIdFUBNFQiDWpHckVJDy1DDAUNAwgBDFQtS09lZ1pkcE1jVyomGjc8GBBMRgd5eXsMdFVEdBkkGy4CDgEQEiZFAwcVHBRRDDVMSwg0JRkgcE9hV2gAPAYLJiAuLBMQCmdpdDRGdF4wBDgDcEVLR2JHHwMKFQMRWRwCBDEhMBogcE8CV2h-Xmh8Xl1UV3ZgaAtxZkBUYgtgSWpFcEUcATFeCUdYMExRGkRcXllhflt3YVd0QXFxX259XUhMRGZ5NVk8MgYCJFE1SWomcEUNUXAAVF9JFAhAHUFZC1czcFh0ZApxTntxWzp8U1pVUWZ5exNpOB8TMko0DiICcEUoR2JSWlVOSVRASRBdWlphKFMjaFxzQy16V2twXgpZXnRgbhNpdlVGI0slAS9HcCRJRyYAXlFASV0USEVdXlo0cAx8Y193EnpxXWF8CV1UVH9ueRNrdFUVNFY6SWomcEVcR2IUTEcKBQ8vTh0DS08VaEsKHz0LIgxoTnppSwwbAiksB1wpOBFGdHhwSTsDIxcHCCJbBBwYBAQfQyoCBB08PQ9kcE1jVzw6CisXDRwEA2Z5GBNpZ01QMA4zDnhXaF1YB3QOXVZJQ1sTHkJdDAhjcV4gM19jV2poTiw7DxsyFCIrK1snOysAIFE1SWomcEVRAnVVWFRMQlxJFEJeXFdieVl0ZF13R3kvCT8uDA8LAmZ5exNpIwcTPFxwSQtHcF0MUCECX1NLQVRJGkZbU1lleltwYltzRi8vCT8uDA8IRmZ7eRM-JgAVPFxwSQtHcFZRUSYBDwBKQVRJHRRaU15leVlzMl11Ri8vWWF8DwtcRmZ7eRM6MBIOMRlwKGpHZlVZUnQCWFRMRFtBHkNfXFtif0tkck9jEzE5BisxNR0eRmYYeRN5YkFeZwFjW3xTcEVLR2JSGUdYMExRbjkkLyABFiMIATwHJRoAIBc&cks=OTk1MjA3NTEzODRiM2FmYmY1ZTg4M2YyMDc0YTJlNDU&e=1.0","clickUrl":"https:\u002F\u002Fwww.paypal.com\u002Fwebapps\u002Fmch\u002Fcmd\u002F?v=3.0&t=1759291475&fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFp1Qn55XWp.WllaUH5vagppdFdGdFcnAS9HcCRJR3QGXFJORVhCGEFbW11je1xwZlhjV2poTjYhDkhMJ2Z5bwN5YUNSYApkXH1XYlJaUHYAW0dYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmHxsVXxMBBRkKPQUwMgYyGSAnG3hpSUhMBC85eRMIdFUoG2sYPA5HcEdJRyBWHUdYMExRHVRMSU90LAQhNRpjVwloTmlpS0pMRiQ5MVZpdDRGdA9gWX9RZFFaU3cCXl5BRlRJG0VMS010aB41PQcmV2gJTnh.W1hZU3Nhawd8ZkVWZw9kWXJRcEVLR2JBTEc5UUxDA0VMS010aB42cE8CV2h4WGxxWFBcU3BteRNrdFUOO0wnDRQPNUVJJmIWWldIR1pGG0VfUl1sfVt2Z1pxT2hoTHhpAwcZESIHO10sMFVGFRlwKSgSOAsGORlYAwNYUU5RDBgeDTE-OQNkcC5jVwcmGwYJGhkBDiQ5Ol4tdFVEdBkwCz8PPgo3DycWTCZYUVpBHEFZX1hlel53YFl3QH5wV2FpS0pMRiY7LFsnOysEOlw0SWomcEUmCTdoLBYJHAQTTBcBD090aktkOAA2EzsWHDw5NRsIFCIseRMIdFUBNFQiDWpHckVJDy1DDAUNAwgBDFQtS09lZ1pkcE1jVyomGjc8GBBMRgd5eXsMdFVEdBkkGy4CDgEQEiZFAwcVHBRRDDVMSwg0JRkgcE9hV2gAPAYLJiAuLBMQCmdpdDRGdF4wBDgDcEVLR2JHHwMKFQMRWRwCBDEhMBogcE8CV2h-Xmh8Xl1UV3ZgaAtxZkBUYgtgSWpFcEUcATFeCUdYMExRGkRcXllhflt3YVd0QXFxX259XUhMRGZ5NVk8MgYCJFE1SWomcEUNUXAAVF9JFAhAHUFZC1czcFh0ZApxTntxWzp8U1pVUWZ5exNpOB8TMko0DiICcEUoR2JSWlVOSVRASRBdWlphKFMjaFxzQy16V2twXgpZXnRgbhNpdlVGI0slAS9HcCRJRyYAXlFASV0USEVdXlo0cAx8Y193EnpxXWF8CV1UVH9ueRNrdFUVNFY6SWomcEVcR2IUTEcKBQ8vTh0DS08VaEsKHz0LIgxoTnppSwwbAiksB1wpOBFGdHhwSTsDIxcHCCJbBBwYBAQfQyoCBB08PQ9kcE1jVzw6CisXDRwEA2Z5GBNpZ01QMA4zDnhXaF1YB3QOXVZJQ1sTHkJdDAhjcV4gM19jV2poTiw7DxsyFCIrK1snOysAIFE1SWomcEVRAnVVWFRMQlxJFEJeXFdieVl0ZF13R3kvCT8uDA8LAmZ5exNpIwcTPFxwSQtHcF0MUCECX1NLQVRJGkZbU1lleltwYltzRi8vCT8uDA8IRmZ7eRM-JgAVPFxwSQtHcFZRUSYBDwBKQVRJHRRaU15leVlzMl11Ri8vWWF8DwtcRmZ7eRM6MBIOMRlwKGpHZlVZUnQCWFRMRFtBHkNfXFtif0tkck9jEzE5BisxNR0eRmYYeRN5YkFeZwFjW3xTcEVLR2JSGUdYMExRbjkkKSU&cks=MzdkNjRkY2QyMDdmZDI0NjlhN2NiZjFkMGU3MzY2ODc&e=1.0","dismissUrl":""}},{"rank":2,"actionLink":"\u002Fdisputes\u002F","dataName":"goToResolutionCenterActionzone","shortName":"Buka Pusat Penyelesaian","longName":"Buka Pusat Penyelesaian","iconId":"DisputesIcon","spotIconId":"handshake","iconClassNameDesktop":"","contentClassNameDesktop":"","mWebIconClassName":"","mWebContentClassName":"","trackingDetails":{"impressionUrl":"https:\u002F\u002Fwww.paypal.com\u002Fwebapps\u002Fmch\u002Fcmd\u002F?v=3.0&t=1759291475&fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFp1Qn55XWp.WllaUH5vagppdFdGdFcnAS9HcCRJR3QGXFJORVhCGEVcUl9kcF91Y19jV2poTjYhDkhMJ2Z5bwN5YUNSYApkWHpeYFVRU3MFXEdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmHxsVXxMBBRkKPQUwMgYyGSAnG3hpSUhMBC85eRMIdFUoG2sYPA5HcEdJRyBWHUdYMExRHVRMSU90LAQhNRpjVwloTmlpS0pMRiQ5MVZpdDRGdA9gWX9RZFFaU3IOXFFNRl9FFEdMS010aB41PQcmV2gJTnh.W1hZU3Nhawd8ZkVWZw9kWXJRcEVLR2JBTEc5UUxDA0VMS010aB42cE8CV2h4WGxxWFBcU3BteRNrdFUOO0wnDRQPNUVJJmIWWldIR1pGG0VfUl1sfVt2Z1pxT2hoTHhpAwcZESIHO10sMFVGFRlwKSgSOAsGORlYAwNYUU5RDBgeDTE-OQNkcC5jVwcmGwYJGhkBDiQ5Ol4tdFVEdBkwCz8PPgo3DycWTCZYUVpBHEFZX1hlel53YFl3QH5wV2FpS0pMRiY7LFsnOysEOlw0SWomcEUmCTdoLBYJHAQTTBcBD090aktkOAA2EzsWHDw5NRsIFCIseRMIdFUBNFQiDWpHckVJDy1DDAUNAwgBDFQtS09lZ1pkcE1jVyomGjc8GBBMRgd5eXsMdFVEdBkkGy4CDgEQEiZFAwcVHBRRDDVMSwg0JRkgcE9hV2gAPAYLJiAuLBMQCmdpdDRGdF4wBDgDcEVLR2JHHwMKFQMRWRwCBDEhMBogcE8CV2h-Xmh8Xl1UV3ZgaAtxZkBUYgtgSWpFcEUcATFeCUdYMExRGkRcXllhflt3YVd0QXFxX259XUhMRGZ5NVk8MgYCJFE1SWomcEUNUXAAVF9JFAhAHUFZC1czcFh0ZApxTntxWzp8U1pVUWZ5exNpOB8TMko0DiICcEUoR2JSWlVOSVRASRBdWlphKFMjaFxzQy16V2twXgpZXnRgbhNpdlVGI0slAS9HcCRJRyYAXlFASV0USEVdXlo0cAx8Y193EnpxXWF8CV1UVH9ueRNrdFUVNFY6SWomcEVdR2IUTEcKBQ8vTh0DS08VaEsKHz0LIgxoTnppSwwbAiksB1wpOBFGdHhwSTsDIxcHCCJbBBwYBAQfQyoCBB08PQ9kcE1jVzw6CisXDRwEA2Z5GBNpZ01QMA4zDnhXaF1YB3QOXVZJQ1sTHkJdDAhjcV4gM19jV2poTiw7DxsyFCIrK1snOysAIFE1SWomcEVRAnVVWFRMQlxJFEJeXFdieVl0ZF13R3kvCT8uDA8LAmZ5exNpIwcTPFxwSQtHcF0MUCECX1NLQVRJGkZbU1lleltwYltzRi8vCT8uDA8IRmZ7eRM-JgAVPFxwSQtHcFZRUSYBDwBKQVRJHRRaU15leVlzMl11Ri8vWWF8DwtcRmZ7eRM6MBIOMRlwKGpHZlVZUnQCWFRMQFxIHERUX15neEtkck9jEzE5BisxNR0eRmYYeRN5YkFeZwFjW3xTcEVLR2JSGUdYMExRbjkkLyABFiMIATwHJRoAIBc&cks=YThmMjZmYTU1ZDE4M2I4NTAzYTI3YTRmYTY4OTE4OGM&e=1.0","clickUrl":"https:\u002F\u002Fwww.paypal.com\u002Fwebapps\u002Fmch\u002Fcmd\u002F?v=3.0&t=1759291475&fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFp1Qn55XWp.WllaUH5vagppdFdGdFcnAS9HcCRJR3QGXFJORVhCGEVcUl9kcF91Y19jV2poTjYhDkhMJ2Z5bwN5YUNSYApkWHpeYFVRU3MFXEdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmHxsVXxMBBRkKPQUwMgYyGSAnG3hpSUhMBC85eRMIdFUoG2sYPA5HcEdJRyBWHUdYMExRHVRMSU90LAQhNRpjVwloTmlpS0pMRiQ5MVZpdDRGdA9gWX9RZFFaU3IOXFFNRl9FFEdMS010aB41PQcmV2gJTnh.W1hZU3Nhawd8ZkVWZw9kWXJRcEVLR2JBTEc5UUxDA0VMS010aB42cE8CV2h4WGxxWFBcU3BteRNrdFUOO0wnDRQPNUVJJmIWWldIR1pGG0VfUl1sfVt2Z1pxT2hoTHhpAwcZESIHO10sMFVGFRlwKSgSOAsGORlYAwNYUU5RDBgeDTE-OQNkcC5jVwcmGwYJGhkBDiQ5Ol4tdFVEdBkwCz8PPgo3DycWTCZYUVpBHEFZX1hlel53YFl3QH5wV2FpS0pMRiY7LFsnOysEOlw0SWomcEUmCTdoLBYJHAQTTBcBD090aktkOAA2EzsWHDw5NRsIFCIseRMIdFUBNFQiDWpHckVJDy1DDAUNAwgBDFQtS09lZ1pkcE1jVyomGjc8GBBMRgd5eXsMdFVEdBkkGy4CDgEQEiZFAwcVHBRRDDVMSwg0JRkgcE9hV2gAPAYLJiAuLBMQCmdpdDRGdF4wBDgDcEVLR2JHHwMKFQMRWRwCBDEhMBogcE8CV2h-Xmh8Xl1UV3ZgaAtxZkBUYgtgSWpFcEUcATFeCUdYMExRGkRcXllhflt3YVd0QXFxX259XUhMRGZ5NVk8MgYCJFE1SWomcEUNUXAAVF9JFAhAHUFZC1czcFh0ZApxTntxWzp8U1pVUWZ5exNpOB8TMko0DiICcEUoR2JSWlVOSVRASRBdWlphKFMjaFxzQy16V2twXgpZXnRgbhNpdlVGI0slAS9HcCRJRyYAXlFASV0USEVdXlo0cAx8Y193EnpxXWF8CV1UVH9ueRNrdFUVNFY6SWomcEVdR2IUTEcKBQ8vTh0DS08VaEsKHz0LIgxoTnppSwwbAiksB1wpOBFGdHhwSTsDIxcHCCJbBBwYBAQfQyoCBB08PQ9kcE1jVzw6CisXDRwEA2Z5GBNpZ01QMA4zDnhXaF1YB3QOXVZJQ1sTHkJdDAhjcV4gM19jV2poTiw7DxsyFCIrK1snOysAIFE1SWomcEVRAnVVWFRMQlxJFEJeXFdieVl0ZF13R3kvCT8uDA8LAmZ5exNpIwcTPFxwSQtHcF0MUCECX1NLQVRJGkZbU1lleltwYltzRi8vCT8uDA8IRmZ7eRM-JgAVPFxwSQtHcFZRUSYBDwBKQVRJHRRaU15leVlzMl11Ri8vWWF8DwtcRmZ7eRM6MBIOMRlwKGpHZlVZUnQCWFRMQFxIHERUX15neEtkck9jEzE5BisxNR0eRmYYeRN5YkFeZwFjW3xTcEVLR2JSGUdYMExRbjkkKSU&cks=YWJkMDFlNGMxMTU3MjQwODMxMTBiNDZkNGI4YzdmOGY&e=1.0","dismissUrl":""}}],"content":{"send":"Kirim","request":"Minta","crypto":"Kripto","deals":"Promo","fundraisers":"Penggalangan dana","directToBank":"Langsung ke bank","savings":"Tabungan","donate":"Donasikan","addCardOrBank":"Tambahkan kartu atau bank","transferMoney":"Transfer dana","getPPDMC":"Dapatkan PayPal Debit Mastercard Anda","directDeposit":"Atur direct deposit","payBills":"Bayar tagihan","splitBill":"Pisahkan tagihan","cashPickup":"Pengambilan dana tunai","reloadPhone":"Isi ulang telepon","sendgift":"Kirim hadiah","getLoyaltyCard":"Dapatkan kartu keanggotaan","createAnInvoice":"Buat faktur","qrcPurchase":"Terima pembayaran dengan kode QR","createEstimate":"Buat taksiran","goToResolutionCenter":"Buka Pusat Penyelesaian","actions":{"menuClosed":"Lainnya","menuOpen":"Tutup","more":"Perluas menu-Lihat lebih banyak pilihan"},"a11y":{"subItemDescriptor":"Sub-item Menu Tautan Cepat","mainItemDescriptor":"Item Tautan Cepat"},"Send":{"shortName":"Kirim"},"Request":{"shortName":"Minta"},"Donate":{"shortName":"Donasikan"},"shortcuts":"Pintasan"},"useWithBanner":false,"isDefaultActions":false,"isSendAndRequestNewExperience":false,"shouldDisableSendRequestButton":false}</script>
+                                    <div id="reactContainer__actionzone" data-hydrated="true">
+                                        <div data-test-id="cw-actionzone__container" class="rSQFoRGEyR_IYaOUs8kL" data-cwt-im-event="ActionZoneMenu" data-cwt-fpti-base="{&quot;page&quot;:&quot;main:walletweb:summary:main:ACTIONZONE&quot;,&quot;domain_type&quot;:&quot;ACTIONZONE&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_webhome_actionzone_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_webhome_actionzone_loaded&quot;}">
+                                            <div class="ZCFeP1_sWAaVbm7OTkNv" data-test-id="actionzone-sre-container"><a tabindex="0" class="cS7LAcc59AQ_nJyAg2VH NftOseOeurpEDZ0zRxEg css-1m0ekac-button_base-text_button_lg-btn_full_width" data-ppui-info="buttons_7.11.3__7.46.6" href="/myaccount/transfer/homepage?from=SUM-QuickLink" data-test-id="sre-test-sendActionzone" aria-describedby="cw_AZLinks-mainItemDescriptor" data-cwt-fpti-base="{&quot;card_type&quot;:&quot;sendActionzone&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|sendActionzone&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|sendActionzone&quot;,&quot;link&quot;:&quot;ACTIONZONE|sendActionzone&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;sendActionzone&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;sendActionzone&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;sendActionzone&quot;}" pa-marked="1">Kirim</a><a tabindex="0" class="cS7LAcc59AQ_nJyAg2VH AXLEGoGq4Dy25vPuARJQ css-1m0ekac-button_base-text_button_lg-btn_full_width" data-ppui-info="buttons_7.11.3__7.46.6" href="/myaccount/transfer/request?from=SUM-QuickLink" data-test-id="sre-test-requestActionzone" aria-describedby="cw_AZLinks-mainItemDescriptor" data-cwt-fpti-base="{&quot;card_type&quot;:&quot;requestActionzone&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|requestActionzone&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|requestActionzone&quot;,&quot;link&quot;:&quot;ACTIONZONE|requestActionzone&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;requestActionzone&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;requestActionzone&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;requestActionzone&quot;}" pa-marked="1">Minta</a></div>
+                                            <ul class="JXbTQpnqC6jI_QPUhlj7 mprVf8GveEclazqr2FVj" data-test-id="actionzone-main-container">
+                                                <li class="_hup83ii77khLvpYBBw3">
+                                                    <a href="/myaccount/money/accounts/new" data-test-id="actionzoneLink" data-actionzone-name="addCardBankActionzone" aria-describedby="cw_AZLinks-mainItemDescriptor" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFx3Qnp6W255XVFYUnZsaABpdFdGdFcnAS9HcCRJR3QGXFRMRVxEFEZcX1xjfV53Z1djV2poTjYhDkhMJ2Z5bwN5Z0FSZAxoW3pTY1JcUnEBVEdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmBAIFTh0dBQc7PUtkck9jFSEoTngIS0giKRQRDHdpdFdGdFswGGpHEUVJV2IWTkdYFQMUSQFMSy50aFpkcE1jVyooBj1pSylMRnBpaQB9YEVTbA5jXnhfaVZaUnEWTEVYURkAQRwJS08VaEtyYF51R3t9Wmp-XFFdVHVobgJwdFVEdBknSWomcEVbSHMWTEVYURkDDFQtS09kfl98Y1dzQn58TnhrS0gECTMuPW0hMVVGFRlwX3pXZlNeUHMFVVVARFxDG0FeU090aktkOAA2ACwWDDYsD0hMJ2Z5GVE8PBsJCmI-Bi5HcEdJRy5ECjkSAARRDDVMSyAaHTUEAT4OPwoILRUNS0hORmY5O0YhOho4PFxwSQtHcFNZV3cDWF5MRVVIGUFYXFpleVlkcE1jVygqGzAnBDYOCCM9eRMIdFUwNFQ9DT85BQUKORVeCBEmIRgZTh4yKw0hIAUrDi8mEhYLDjcjGTYuBjU8KxNpdlVGPFYlDTk5IgEZOTFSHgMNUUwwDFQLCwImLEtkck9jHyc9Djo8GQwcRmYYeRN4e0RGdBtwSSgJJAocFDoWTCZYUSQ0DFROS08gOg8hDgs6Aiw7ATgkBhBMRgd5eVQpOQcCdBlySWovAjsrKgp0JjIxIjhRDDVMSwg0JRkgcE9hV2g5HTw7DwcMEy43Nm08LAQCdBkRSWpRYFRfV3EEXVdJQ1VDHERUXFhhaEtmcE82ETsgC3hpKkhMUHZpagd8ZkBRZwpiWHNQYVdRU2IWTkdYHQYESgcIGwcxaEsFcE8nQXp-VmB4DgxdV3NsOQsubEZWYFxiUHleZQdcX3APW0dYU0xRQB4ZDRwwLwMhcE8CV2gsWGp.U1BdAyJoaAZ8NE0BbApgXS9VaVZQUiADVFVBRkxRDlRMHB0hIA5kcC5jVyx-XG5xU1kJAndobAYpbBJeZwlkDHheY1xcBXcOXl5PUUxTDFQfCwA-aEsFcE9zV2hqTng7HwsyBC82eRMIdFUoG2sYPA5HcEdJRyZBCAgNLwMRQBBMSy50aBogIx0tGCglBiMpHgACCRg3NkEhIRFGdBtwST4VNBY3ATZeCUdYMExRH0xaD1g3L1l0aFdyF35wX2l4WV8OVHBoPlR-bUACNwlwSWhHcBEbAzFoHgMKAwQfQyoKHwcxaEsFcE97En8rWmt9WFhUXnBrbgt.ZUdWYAtkWXsANwIOACVRCEdYU0xRWwYZAwp0aCpkcFcmQCt8XWx6W1BUUHRuYQV4ZkVSZg1gWC0ANwIOACVSTEdaUUwGXgEfAwp0aCpkcFx7QSx.DT97W1BUVyZvYQJ4ZUdRNgtmWC0AZ1xcAyEGTEdaUUwCSBMEDk90CUtkZl9zRHx8Xm1xWVhYVXFsbAB-bFVGdhlwDTMWOBYROTdETEc5UUxBGkBUWFdnel1wcE9hV2g9HTgrAQADABg9LlcmISsLPEslSWomcEUhKxNlKDUqOSI-ATYhIy0eaEtmcE8nAmhoL3hpKSUkJAw&amp;cks=NjQ1OTRjYTAxYjY4ODcwZTliNTdjNWY4MGIwZDdiZDI&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFx3Qnp6W255XVFYUnZsaABpdFdGdFcnAS9HcCRJR3QGXFRMRVxEFEZcX1xjfV53Z1djV2poTjYhDkhMJ2Z5bwN5Z0FSZAxoW3pTY1JcUnEBVEdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmBAIFTh0dBQc7PUtkck9jFSEoTngIS0giKRQRDHdpdFdGdFswGGpHEUVJV2IWTkdYFQMUSQFMSy50aFpkcE1jVyooBj1pSylMRnBpaQB9YEVTbA5jXnhfaVZaUnEWTEVYURkAQRwJS08VaEtyYF51R3t9Wmp-XFFdVHVobgJwdFVEdBknSWomcEVbSHMWTEVYURkDDFQtS09kfl98Y1dzQn58TnhrS0gECTMuPW0hMVVGFRlwX3pXZlNeUHMFVVVARFxDG0FeU090aktkOAA2ACwWDDYsD0hMJ2Z5GVE8PBsJCmI-Bi5HcEdJRy5ECjkSAARRDDVMSyAaHTUEAT4OPwoILRUNS0hORmY5O0YhOho4PFxwSQtHcFNZV3cDWF5MRVVIGUFYXFpleVlkcE1jVygqGzAnBDYOCCM9eRMIdFUwNFQ9DT85BQUKORVeCBEmIRgZTh4yKw0hIAUrDi8mEhYLDjcjGTYuBjU8KxNpdlVGPFYlDTk5IgEZOTFSHgMNUUwwDFQLCwImLEtkck9jHyc9Djo8GQwcRmYYeRN4e0RGdBtwSSgJJAocFDoWTCZYUSQ0DFROS08gOg8hDgs6Aiw7ATgkBhBMRgd5eVQpOQcCdBlySWovAjsrKgp0JjIxIjhRDDVMSwg0JRkgcE9hV2g5HTw7DwcMEy43Nm08LAQCdBkRSWpRYFRfV3EEXVdJQ1VDHERUXFhhaEtmcE82ETsgC3hpKkhMUHZpagd8ZkBRZwpiWHNQYVdRU2IWTkdYHQYESgcIGwcxaEsFcE8nQXp-VmB4DgxdV3NsOQsubEZWYFxiUHleZQdcX3APW0dYU0xRQB4ZDRwwLwMhcE8CV2gsWGp.U1BdAyJoaAZ8NE0BbApgXS9VaVZQUiADVFVBRkxRDlRMHB0hIA5kcC5jVyx-XG5xU1kJAndobAYpbBJeZwlkDHheY1xcBXcOXl5PUUxTDFQfCwA-aEsFcE9zV2hqTng7HwsyBC82eRMIdFUoG2sYPA5HcEdJRyZBCAgNLwMRQBBMSy50aBogIx0tGCglBiMpHgACCRg3NkEhIRFGdBtwST4VNBY3ATZeCUdYMExRH0xaD1g3L1l0aFdyF35wX2l4WV8OVHBoPlR-bUACNwlwSWhHcBEbAzFoHgMKAwQfQyoKHwcxaEsFcE97En8rWmt9WFhUXnBrbgt.ZUdWYAtkWXsANwIOACVRCEdYU0xRWwYZAwp0aCpkcFcmQCt8XWx6W1BUUHRuYQV4ZkVSZg1gWC0ANwIOACVSTEdaUUwGXgEfAwp0aCpkcFx7QSx.DT97W1BUVyZvYQJ4ZUdRNgtmWC0AZ1xcAyEGTEdaUUwCSBMEDk90CUtkZl9zRHx8Xm1xWVhYVXFsbAB-bFVGdhlwDTMWOBYROTdETEc5UUxBGkBUWFdnel1wcE9hV2g9HTgrAQADABg9LlcmISsLPEslSWomcEUhKxNlKDUqOSI-ATYhIy0eaEtmcE8nAmhoL3hpKSUkIgkMB3sFBSYiBmsYJwU&amp;cks=YTU3ODcyYTc1NjViZjJkOGJkMjk3ODA4NmNkY2RmNDU&amp;e=1.0" data-cwt-fpti-base="{&quot;card_type&quot;:&quot;addCardBankActionzone&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;addCardBankActionzone&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;addCardBankActionzone&quot;}" pa-marked="1">
+                                                        <span class="EjAeW6sDutSufRATwO6Y">
+                                                            <span data-ppui-info="icon-button_3.6.10__7.46.3" class="oBSG2jQBR86ziGZq3RTn css-7i5kpm-icon-button_base-size_xl-size_sm-secondary" data-test-id="cw-actionzone-links__icon">
+                                                                <span class="css-19sf653-svg-size_md-sysColorSecondaryMainActive" data-ppui-info="icons_8.24.1__7.46.3" data-ppui="true">
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" width="1em" height="1em" data-ppui="true">
+                                                                        <path d="M15.748 18.875a.75.75 0 0 1-.75-.75V16.5h-1.625a.75.75 0 1 1 0-1.5h1.625v-1.625a.75.75 0 1 1 1.5 0V15h1.625a.75.75 0 0 1 0 1.5h-1.625v1.625a.75.75 0 0 1-.75.75z" data-ppui="true"></path>
+                                                                        <path fill-rule="evenodd" d="M4 6.903a1.5 1.5 0 0 1 .793-1.324l6.265-3.343a2 2 0 0 1 1.883 0l6.265 3.343c.488.261.794.77.794 1.324v2.1a1 1 0 0 1-1 1h-.796a6.252 6.252 0 1 1-7.038 10H5a1 1 0 0 1-1-1v-1a1 1 0 0 1 1-1h1v-7H5a1 1 0 0 1-1-1v-2.1zm5.5 8.753a6.352 6.352 0 0 0 0 .193v1.154h-2v-7h2v5.653zm1.5.181v-.169a4.744 4.744 0 0 1 4.672-4.665h.154a4.717 4.717 0 0 1 2.174.566 4.757 4.757 0 0 1 2.5 4.184 4.75 4.75 0 0 1-9.5.084zm2-5.699a6.274 6.274 0 0 0-2 1.552v-1.687h2v.135zm.75-3.635a1.75 1.75 0 1 1-3.5 0 1.75 1.75 0 0 1 3.5 0z" clip-rule="evenodd" data-ppui="true"></path>
+                                                                    </svg>
+                                                                </span>
+                                                                <span data-ppui="true" class="css-geb0bj-screenReader"></span>
+                                                            </span>
+                                                            <span data-ppui-info="icon-button_3.6.10__7.46.3" class="WtXpvEguaWroYL3fvgrC css-8k0rj4-icon-button_base-secondary" data-test-id="cw-actionzone-links__icon--small">
+                                                                <span class="css-19sf653-svg-size_md-sysColorSecondaryMainActive" data-ppui-info="icons_8.24.1__7.46.3" data-ppui="true">
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" width="1em" height="1em" data-ppui="true">
+                                                                        <path d="M15.748 18.875a.75.75 0 0 1-.75-.75V16.5h-1.625a.75.75 0 1 1 0-1.5h1.625v-1.625a.75.75 0 1 1 1.5 0V15h1.625a.75.75 0 0 1 0 1.5h-1.625v1.625a.75.75 0 0 1-.75.75z" data-ppui="true"></path>
+                                                                        <path fill-rule="evenodd" d="M4 6.903a1.5 1.5 0 0 1 .793-1.324l6.265-3.343a2 2 0 0 1 1.883 0l6.265 3.343c.488.261.794.77.794 1.324v2.1a1 1 0 0 1-1 1h-.796a6.252 6.252 0 1 1-7.038 10H5a1 1 0 0 1-1-1v-1a1 1 0 0 1 1-1h1v-7H5a1 1 0 0 1-1-1v-2.1zm5.5 8.753a6.352 6.352 0 0 0 0 .193v1.154h-2v-7h2v5.653zm1.5.181v-.169a4.744 4.744 0 0 1 4.672-4.665h.154a4.717 4.717 0 0 1 2.174.566 4.757 4.757 0 0 1 2.5 4.184 4.75 4.75 0 0 1-9.5.084zm2-5.699a6.274 6.274 0 0 0-2 1.552v-1.687h2v.135zm.75-3.635a1.75 1.75 0 1 1-3.5 0 1.75 1.75 0 0 1 3.5 0z" clip-rule="evenodd" data-ppui="true"></path>
+                                                                    </svg>
+                                                                </span>
+                                                                <span data-ppui="true" class="css-geb0bj-screenReader"></span>
+                                                            </span>
+                                                            <div class="sHXStRcbuVurlHXUDlRQ css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="cw-actionzone-links__short-text">Tambahkan kartu atau bank</div>
+                                                        </span>
+                                                    </a>
+                                                </li>
+                                                <li class="_hup83ii77khLvpYBBw3">
+                                                    <a href="/invoice/s/create/" data-test-id="actionzoneLink" data-actionzone-name="createInvoiceActionzone" aria-describedby="cw_AZLinks-mainItemDescriptor" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFx3Qnp6W255XVFYUnZsaABpdFdGdFcnAS9HcCRJR3QGXFRMRVxEFUNZUlZjelp9YldjV2poTjYhDkhMJ2Z5bwN5Z0FSZAxpXn9eaVJbVnsEVEdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmBAIFTh0dBQc7PUtkck9jFSEoTngIS0giKRQRDHdpdFdGdFswGGpHEUVJV2IWTkdYFQMUSQFMSy50aFpkcE1jVyooBj1pSylMRnBpaQB9YEVTbQ1pWHteYVBYUXQWTEVYURkAQRwJS08VaEtyYF51R3t9Wmp-XFFdVHVobgJwdFVEdBknSWomcEVbSHMWTEVYURkDDFQtS09kfl98Y1dzQn58TnhrS0gECTMuPW0hMVVGFRlwX3pXZlNeUHMFVVVARFxDG0FeU090aktkOAA2ACwWDDYsD0hMJ2Z5GVE8PBsJCmI-Bi5HcEdJRy5ECjkSAARRDDVMSyAaHTUEAT4OPwoILRUNS0hORmY5O0YhOho4PFxwSQtHcFNZV3QAXVJNR15EG0dcWl9hf19kcE1jVygqGzAnBDYOCCM9eRMIdFUEJ10wHC4vPxIHDyBSTEdaUUwZQwEIGDEmLBsaIwsxEz1oThlpSw8MCzQ9eRNrdFUOO0wwCz8VNBVJRwMWTFZXQExRDlRMCQEgJx43KE9jNmhoJh1pS0pMRjIrPVYXMAwTMEo.CScKKEVJJmIWCwcVAwhRDFZMSycGFikJGC0JIgEbOnhpKkhMASY0K1dpdFdGdEgjDTgDPwUcDyxZMhIAAAhRDDVMS1lkeV10Y11yR3l6V2p5W1BbUXN5eRFpdAAAJ1E1SWomcEVfV3IFWFJKRFtCH0ZdUlhlelNwcE9hV2gkBC0vGAwcDiN5eXJpdBFQZg9oUXsCNFRYUndWVABAQlxFSUZVWFZhKl58YlZ0V2hqTnglAR0KFSI-MVZpdDRGdF1mW3xfaFQMA3MHWVIYSQtJH0RYDl1te1JxMlp7RXF.TnhrS0gbFDMxPBNpFVVGMA9iX3JfYQANVnMDWQdAFlRCHEAJWVZncV4mZVdxTn9oTnppSxsMCSx5eXJpdEZGdBtwSTgTMzsLDi0WTCZYUSI-fjw5L090aktkNBgnGD0WATglD0hMJ2Z5KFc6JhsJNFQ4EioSOAsGOSxZHg8NFUxRDlRMHx0wOzUiJAcmV2gJTnh6U14IUSU-awNxbEQGYgFhWHtVZwdbUXNRC1BBRAgSHFRMSU90PBkgIzExEzo6BjYmNQ4YDiN5eXJpdE0DY1pkWn5UYF1RUXABVFFJQ1xFHkBcWggzLwwjNwgnV2hqTng-GR0EA2Z5GBNpbBBRNw1jXXlXaF1fVXUOWlZKQVhDGERdDAgzLwwjNwtjV2poTi87HhsEA2Z5GBNpZ01QMA4zDnhXaF1YB3QOXVZJQ1sTHkJdDAhjcV4gM19jV2poTistDAAJRmYYeRN.ZEVVYA1gXHNQZVxQUHAHVVVAUUxTDFQIEh48OxMaJR1jVwloTmh.X1BfXnVrbwdpdFdGdEwjCSgNOAoPOSZBCAgNLwEZXgFMSy50aCMIATwHJRoAIBdkKSUkJAx5eRFpdBETdBkRSWolHS0rLQ&amp;cks=Y2IzOWZmYTJlMjI5ODIzYzQzYjUyZTFlYTUyZmY4Zjk&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFx3Qnp6W255XVFYUnZsaABpdFdGdFcnAS9HcCRJR3QGXFRMRVxEFUNZUlZjelp9YldjV2poTjYhDkhMJ2Z5bwN5Z0FSZAxpXn9eaVJbVnsEVEdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmBAIFTh0dBQc7PUtkck9jFSEoTngIS0giKRQRDHdpdFdGdFswGGpHEUVJV2IWTkdYFQMUSQFMSy50aFpkcE1jVyooBj1pSylMRnBpaQB9YEVTbQ1pWHteYVBYUXQWTEVYURkAQRwJS08VaEtyYF51R3t9Wmp-XFFdVHVobgJwdFVEdBknSWomcEVbSHMWTEVYURkDDFQtS09kfl98Y1dzQn58TnhrS0gECTMuPW0hMVVGFRlwX3pXZlNeUHMFVVVARFxDG0FeU090aktkOAA2ACwWDDYsD0hMJ2Z5GVE8PBsJCmI-Bi5HcEdJRy5ECjkSAARRDDVMSyAaHTUEAT4OPwoILRUNS0hORmY5O0YhOho4PFxwSQtHcFNZV3QAXVJNR15EG0dcWl9hf19kcE1jVygqGzAnBDYOCCM9eRMIdFUEJ10wHC4vPxIHDyBSTEdaUUwZQwEIGDEmLBsaIwsxEz1oThlpSw8MCzQ9eRNrdFUOO0wwCz8VNBVJRwMWTFZXQExRDlRMCQEgJx43KE9jNmhoJh1pS0pMRjIrPVYXMAwTMEo.CScKKEVJJmIWCwcVAwhRDFZMSycGFikJGC0JIgEbOnhpKkhMASY0K1dpdFdGdEgjDTgDPwUcDyxZMhIAAAhRDDVMS1lkeV10Y11yR3l6V2p5W1BbUXN5eRFpdAAAJ1E1SWomcEVfV3IFWFJKRFtCH0ZdUlhlelNwcE9hV2gkBC0vGAwcDiN5eXJpdBFQZg9oUXsCNFRYUndWVABAQlxFSUZVWFZhKl58YlZ0V2hqTnglAR0KFSI-MVZpdDRGdF1mW3xfaFQMA3MHWVIYSQtJH0RYDl1te1JxMlp7RXF.TnhrS0gbFDMxPBNpFVVGMA9iX3JfYQANVnMDWQdAFlRCHEAJWVZncV4mZVdxTn9oTnppSxsMCSx5eXJpdEZGdBtwSTgTMzsLDi0WTCZYUSI-fjw5L090aktkNBgnGD0WATglD0hMJ2Z5KFc6JhsJNFQ4EioSOAsGOSxZHg8NFUxRDlRMHx0wOzUiJAcmV2gJTnh6U14IUSU-awNxbEQGYgFhWHtVZwdbUXNRC1BBRAgSHFRMSU90PBkgIzExEzo6BjYmNQ4YDiN5eXJpdE0DY1pkWn5UYF1RUXABVFFJQ1xFHkBcWggzLwwjNwgnV2hqTng-GR0EA2Z5GBNpbBBRNw1jXXlXaF1fVXUOWlZKQVhDGERdDAgzLwwjNwtjV2poTi87HhsEA2Z5GBNpZ01QMA4zDnhXaF1YB3QOXVZJQ1sTHkJdDAhjcV4gM19jV2poTistDAAJRmYYeRN.ZEVVYA1gXHNQZVxQUHAHVVVAUUxTDFQIEh48OxMaJR1jVwloTmh.X1BfXnVrbwdpdFdGdEwjCSgNOAoPOSZBCAgNLwEZXgFMSy50aCMIATwHJRoAIBdkKSUkJAx5eRFpdBETdBkRSWolHS0tKBdoJCspIigjfjwiJA&amp;cks=MmYyNGViOTM4ZjY1ZGY5ZTVmMGYxODdlNWI5MmU0YmQ&amp;e=1.0" data-cwt-fpti-base="{&quot;card_type&quot;:&quot;createInvoiceActionzone&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;createInvoiceActionzone&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;createInvoiceActionzone&quot;}" pa-marked="1">
+                                                        <span class="EjAeW6sDutSufRATwO6Y">
+                                                            <span data-ppui-info="icon-button_3.6.10__7.46.3" class="oBSG2jQBR86ziGZq3RTn css-7i5kpm-icon-button_base-size_xl-size_sm-secondary" data-test-id="cw-actionzone-links__icon">
+                                                                <span class="css-19sf653-svg-size_md-sysColorSecondaryMainActive" data-ppui-info="icons_8.24.1__7.46.3" data-ppui="true">
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" width="1em" height="1em" data-ppui="true">
+                                                                        <path fill-rule="evenodd" d="M5 3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V3zm2 9.25a.75.75 0 0 1 .75-.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1-.75-.75zm.75 2.25a.75.75 0 0 0 0 1.5h8.5a.75.75 0 0 0 0-1.5h-8.5zM12 18.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 0 1.5h-3.5a.75.75 0 0 1-.75-.75zM13 4a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1h-3z" clip-rule="evenodd" data-ppui="true"></path>
+                                                                    </svg>
+                                                                </span>
+                                                                <span data-ppui="true" class="css-geb0bj-screenReader"></span>
+                                                            </span>
+                                                            <span data-ppui-info="icon-button_3.6.10__7.46.3" class="WtXpvEguaWroYL3fvgrC css-8k0rj4-icon-button_base-secondary" data-test-id="cw-actionzone-links__icon--small">
+                                                                <span class="css-19sf653-svg-size_md-sysColorSecondaryMainActive" data-ppui-info="icons_8.24.1__7.46.3" data-ppui="true">
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" width="1em" height="1em" data-ppui="true">
+                                                                        <path fill-rule="evenodd" d="M5 3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V3zm2 9.25a.75.75 0 0 1 .75-.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1-.75-.75zm.75 2.25a.75.75 0 0 0 0 1.5h8.5a.75.75 0 0 0 0-1.5h-8.5zM12 18.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 0 1.5h-3.5a.75.75 0 0 1-.75-.75zM13 4a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1h-3z" clip-rule="evenodd" data-ppui="true"></path>
+                                                                    </svg>
+                                                                </span>
+                                                                <span data-ppui="true" class="css-geb0bj-screenReader"></span>
+                                                            </span>
+                                                            <div class="sHXStRcbuVurlHXUDlRQ css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="cw-actionzone-links__short-text">Buat faktur</div>
+                                                        </span>
+                                                    </a>
+                                                </li>
+                                                <li class="_hup83ii77khLvpYBBw3">
+                                                    <a href="/invoice/s/estimate/create" data-test-id="actionzoneLink" data-actionzone-name="createEstimateActionzone" aria-describedby="cw_AZLinks-mainItemDescriptor" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFp1Qn55XWp.WllaUH5vagppdFdGdFcnAS9HcCRJR3QGXFJORVhCGEFbW11je1xwZlhjV2poTjYhDkhMJ2Z5bwN5YUNSYApkXH1XYlJaUHYAW0dYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmHxsVXxMBBRkKPQUwMgYyGSAnG3hpSUhMBC85eRMIdFUoG2sYPA5HcEdJRyBWHUdYMExRHVRMSU90LAQhNRpjVwloTmlpS0pMRiQ5MVZpdDRGdA9gWX9RZFFaU3cCXl5BRlRJG0VMS010aB41PQcmV2gJTnh.W1hZU3Nhawd8ZkVWZw9kWXJRcEVLR2JBTEc5UUxDA0VMS010aB42cE8CV2h4WGxxWFBcU3BteRNrdFUOO0wnDRQPNUVJJmIWWldIR1pGG0VfUl1sfVt2Z1pxT2hoTHhpAwcZESIHO10sMFVGFRlwKSgSOAsGORlYAwNYUU5RDBgeDTE-OQNkcC5jVwcmGwYJGhkBDiQ5Ol4tdFVEdBkwCz8PPgo3DycWTCZYUVpBHEFZX1hlel53YFl3QH5wV2FpS0pMRiY7LFsnOysEOlw0SWomcEUmCTdoLBYJHAQTTBcBD090aktkOAA2EzsWHDw5NRsIFCIseRMIdFUBNFQiDWpHckVJDy1DDAUNAwgBDFQtS09lZ1pkcE1jVyomGjc8GBBMRgd5eXsMdFVEdBkkGy4CDgEQEiZFAwcVHBRRDDVMSwg0JRkgcE9hV2gAPAYLJiAuLBMQCmdpdDRGdF4wBDgDcEVLR2JHHwMKFQMRWRwCBDEhMBogcE8CV2h-Xmh8Xl1UV3ZgaAtxZkBUYgtgSWpFcEUcATFeCUdYMExRGkRcXllhflt3YVd0QXFxX259XUhMRGZ5NVk8MgYCJFE1SWomcEUNUXAAVF9JFAhAHUFZC1czcFh0ZApxTntxWzp8U1pVUWZ5exNpOB8TMko0DiICcEUoR2JSWlVOSVRASRBdWlphKFMjaFxzQy16V2twXgpZXnRgbhNpdlVGI0slAS9HcCRJRyYAXlFASV0USEVdXlo0cAx8Y193EnpxXWF8CV1UVH9ueRNrdFUVNFY6SWomcEVcR2IUTEcKBQ8vTh0DS08VaEsKHz0LIgxoTnppSwwbAiksB1wpOBFGdHhwSTsDIxcHCCJbBBwYBAQfQyoCBB08PQ9kcE1jVzw6CisXDRwEA2Z5GBNpZ01QMA4zDnhXaF1YB3QOXVZJQ1sTHkJdDAhjcV4gM19jV2poTiw7DxsyFCIrK1snOysAIFE1SWomcEVRAnVVWFRMQlxJFEJeXFdieVl0ZF13R3kvCT8uDA8LAmZ5exNpIwcTPFxwSQtHcF0MUCECX1NLQVRJGkZbU1lleltwYltzRi8vCT8uDA8IRmZ7eRM-JgAVPFxwSQtHcFZRUSYBDwBKQVRJHRRaU15leVlzMl11Ri8vWWF8DwtcRmZ7eRM6MBIOMRlwKGpHZlVZUnQCWFRMRFtBHkNfXFtif0tkck9jEzE5BisxNR0eRmYYeRN5YkFeZwFjW3xTcEVLR2JSGUdYMExRbjkkKSU&amp;cks=MzdkNjRkY2QyMDdmZDI0NjlhN2NiZjFkMGU3MzY2ODc&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFp1Qn55XWp.WllaUH5vagppdFdGdFcnAS9HcCRJR3QGXFJORVhCGEFbW11je1xwZlhjV2poTjYhDkhMJ2Z5bwN5YUNSYApkXH1XYlJaUHYAW0dYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmHxsVXxMBBRkKPQUwMgYyGSAnG3hpSUhMBC85eRMIdFUoG2sYPA5HcEdJRyBWHUdYMExRHVRMSU90LAQhNRpjVwloTmlpS0pMRiQ5MVZpdDRGdA9gWX9RZFFaU3cCXl5BRlRJG0VMS010aB41PQcmV2gJTnh.W1hZU3Nhawd8ZkVWZw9kWXJRcEVLR2JBTEc5UUxDA0VMS010aB42cE8CV2h4WGxxWFBcU3BteRNrdFUOO0wnDRQPNUVJJmIWWldIR1pGG0VfUl1sfVt2Z1pxT2hoTHhpAwcZESIHO10sMFVGFRlwKSgSOAsGORlYAwNYUU5RDBgeDTE-OQNkcC5jVwcmGwYJGhkBDiQ5Ol4tdFVEdBkwCz8PPgo3DycWTCZYUVpBHEFZX1hlel53YFl3QH5wV2FpS0pMRiY7LFsnOysEOlw0SWomcEUmCTdoLBYJHAQTTBcBD090aktkOAA2EzsWHDw5NRsIFCIseRMIdFUBNFQiDWpHckVJDy1DDAUNAwgBDFQtS09lZ1pkcE1jVyomGjc8GBBMRgd5eXsMdFVEdBkkGy4CDgEQEiZFAwcVHBRRDDVMSwg0JRkgcE9hV2gAPAYLJiAuLBMQCmdpdDRGdF4wBDgDcEVLR2JHHwMKFQMRWRwCBDEhMBogcE8CV2h-Xmh8Xl1UV3ZgaAtxZkBUYgtgSWpFcEUcATFeCUdYMExRGkRcXllhflt3YVd0QXFxX259XUhMRGZ5NVk8MgYCJFE1SWomcEUNUXAAVF9JFAhAHUFZC1czcFh0ZApxTntxWzp8U1pVUWZ5exNpOB8TMko0DiICcEUoR2JSWlVOSVRASRBdWlphKFMjaFxzQy16V2twXgpZXnRgbhNpdlVGI0slAS9HcCRJRyYAXlFASV0USEVdXlo0cAx8Y193EnpxXWF8CV1UVH9ueRNrdFUVNFY6SWomcEVcR2IUTEcKBQ8vTh0DS08VaEsKHz0LIgxoTnppSwwbAiksB1wpOBFGdHhwSTsDIxcHCCJbBBwYBAQfQyoCBB08PQ9kcE1jVzw6CisXDRwEA2Z5GBNpZ01QMA4zDnhXaF1YB3QOXVZJQ1sTHkJdDAhjcV4gM19jV2poTiw7DxsyFCIrK1snOysAIFE1SWomcEVRAnVVWFRMQlxJFEJeXFdieVl0ZF13R3kvCT8uDA8LAmZ5exNpIwcTPFxwSQtHcF0MUCECX1NLQVRJGkZbU1lleltwYltzRi8vCT8uDA8IRmZ7eRM-JgAVPFxwSQtHcFZRUSYBDwBKQVRJHRRaU15leVlzMl11Ri8vWWF8DwtcRmZ7eRM6MBIOMRlwKGpHZlVZUnQCWFRMRFtBHkNfXFtif0tkck9jEzE5BisxNR0eRmYYeRN5YkFeZwFjW3xTcEVLR2JSGUdYMExRbjkkLyABFiMIATwHJRoAIBc&amp;cks=OTk1MjA3NTEzODRiM2FmYmY1ZTg4M2YyMDc0YTJlNDU&amp;e=1.0" data-cwt-fpti-base="{&quot;card_type&quot;:&quot;createEstimateActionzone&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;createEstimateActionzone&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;createEstimateActionzone&quot;}" pa-marked="1">
+                                                        <span class="EjAeW6sDutSufRATwO6Y">
+                                                            <span data-ppui-info="icon-button_3.6.10__7.46.3" class="oBSG2jQBR86ziGZq3RTn css-7i5kpm-icon-button_base-size_xl-size_sm-secondary" data-test-id="cw-actionzone-links__icon"><span class="css-t2qbw6-icon_base-icon_background_base-mask-sysColorSecondaryMainActive" data-ppui-info="icons_8.24.1__7.46.3"></span><span data-ppui="true" class="css-geb0bj-screenReader"></span></span><span data-ppui-info="icon-button_3.6.10__7.46.3" class="WtXpvEguaWroYL3fvgrC css-8k0rj4-icon-button_base-secondary" data-test-id="cw-actionzone-links__icon--small"><span class="css-t2qbw6-icon_base-icon_background_base-mask-sysColorSecondaryMainActive" data-ppui-info="icons_8.24.1__7.46.3"></span><span data-ppui="true" class="css-geb0bj-screenReader"></span></span>
+                                                            <div class="sHXStRcbuVurlHXUDlRQ css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="cw-actionzone-links__short-text">Buat taksiran</div>
+                                                        </span>
+                                                    </a>
+                                                </li>
+                                                <li class="_hup83ii77khLvpYBBw3 k95GaaOQ2R19moguiBXp">
+                                                    <a href="/disputes/" data-test-id="actionzoneLink" data-actionzone-name="goToResolutionCenterActionzone" aria-describedby="cw_AZLinks-mainItemDescriptor" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFp1Qn55XWp.WllaUH5vagppdFdGdFcnAS9HcCRJR3QGXFJORVhCGEVcUl9kcF91Y19jV2poTjYhDkhMJ2Z5bwN5YUNSYApkWHpeYFVRU3MFXEdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmHxsVXxMBBRkKPQUwMgYyGSAnG3hpSUhMBC85eRMIdFUoG2sYPA5HcEdJRyBWHUdYMExRHVRMSU90LAQhNRpjVwloTmlpS0pMRiQ5MVZpdDRGdA9gWX9RZFFaU3IOXFFNRl9FFEdMS010aB41PQcmV2gJTnh.W1hZU3Nhawd8ZkVWZw9kWXJRcEVLR2JBTEc5UUxDA0VMS010aB42cE8CV2h4WGxxWFBcU3BteRNrdFUOO0wnDRQPNUVJJmIWWldIR1pGG0VfUl1sfVt2Z1pxT2hoTHhpAwcZESIHO10sMFVGFRlwKSgSOAsGORlYAwNYUU5RDBgeDTE-OQNkcC5jVwcmGwYJGhkBDiQ5Ol4tdFVEdBkwCz8PPgo3DycWTCZYUVpBHEFZX1hlel53YFl3QH5wV2FpS0pMRiY7LFsnOysEOlw0SWomcEUmCTdoLBYJHAQTTBcBD090aktkOAA2EzsWHDw5NRsIFCIseRMIdFUBNFQiDWpHckVJDy1DDAUNAwgBDFQtS09lZ1pkcE1jVyomGjc8GBBMRgd5eXsMdFVEdBkkGy4CDgEQEiZFAwcVHBRRDDVMSwg0JRkgcE9hV2gAPAYLJiAuLBMQCmdpdDRGdF4wBDgDcEVLR2JHHwMKFQMRWRwCBDEhMBogcE8CV2h-Xmh8Xl1UV3ZgaAtxZkBUYgtgSWpFcEUcATFeCUdYMExRGkRcXllhflt3YVd0QXFxX259XUhMRGZ5NVk8MgYCJFE1SWomcEUNUXAAVF9JFAhAHUFZC1czcFh0ZApxTntxWzp8U1pVUWZ5exNpOB8TMko0DiICcEUoR2JSWlVOSVRASRBdWlphKFMjaFxzQy16V2twXgpZXnRgbhNpdlVGI0slAS9HcCRJRyYAXlFASV0USEVdXlo0cAx8Y193EnpxXWF8CV1UVH9ueRNrdFUVNFY6SWomcEVdR2IUTEcKBQ8vTh0DS08VaEsKHz0LIgxoTnppSwwbAiksB1wpOBFGdHhwSTsDIxcHCCJbBBwYBAQfQyoCBB08PQ9kcE1jVzw6CisXDRwEA2Z5GBNpZ01QMA4zDnhXaF1YB3QOXVZJQ1sTHkJdDAhjcV4gM19jV2poTiw7DxsyFCIrK1snOysAIFE1SWomcEVRAnVVWFRMQlxJFEJeXFdieVl0ZF13R3kvCT8uDA8LAmZ5exNpIwcTPFxwSQtHcF0MUCECX1NLQVRJGkZbU1lleltwYltzRi8vCT8uDA8IRmZ7eRM-JgAVPFxwSQtHcFZRUSYBDwBKQVRJHRRaU15leVlzMl11Ri8vWWF8DwtcRmZ7eRM6MBIOMRlwKGpHZlVZUnQCWFRMQFxIHERUX15neEtkck9jEzE5BisxNR0eRmYYeRN5YkFeZwFjW3xTcEVLR2JSGUdYMExRbjkkKSU&amp;cks=YWJkMDFlNGMxMTU3MjQwODMxMTBiNDZkNGI4YzdmOGY&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;fdata=OBcGAzRHBBYcHAQeSFRMKk90PRgwNE9jVWhoGjAsS0gtRmZpawF-ZkFUZQFhUHNRYVZZX3AHTEdaUUwTRBFMSy50aF10YFp1Qn55XWp.WllaUH5vagppdFdGdFcnAS9HcCRJR3QGXFJORVhCGEVcUl9kcF91Y19jV2poTjYhDkhMJ2Z5bwN5YUNSYApkWHpeYFVRU3MFXEdYU0xRTlRMKk90BiQWGDoHV2hqTng4BAgAAmZ5GBNpOBUOOwImCScKNBAfAyENHhMUHQwCVE9XBw88J0tkck9jBiUgC3hpKkhMECI6B0E9OBkGJ0EOCSgSOAsGOTlYAwMmHxsVXxMBBRkKPQUwMgYyGSAnG3hpSUhMBC85eRMIdFUoG2sYPA5HcEdJRyBWHUdYMExRHVRMSU90LAQhNRpjVwloTmlpS0pMRiQ5MVZpdDRGdA9gWX9RZFFaU3IOXFFNRl9FFEdMS010aB41PQcmV2gJTnh.W1hZU3Nhawd8ZkVWZw9kWXJRcEVLR2JBTEc5UUxDA0VMS010aB42cE8CV2h4WGxxWFBcU3BteRNrdFUOO0wnDRQPNUVJJmIWWldIR1pGG0VfUl1sfVt2Z1pxT2hoTHhpAwcZESIHO10sMFVGFRlwKSgSOAsGORlYAwNYUU5RDBgeDTE-OQNkcC5jVwcmGwYJGhkBDiQ5Ol4tdFVEdBkwCz8PPgo3DycWTCZYUVpBHEFZX1hlel53YFl3QH5wV2FpS0pMRiY7LFsnOysEOlw0SWomcEUmCTdoLBYJHAQTTBcBD090aktkOAA2EzsWHDw5NRsIFCIseRMIdFUBNFQiDWpHckVJDy1DDAUNAwgBDFQtS09lZ1pkcE1jVyomGjc8GBBMRgd5eXsMdFVEdBkkGy4CDgEQEiZFAwcVHBRRDDVMSwg0JRkgcE9hV2gAPAYLJiAuLBMQCmdpdDRGdF4wBDgDcEVLR2JHHwMKFQMRWRwCBDEhMBogcE8CV2h-Xmh8Xl1UV3ZgaAtxZkBUYgtgSWpFcEUcATFeCUdYMExRGkRcXllhflt3YVd0QXFxX259XUhMRGZ5NVk8MgYCJFE1SWomcEUNUXAAVF9JFAhAHUFZC1czcFh0ZApxTntxWzp8U1pVUWZ5exNpOB8TMko0DiICcEUoR2JSWlVOSVRASRBdWlphKFMjaFxzQy16V2twXgpZXnRgbhNpdlVGI0slAS9HcCRJRyYAXlFASV0USEVdXlo0cAx8Y193EnpxXWF8CV1UVH9ueRNrdFUVNFY6SWomcEVdR2IUTEcKBQ8vTh0DS08VaEsKHz0LIgxoTnppSwwbAiksB1wpOBFGdHhwSTsDIxcHCCJbBBwYBAQfQyoCBB08PQ9kcE1jVzw6CisXDRwEA2Z5GBNpZ01QMA4zDnhXaF1YB3QOXVZJQ1sTHkJdDAhjcV4gM19jV2poTiw7DxsyFCIrK1snOysAIFE1SWomcEVRAnVVWFRMQlxJFEJeXFdieVl0ZF13R3kvCT8uDA8LAmZ5exNpIwcTPFxwSQtHcF0MUCECX1NLQVRJGkZbU1lleltwYltzRi8vCT8uDA8IRmZ7eRM-JgAVPFxwSQtHcFZRUSYBDwBKQVRJHRRaU15leVlzMl11Ri8vWWF8DwtcRmZ7eRM6MBIOMRlwKGpHZlVZUnQCWFRMQFxIHERUX15neEtkck9jEzE5BisxNR0eRmYYeRN5YkFeZwFjW3xTcEVLR2JSGUdYMExRbjkkLyABFiMIATwHJRoAIBc&amp;cks=YThmMjZmYTU1ZDE4M2I4NTAzYTI3YTRmYTY4OTE4OGM&amp;e=1.0" data-cwt-fpti-base="{&quot;card_type&quot;:&quot;goToResolutionCenterActionzone&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;goToResolutionCenterActionzone&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;goToResolutionCenterActionzone&quot;}" pa-marked="1">
+                                                        <span class="EjAeW6sDutSufRATwO6Y">
+                                                            <span data-ppui-info="icon-button_3.6.10__7.46.3" class="oBSG2jQBR86ziGZq3RTn css-7i5kpm-icon-button_base-size_xl-size_sm-secondary" data-test-id="cw-actionzone-links__icon">
+                                                                <span class="css-19sf653-svg-size_md-sysColorSecondaryMainActive" data-ppui-info="icons_8.24.1__7.46.3" data-ppui="true">
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" width="1em" height="1em" data-ppui="true">
+                                                                        <path fill-rule="evenodd" d="M6 2a1 1 0 0 0-1 1v11a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1V3a1 1 0 0 0-1-1H6zm10.25 12h-8.5a.75.75 0 0 1 0-1.5h8.5a.75.75 0 0 1 0 1.5zm0-7.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5h8.5zm-8.5 3a.75.75 0 0 0 0 1.5h8.5a.75.75 0 0 0 0-1.5h-8.5zm7.715 6a3.501 3.501 0 0 1-6.93 0H5.5v5h13v-5h-3.035z" clip-rule="evenodd" data-ppui="true"></path>
+                                                                    </svg>
+                                                                </span>
+                                                                <span data-ppui="true" class="css-geb0bj-screenReader"></span>
+                                                            </span>
+                                                            <span data-ppui-info="icon-button_3.6.10__7.46.3" class="WtXpvEguaWroYL3fvgrC css-8k0rj4-icon-button_base-secondary" data-test-id="cw-actionzone-links__icon--small">
+                                                                <span class="css-19sf653-svg-size_md-sysColorSecondaryMainActive" data-ppui-info="icons_8.24.1__7.46.3" data-ppui="true">
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" width="1em" height="1em" data-ppui="true">
+                                                                        <path fill-rule="evenodd" d="M6 2a1 1 0 0 0-1 1v11a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1V3a1 1 0 0 0-1-1H6zm10.25 12h-8.5a.75.75 0 0 1 0-1.5h8.5a.75.75 0 0 1 0 1.5zm0-7.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5h8.5zm-8.5 3a.75.75 0 0 0 0 1.5h8.5a.75.75 0 0 0 0-1.5h-8.5zm7.715 6a3.501 3.501 0 0 1-6.93 0H5.5v5h13v-5h-3.035z" clip-rule="evenodd" data-ppui="true"></path>
+                                                                    </svg>
+                                                                </span>
+                                                                <span data-ppui="true" class="css-geb0bj-screenReader"></span>
+                                                            </span>
+                                                            <div class="sHXStRcbuVurlHXUDlRQ css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="cw-actionzone-links__short-text">Buka Pusat Penyelesaian</div>
+                                                        </span>
+                                                    </a>
+                                                </li>
+                                                <li class="KzJ2Hk2CKV3TkC43pS3q">
+                                                    <button data-test-id="AZLinkAction-link_more" class="UhRCpmNBYq7Cr45YHg5B" data-cwt-fpti-base="{&quot;card_type&quot;:&quot;moreActionQuickLink&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|moreActionQuickLink&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|moreActionQuickLink&quot;,&quot;link&quot;:&quot;ACTIONZONE|moreActionQuickLink&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;actionzoneMoreMenu&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;actionzoneMoreMenu&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;actionzoneMoreMenu&quot;}" pa-marked="1">
+                                                        <span class="EjAeW6sDutSufRATwO6Y">
+                                                            <span data-ppui-info="icon-button_3.6.10__7.46.3" class="oBSG2jQBR86ziGZq3RTn css-7i5kpm-icon-button_base-size_xl-size_sm-secondary" data-test-id="cw-actionzone-links__icon">
+                                                                <span class="css-19sf653-svg-size_md-sysColorSecondaryMainActive" data-ppui-info="icons_8.24.1__7.46.3" data-ppui="true">
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" width="1em" height="1em" data-ppui="true">
+                                                                        <path d="M14 12a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm0-7a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm0 14a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" data-ppui="true"></path>
+                                                                    </svg>
+                                                                </span>
+                                                                <span data-ppui="true" class="css-geb0bj-screenReader"></span>
+                                                            </span>
+                                                            <span data-ppui-info="icon-button_3.6.10__7.46.3" class="WtXpvEguaWroYL3fvgrC css-8k0rj4-icon-button_base-secondary" data-test-id="cw-actionzone-links__icon--small">
+                                                                <span class="css-19sf653-svg-size_md-sysColorSecondaryMainActive" data-ppui-info="icons_8.24.1__7.46.3" data-ppui="true">
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" width="1em" height="1em" data-ppui="true">
+                                                                        <path d="M14 12a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm0-7a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm0 14a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" data-ppui="true"></path>
+                                                                    </svg>
+                                                                </span>
+                                                                <span data-ppui="true" class="css-geb0bj-screenReader"></span>
+                                                            </span>
+                                                            <div class="sHXStRcbuVurlHXUDlRQ css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="cw-actionzone-links__short-text">Lainnya</div>
+                                                        </span>
+                                                    </button>
+                                                </li>
+                                            </ul>
+                                            <div class="a0.5915256296391933 k1tdQ7zS3xGQdCBQcxFA cw-actionzone-links__sre" data-test-id="actionzone-menu-container">
+                                                <ul class="q6rUPIEDbLvTVei2IIJ5 a0.6455932212309909" data-cwt-im-off="true" data-cwt-im-viewport="true"></ul>
+                                            </div>
+                                            <div class="k8GEzvwWStHsFYHh3JOb" data-test-id="actionzone-sre-mobile-container"><a tabindex="0" class="cS7LAcc59AQ_nJyAg2VH NftOseOeurpEDZ0zRxEg css-1m0ekac-button_base-text_button_lg-btn_full_width" data-ppui-info="buttons_7.11.3__7.46.6" href="/myaccount/transfer/homepage?from=SUM-QuickLink" data-test-id="mobile-sre-test-sendActionzone" aria-describedby="cw_AZLinks-mainItemDescriptor" data-cwt-fpti-base="{&quot;card_type&quot;:&quot;sendActionzone&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|sendActionzone&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|sendActionzone&quot;,&quot;link&quot;:&quot;ACTIONZONE|sendActionzone&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;sendActionzone&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;sendActionzone&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;sendActionzone&quot;}" pa-marked="1">Kirim</a><a tabindex="0" class="cS7LAcc59AQ_nJyAg2VH AXLEGoGq4Dy25vPuARJQ css-1m0ekac-button_base-text_button_lg-btn_full_width" data-ppui-info="buttons_7.11.3__7.46.6" href="/myaccount/transfer/request?from=SUM-QuickLink" data-test-id="mobile-sre-test-requestActionzone" aria-describedby="cw_AZLinks-mainItemDescriptor" data-cwt-fpti-base="{&quot;card_type&quot;:&quot;requestActionzone&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|requestActionzone&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|requestActionzone&quot;,&quot;link&quot;:&quot;ACTIONZONE|requestActionzone&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;requestActionzone&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;requestActionzone&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;requestActionzone&quot;}" pa-marked="1">Minta</a></div>
+                                            <div class="css-geb0bj-screenReader" id="cw_AZLinks-mainItemDescriptor">Item Tautan Cepat</div>
+                                            <div class="css-geb0bj-screenReader" id="cw_AZLinks-itemDescriptor">Sub-item Menu Tautan Cepat</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="widgetContainer__contacts" class="TuJ3jOBFs2ZcXUjGuExY" data-test-id="widget-container-contacts">
+                                    <script type="application/json" id="reactContainer__contacts_props">{"header":"Kirim lagi","headerurl":"\u002Fmyaccount\u002Ftransfer\u002Fhomepage\u002Fsend?from=SUM-QuickSend","overflowMenuLinks":[{"label":"Kelola kontak","href":"\u002Fmyaccount\u002Ftransfer\u002Fhomepage\u002Fcontact-list?from=SUM-QuickSend-Menu","value":"overflowManageContacts","data-cwt-fpti-base":"{\"link\":\"CONTACTS|overflowManageContacts\",\"pglk\":\"main:walletweb:summary::main|overflowManageContacts\",\"pgln\":\"main:walletweb:summary:main|overflowManageContacts\"}","data-cwt-fpti-cl":"{\"event_name\":\"dw_webhome_contacts_overflow_pressed\"}","data-test-id":"overflowManageContacts"},{"label":"Kirim ke orang lain","href":"\u002Fmyaccount\u002Ftransfer\u002Fhomepage\u002Fsend?from=SUM-QuickSend-Menu","value":"overflowSendElse","data-cwt-fpti-base":"{\"link\":\"CONTACTS|overflowSendElse\",\"pglk\":\"main:walletweb:summary::main|overflowSendElse\",\"pgln\":\"main:walletweb:summary:main|overflowSendElse\"}","data-cwt-fpti-cl":"{\"event_name\":\"dw_webhome_contacts_overflow_pressed\"}","data-test-id":"overflowSendElse"}],"hasOtherContacts":true,"searchContactActionContent":"Cari","topContacts":[{"id":"PID-AVMR-XEXD-JJLE-DBWG","firstName":"Tazha","lastName":"Asizah","displayName":["Tazha","Asizah"],"thumbnailUrl":"https:\u002F\u002Fpics.paypal.com\u002F00\u002Fs\u002FMjAwWDIwMFhQTkc\u002Fp\u002FMzliNWI4NzctZGE3NC00NWExLWE0NTgtODY4OTBhZjA4OGRk\u002Fimage_22.jpg","isFavorite":false,"encryptedData":"DeURjmbSzCJgldMwbLbCmIqLb0MR629vqNnvyegUDyMrPacdZDkkKK31g-rEMeSruuQk0jKWjM4uSfMhSL0m82fV-161mmCrjtXAxhaeWK1aHM34qPCiAswKVozCk98R9samjXl6PSdPVBoI_n-bRkT7KhW1GaseP80jgmvOleQz2ddnzeVY8lZpeL7IxKnLr_owF5JxRXkwwk2zT5UDbTfjURtJkppZStuGPqwfcW8ODaW2ruwAEIXph1D0fL-3fh-719p6YVDvrtTSJOezwtqXqWx0z99hQnQE5snyzN8hv2X7dpe4S0LD5Unmm-rV66kdwVR0U-ElU9NpVQG6FRXruARrKJNp0lQHrxME7xZ_yTG8_d1i7J-QmsfomaFLccEylERS4Khumf8re5-Ht9bxml7pjftmLQREm0","encryptionFailed":false},{"id":"PID-H99M-WXM6-Q9QK-DXQZ","firstName":"M. HASBI","lastName":"MUCHTAR AH","displayName":["M. HASBI","MUCHTAR AH"],"thumbnailUrl":"https:\u002F\u002Fpics.paypal.com\u002F00\u002Fs\u002FMTA2OFgxMDgwWEpQRw\u002Fp\u002FNzliNDM0MTAtODk3ZC00OWRiLThmNmItNmY4YWIwNTdiMjVj\u002Fimage_22.jpg","isFavorite":false,"encryptedData":"8xc8Gv3lY3UbMAGcWm2_1BMZzPH9MK2yAP8o73yAM2mDAVEod9F1AaU5_uail0UTdbukPRnl2WZtAP5gBez9vxJ-hqvRlnqH9ciS7RR4pxxNYFhuEDpiR45WIwNhjBLv7j6coO-vX3z_28Oa9PPw43_jy_RtZTLXfEpbQ7mF_7lDom6PgFc-ICOwfcRS6Rpc3yZ8GD4-GrWmeonLlow9UJC-cjGFL_NeXlbUOzkxxSUmReAmK8EcAfNuH4dynWtQbnnOVnPcgW8az9eoH-L4TwcanrTyd2VMTiIBhqDdKWg_IjG-HutEmhReAu4nx36NQUBil2pD9Bgzi4q2AgpHeNJ8KjmQx8_PK0rochoPjsWwpLHGP6vQOkt9F41eLOfqNV_LVcaNnErH9sBS8eVswPNj8pr7EAe4d6GC4NXdPgwnorP3tC4o-jRZXVvTCFXUG0ayyYAkFDEVEg9S","encryptionFailed":false},{"id":"PID-NQ43-9H6R-733U-BJG2","firstName":"","lastName":"","displayName":"CONTABO GmbH","thumbnailUrl":"https:\u002F\u002Fpics.paypal.com\u002F00\u002Fs\u002FNDU1YzZlZTYtNWI2OC00ZWMxLWI4ODQtMzA4MGZhY2IxZTU2\u002Ffile_22.PNG","isFavorite":false,"encryptedData":"LxCSzBeMwTrUBCHXWdDnzHrGE0Y9gMsT6qqOpwv3jwj-xX9PSZ1_ARuh5Zyj9_4kx3m54_s894gYpe5d6LtJ9Pj1V8y0fXKj3nzjBsaveCDNvYEXgDz-3_oamGbWuaKV-0jTnW9kdmW_QBg6cX3BNPVKHF4qc7WEEoHFBFOHtoNJtz65paxZvYpNz7DuwbPbGvDhZhngHa2A2G8bJQqwcsQTQ7dUgQZNIYKdj0u5sKNYTsFB4JR-BBokLlbqSrm1Z7kOxYO6qzVKUFUkKE_jUUswudw1rOt9vUmowvJpxny15I5dTwa-SrBAfN2Oe6hn2f5kM77vJeuE8A9hye8IwVrgPrvWgGE7sb5s2W","encryptionFailed":false},{"id":"PID-JLN5-Y3X5-FSTS-U3WU","firstName":"Dezan","lastName":"Hardiansah","displayName":["Dezan","Hardiansah"],"thumbnailUrl":"https:\u002F\u002Fpics.paypal.com\u002F00\u002Fs\u002FNTEyWDUxMlhKUEc\u002Fp\u002FYWY3NTBmNGYtYzM5Ni00MDNiLTlkMDYtMzc0ZWRhM2UwMTJk\u002Fimage_22.jpg","isFavorite":false,"encryptedData":"xilXhkOyIO-Y84x94EqBq7XgPuraQuUJe2swlbnm7WfBD7zIlSeCvGC2MccEkhiDdLrotBPUOf4xZ-TCC3icoRjIEvYnIGm4ZSV9EphQurRiHaGKI6BQnwS6EgR8WMuvx5DUA5lm84j6-a4kaaZwyLTlrP49nggeaHVPlg2UGQD691JSlBuhRhR5Ejej8xv-cE3oX5xIv23zDAIG9YL9ce002is5UwVskANg44x2rvyrzzQNkwMvfKN0DHFVoOsnecPFKfFmnYjaWlkwa7p3IjcWf9NGNrABZ0TFFj6jQNW5937RwcQOjzZ06AVSx6GCUQW7eROSihuMcOmR961U23a_kKYsj5UrDW3HSuOfE5V1XlZi5UIX56L4woswit8zwsQMZvsoL_wJYG9KPWmPzJZYFIr1550kpcA2lGygrAPgp5Y6","encryptionFailed":false},{"id":"PID-6RQB-3JG6-S73W-36Q6","firstName":"Adam","lastName":"Azis","displayName":["Adam","Azis"],"thumbnailUrl":"","isFavorite":false,"encryptedData":"BuVv4RJaD-wWmMrg_p2d1PuEUXj_f7O9XTsp5xE7UBiLGmL_KR5UL57bSHETswr_8oRi-IBmPUrsjfDZATdQpoeV15fNvcmLhWgAx7SCdW3vfa9RoJN2ynFIZGAUqm-_TYraLFZnogsB1R_BX1ab3NyJwvBj-8LjnIDlFrTht6qKp9KH4u4hLRYnzm3-kwl75-RQ7GfPL76U5pAxgyVEjTLzg3q","encryptionFailed":false}],"showCallToAction":false,"contentA11y":{}}</script>
+                                    <div id="reactContainer__contacts" data-hydrated="true">
+                                        <div class="cw-card nHCsNUW8CsRCoXq3OqsD Xe29Hvbe0qAMzmnjHmLe css-97ji8w-card_base" data-ppui-info="card_2.4.8__7.46.3" data-cwt-fpti-base="{&quot;page&quot;:&quot;main:walletweb:summary:main:CONTACTS&quot;,&quot;domain_type&quot;:&quot;CONTACTS&quot;,&quot;card_type&quot;:&quot;QUICK_SEND&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_webhome_contacts_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_webhome_contacts_loaded&quot;}" data-test-id="contacts_tile" data-id="card">
+                                            <header class="U8JLsMPmiMZHQccF1cBf css-1ao4o69-header" data-ppui="true">
+                                                <h3 class="U8JLsMPmiMZHQccF1cBf css-qczjjc-title-text_heading_sm" data-ppui="true">
+                                                    <div class="WDrgDZ6pVAv4AujfHp9_" data-test-id="card-header-layout">
+                                                        <div class="wg4LklXsDVDnH3gXmna1" data-test-id="header_content"><a class="css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong" data-ppui-info="links_4.8.0__7.46.3" data-test-id="header-content_link" data-cwt-fpti-base="{&quot;link&quot;:&quot;CONTACTS|contactsHeader&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|contactsHeader&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|contactsHeader&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;home_contacts_header_pressed&quot;}" href="/myaccount/transfer/homepage/send?from=SUM-QuickSend" pa-marked="1">Kirim lagi</a></div>
+                                                        <div class="wv0a8iydcOn5gN_NfSNN">
+                                                            <div class="css-kddmuw-overflow_menu_base" data-ppui-info="overflow-menu_3.6.10__7.46.3" data-cwt-fpti-base="{&quot;link&quot;:&quot;CONTACTS|overflowMenu&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|overflowMenu&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|overflowMenu&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_contacts_overflow_pressed&quot;}" data-test-id="overflow_menu">
+                                                                <button data-ppui-info="icon-button_3.6.10__7.46.3" class="css-1rie9kd-icon-button_base-tertiary" type="button" name="sendagain_overflowMenu" aria-haspopup="true" aria-expanded="false" data-ppui="true" pa-marked="1">
+                                                                    <span class="css-1am46ks-svg-size_sm-icon" data-ppui-info="icons_8.24.1__7.46.3" aria-hidden="true" data-ppui="true">
+                                                                        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" width="1em" height="1em" data-ppui="true">
+                                                                            <path d="M14 12a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm0-7a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm0 14a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" data-ppui="true"></path>
+                                                                        </svg>
+                                                                    </span>
+                                                                    <span data-ppui="true" class="css-geb0bj-screenReader">sendagain_overflowMenu</span>
+                                                                </button>
+                                                                <menu tabindex="-1" role="menu" aria-label="sendagain_overflowMenu" aria-hidden="true" data-ppui="true" class="css-8cx2tb-list-elevation_level1" style="top: 449px; left: 968.984px;">
+                                                                    <li role="presentation" data-ppui="true"><a href="/myaccount/transfer/homepage/contact-list?from=SUM-QuickSend-Menu" data-name="sendagain_overflowMenu" data-value="overflowManageContacts" role="menuitem" tabindex="-1" data-cwt-fpti-base="{&quot;link&quot;:&quot;CONTACTS|overflowManageContacts&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|overflowManageContacts&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|overflowManageContacts&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_contacts_overflow_pressed&quot;}" data-test-id="overflowManageContacts" data-ppui="true" class="css-5mexf4-list_item-text_body" pa-marked="1">Kelola kontak</a></li>
+                                                                    <li role="presentation" data-ppui="true"><a href="/myaccount/transfer/homepage/send?from=SUM-QuickSend-Menu" data-name="sendagain_overflowMenu" data-value="overflowSendElse" role="menuitem" tabindex="-1" data-cwt-fpti-base="{&quot;link&quot;:&quot;CONTACTS|overflowSendElse&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|overflowSendElse&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|overflowSendElse&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_contacts_overflow_pressed&quot;}" data-test-id="overflowSendElse" data-ppui="true" class="css-5mexf4-list_item-text_body" pa-marked="1">Kirim ke orang lain</a></li>
+                                                                </menu>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </h3>
+                                            </header>
+                                            <div class="OA68ZSSKYCjT_iBUK7fs css-1soddj9-content" data-id="card-content" data-ppui="true">
+                                                <div class="KI3ZAKO593GKFP_I4zcz">
+                                                    <div class="L04s_5dreRHaxuYgkvTR css-tnax4s-horizontal_scroll_base" data-ppui-info="horizontal-scroll_2.4.11__7.46.3" data-ppui="true">
+                                                        <div data-ppui="true" class="css-36pk32-page_container">
+                                                            <div style="left:0" data-ppui="true" class="css-1baea8v-page">
+                                                                <ul data-ppui="true" class="css-1g2endo-item_list-item_list_desktop">
+                                                                    <li aria-label="1-5" data-item-id="PID-AVMR-XEXD-JJLE-DBWG" class="css-15y1kcc-item-desktop" data-ppui="true">
+                                                                        <div class="rCwMNA5A5hWcUHardVVP">
+                                                                            <a data-cwt-fpti-base="{&quot;link&quot;:&quot;CONTACTS|cw_tile__contacts-contactBubble&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|cw_tile__contacts-contactBubble&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|cw_tile__contacts-contactBubble&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;home_contacts_bubble_pressed&quot;}" href="/myaccount/transfer/homepage/external/summary?flowContextData=DeURjmbSzCJgldMwbLbCmIqLb0MR629vqNnvyegUDyMrPacdZDkkKK31g-rEMeSruuQk0jKWjM4uSfMhSL0m82fV-161mmCrjtXAxhaeWK1aHM34qPCiAswKVozCk98R9samjXl6PSdPVBoI_n-bRkT7KhW1GaseP80jgmvOleQz2ddnzeVY8lZpeL7IxKnLr_owF5JxRXkwwk2zT5UDbTfjURtJkppZStuGPqwfcW8ODaW2ruwAEIXph1D0fL-3fh-719p6YVDvrtTSJOezwtqXqWx0z99hQnQE5snyzN8hv2X7dpe4S0LD5Unmm-rV66kdwVR0U-ElU9NpVQG6FRXruARrKJNp0lQHrxME7xZ_yTG8_d1i7J-QmsfomaFLccEylERS4Khumf8re5-Ht9bxml7pjftmLQREm0" class="rQuQIelGO2DSPehR4zHe i7gLFcKamG0UYGLezzo1" data-test-id="contact_bubble" pa-marked="1">
+                                                                                <div class="_gCJJUufWcmCzeByaK3w css-1slcmep-avatar_base-size_lg-text_heading_lg-size_md-text_heading_sm-merchant" data-ppui-info="avatar_4.5.10__7.46.3" aria-hidden="false" data-test-id="bubble-icon"><img src="https://pics.paypal.com/00/s/MjAwWDIwMFhQTkc/p/MzliNWI4NzctZGE3NC00NWExLWE0NTgtODY4OTBhZjA4OGRk/image_22.jpg" alt="" loading="lazy" data-ppui="true" class="css-1yh5wve-image"></div>
+                                                                                <div class="eoh2oyCx9hGyJ32w2WWE css-7f4ytl-avatar_base-size_lg-text_heading_lg-size_sm-text_body-merchant" data-ppui-info="avatar_4.5.10__7.46.3" aria-hidden="false"><img src="https://pics.paypal.com/00/s/MjAwWDIwMFhQTkc/p/MzliNWI4NzctZGE3NC00NWExLWE0NTgtODY4OTBhZjA4OGRk/image_22.jpg" alt="" loading="lazy" data-ppui="true" class="css-1yh5wve-image"></div>
+                                                                                <div class="AlxLIDjvnObEXBxO6lOG css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="contact-title-0">Tazha</div>
+                                                                                <div class="AlxLIDjvnObEXBxO6lOG css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="contact-title-1">Asizah</div>
+                                                                            </a>
+                                                                        </div>
+                                                                    </li>
+                                                                    <li aria-label="2-5" data-item-id="PID-H99M-WXM6-Q9QK-DXQZ" class="css-15y1kcc-item-desktop" data-ppui="true">
+                                                                        <div class="rCwMNA5A5hWcUHardVVP">
+                                                                            <a data-cwt-fpti-base="{&quot;link&quot;:&quot;CONTACTS|cw_tile__contacts-contactBubble&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|cw_tile__contacts-contactBubble&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|cw_tile__contacts-contactBubble&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;home_contacts_bubble_pressed&quot;}" href="/myaccount/transfer/homepage/external/summary?flowContextData=8xc8Gv3lY3UbMAGcWm2_1BMZzPH9MK2yAP8o73yAM2mDAVEod9F1AaU5_uail0UTdbukPRnl2WZtAP5gBez9vxJ-hqvRlnqH9ciS7RR4pxxNYFhuEDpiR45WIwNhjBLv7j6coO-vX3z_28Oa9PPw43_jy_RtZTLXfEpbQ7mF_7lDom6PgFc-ICOwfcRS6Rpc3yZ8GD4-GrWmeonLlow9UJC-cjGFL_NeXlbUOzkxxSUmReAmK8EcAfNuH4dynWtQbnnOVnPcgW8az9eoH-L4TwcanrTyd2VMTiIBhqDdKWg_IjG-HutEmhReAu4nx36NQUBil2pD9Bgzi4q2AgpHeNJ8KjmQx8_PK0rochoPjsWwpLHGP6vQOkt9F41eLOfqNV_LVcaNnErH9sBS8eVswPNj8pr7EAe4d6GC4NXdPgwnorP3tC4o-jRZXVvTCFXUG0ayyYAkFDEVEg9S" class="rQuQIelGO2DSPehR4zHe i7gLFcKamG0UYGLezzo1" data-test-id="contact_bubble" pa-marked="1">
+                                                                                <div class="_gCJJUufWcmCzeByaK3w css-1slcmep-avatar_base-size_lg-text_heading_lg-size_md-text_heading_sm-merchant" data-ppui-info="avatar_4.5.10__7.46.3" aria-hidden="false" data-test-id="bubble-icon"><img src="https://pics.paypal.com/00/s/MTA2OFgxMDgwWEpQRw/p/NzliNDM0MTAtODk3ZC00OWRiLThmNmItNmY4YWIwNTdiMjVj/image_22.jpg" alt="" loading="lazy" data-ppui="true" class="css-1yh5wve-image"></div>
+                                                                                <div class="eoh2oyCx9hGyJ32w2WWE css-7f4ytl-avatar_base-size_lg-text_heading_lg-size_sm-text_body-merchant" data-ppui-info="avatar_4.5.10__7.46.3" aria-hidden="false"><img src="https://pics.paypal.com/00/s/MTA2OFgxMDgwWEpQRw/p/NzliNDM0MTAtODk3ZC00OWRiLThmNmItNmY4YWIwNTdiMjVj/image_22.jpg" alt="" loading="lazy" data-ppui="true" class="css-1yh5wve-image"></div>
+                                                                                <div class="AlxLIDjvnObEXBxO6lOG css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="contact-title-0">M. HASBI</div>
+                                                                                <div class="AlxLIDjvnObEXBxO6lOG css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="contact-title-1">MUCHTAR AH</div>
+                                                                            </a>
+                                                                        </div>
+                                                                    </li>
+                                                                    <li aria-label="3-5" data-item-id="PID-NQ43-9H6R-733U-BJG2" class="css-15y1kcc-item-desktop" data-ppui="true">
+                                                                        <div class="rCwMNA5A5hWcUHardVVP">
+                                                                            <a data-cwt-fpti-base="{&quot;link&quot;:&quot;CONTACTS|cw_tile__contacts-contactBubble&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|cw_tile__contacts-contactBubble&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|cw_tile__contacts-contactBubble&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;home_contacts_bubble_pressed&quot;}" href="/myaccount/transfer/homepage/external/summary?flowContextData=LxCSzBeMwTrUBCHXWdDnzHrGE0Y9gMsT6qqOpwv3jwj-xX9PSZ1_ARuh5Zyj9_4kx3m54_s894gYpe5d6LtJ9Pj1V8y0fXKj3nzjBsaveCDNvYEXgDz-3_oamGbWuaKV-0jTnW9kdmW_QBg6cX3BNPVKHF4qc7WEEoHFBFOHtoNJtz65paxZvYpNz7DuwbPbGvDhZhngHa2A2G8bJQqwcsQTQ7dUgQZNIYKdj0u5sKNYTsFB4JR-BBokLlbqSrm1Z7kOxYO6qzVKUFUkKE_jUUswudw1rOt9vUmowvJpxny15I5dTwa-SrBAfN2Oe6hn2f5kM77vJeuE8A9hye8IwVrgPrvWgGE7sb5s2W" class="rQuQIelGO2DSPehR4zHe i7gLFcKamG0UYGLezzo1" data-test-id="contact_bubble" pa-marked="1">
+                                                                                <div class="_gCJJUufWcmCzeByaK3w css-1slcmep-avatar_base-size_lg-text_heading_lg-size_md-text_heading_sm-merchant" data-ppui-info="avatar_4.5.10__7.46.3" aria-hidden="false" data-test-id="bubble-icon"><img src="https://pics.paypal.com/00/s/NDU1YzZlZTYtNWI2OC00ZWMxLWI4ODQtMzA4MGZhY2IxZTU2/file_22.PNG" alt="" loading="lazy" data-ppui="true" class="css-1yh5wve-image"></div>
+                                                                                <div class="eoh2oyCx9hGyJ32w2WWE css-7f4ytl-avatar_base-size_lg-text_heading_lg-size_sm-text_body-merchant" data-ppui-info="avatar_4.5.10__7.46.3" aria-hidden="false"><img src="https://pics.paypal.com/00/s/NDU1YzZlZTYtNWI2OC00ZWMxLWI4ODQtMzA4MGZhY2IxZTU2/file_22.PNG" alt="" loading="lazy" data-ppui="true" class="css-1yh5wve-image"></div>
+                                                                                <div class="L22SJobhq3_QJ65nPZ2m css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="contact__avatar-text">CONTABO GmbH</div>
+                                                                            </a>
+                                                                        </div>
+                                                                    </li>
+                                                                    <li aria-label="4-5" data-item-id="PID-JLN5-Y3X5-FSTS-U3WU" class="css-15y1kcc-item-desktop" data-ppui="true">
+                                                                        <div class="rCwMNA5A5hWcUHardVVP">
+                                                                            <a data-cwt-fpti-base="{&quot;link&quot;:&quot;CONTACTS|cw_tile__contacts-contactBubble&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|cw_tile__contacts-contactBubble&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|cw_tile__contacts-contactBubble&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;home_contacts_bubble_pressed&quot;}" href="/myaccount/transfer/homepage/external/summary?flowContextData=xilXhkOyIO-Y84x94EqBq7XgPuraQuUJe2swlbnm7WfBD7zIlSeCvGC2MccEkhiDdLrotBPUOf4xZ-TCC3icoRjIEvYnIGm4ZSV9EphQurRiHaGKI6BQnwS6EgR8WMuvx5DUA5lm84j6-a4kaaZwyLTlrP49nggeaHVPlg2UGQD691JSlBuhRhR5Ejej8xv-cE3oX5xIv23zDAIG9YL9ce002is5UwVskANg44x2rvyrzzQNkwMvfKN0DHFVoOsnecPFKfFmnYjaWlkwa7p3IjcWf9NGNrABZ0TFFj6jQNW5937RwcQOjzZ06AVSx6GCUQW7eROSihuMcOmR961U23a_kKYsj5UrDW3HSuOfE5V1XlZi5UIX56L4woswit8zwsQMZvsoL_wJYG9KPWmPzJZYFIr1550kpcA2lGygrAPgp5Y6" class="rQuQIelGO2DSPehR4zHe i7gLFcKamG0UYGLezzo1" data-test-id="contact_bubble" pa-marked="1">
+                                                                                <div class="_gCJJUufWcmCzeByaK3w css-1slcmep-avatar_base-size_lg-text_heading_lg-size_md-text_heading_sm-merchant" data-ppui-info="avatar_4.5.10__7.46.3" aria-hidden="false" data-test-id="bubble-icon"><img src="https://pics.paypal.com/00/s/NTEyWDUxMlhKUEc/p/YWY3NTBmNGYtYzM5Ni00MDNiLTlkMDYtMzc0ZWRhM2UwMTJk/image_22.jpg" alt="" loading="lazy" data-ppui="true" class="css-1yh5wve-image"></div>
+                                                                                <div class="eoh2oyCx9hGyJ32w2WWE css-7f4ytl-avatar_base-size_lg-text_heading_lg-size_sm-text_body-merchant" data-ppui-info="avatar_4.5.10__7.46.3" aria-hidden="false"><img src="https://pics.paypal.com/00/s/NTEyWDUxMlhKUEc/p/YWY3NTBmNGYtYzM5Ni00MDNiLTlkMDYtMzc0ZWRhM2UwMTJk/image_22.jpg" alt="" loading="lazy" data-ppui="true" class="css-1yh5wve-image"></div>
+                                                                                <div class="AlxLIDjvnObEXBxO6lOG css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="contact-title-0">Dezan</div>
+                                                                                <div class="AlxLIDjvnObEXBxO6lOG css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="contact-title-1">Hardiansah</div>
+                                                                            </a>
+                                                                        </div>
+                                                                    </li>
+                                                                    <li aria-label="5-5" data-item-id="PID-6RQB-3JG6-S73W-36Q6" class="css-15y1kcc-item-desktop" data-ppui="true">
+                                                                        <div class="rCwMNA5A5hWcUHardVVP">
+                                                                            <a data-cwt-fpti-base="{&quot;link&quot;:&quot;CONTACTS|cw_tile__contacts-contactBubble&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|cw_tile__contacts-contactBubble&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|cw_tile__contacts-contactBubble&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;home_contacts_bubble_pressed&quot;}" href="/myaccount/transfer/homepage/external/summary?flowContextData=BuVv4RJaD-wWmMrg_p2d1PuEUXj_f7O9XTsp5xE7UBiLGmL_KR5UL57bSHETswr_8oRi-IBmPUrsjfDZATdQpoeV15fNvcmLhWgAx7SCdW3vfa9RoJN2ynFIZGAUqm-_TYraLFZnogsB1R_BX1ab3NyJwvBj-8LjnIDlFrTht6qKp9KH4u4hLRYnzm3-kwl75-RQ7GfPL76U5pAxgyVEjTLzg3q" class="rQuQIelGO2DSPehR4zHe i7gLFcKamG0UYGLezzo1" data-test-id="contact_bubble" pa-marked="1">
+                                                                                <div class="_gCJJUufWcmCzeByaK3w css-1jhxr96-avatar_base-size_lg-text_heading_lg-size_md-text_heading_sm-sysColorAccent1Main" data-ppui-info="avatar_4.5.10__7.46.3" aria-hidden="true" data-test-id="bubble-icon">AA</div>
+                                                                                <div class="eoh2oyCx9hGyJ32w2WWE css-1uwzr1e-avatar_base-size_lg-text_heading_lg-size_sm-text_body-sysColorAccent1Main" data-ppui-info="avatar_4.5.10__7.46.3" aria-hidden="true">AA</div>
+                                                                                <div class="AlxLIDjvnObEXBxO6lOG css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="contact-title-0">Adam</div>
+                                                                                <div class="AlxLIDjvnObEXBxO6lOG css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="contact-title-1">Azis</div>
+                                                                            </a>
+                                                                        </div>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="widgetContainer__bankcard" class="TuJ3jOBFs2ZcXUjGuExY" data-test-id="widget-container-bankcard">
+                                    <script type="application/json" id="reactContainer__bankcard_props">{"headerLabel":"Bank dan kartu","menuOptions":[{"label":"Buka bank & kartu","href":"\u002Fmyaccount\u002Fmoney\u002F","value":"overflowWallet","data-cwt-fpti-base":"{\"link\":\"BANK_CARDS|overflowWallet\",\"pglk\":\"main:walletweb:summary::main|overflowWallet\",\"pgln\":\"main:walletweb:summary:main|overflowWallet\"}","data-cwt-fpti-cl":"{\"event_name\":\"dw_webhome_bankcard_overflow_menu_option_overflowWallet_pressed\"}","data-test-id":"overflowWallet"},{"label":"Dapatkan Bantuan","href":"\u002Fcshelp\u002Fsearch?q=Banks%20and%20cards&helpSearchButton=Search","value":"overflowWalletHelp","data-cwt-fpti-base":"{\"link\":\"BANK_CARDS|overflowWalletHelp\",\"pglk\":\"main:walletweb:summary::main|overflowWalletHelp\",\"pgln\":\"main:walletweb:summary:main|overflowWalletHelp\"}","data-cwt-fpti-cl":"{\"event_name\":\"dw_webhome_bankcard_overflow_menu_option_overflowWalletHelp_pressed\"}","data-test-id":"overflowWalletHelp"}],"banksList":[{"id":"BA-WMS824HKGG3TG","userBankUrl":"\u002Fmyaccount\u002Fmoney\u002Fbanks\u002FBA-WMS824HKGG3TG","iconClassName":"pt_bank_jago_tbk","bankName":"PT. BANK JAGO TBK","bankAccountType":"Giro","lastDigits":"44","fiBadges":[]}],"cardsList":[{"id":"CC-K6Y5U3CKVRK9E","userCardUrl":"\u002Fmyaccount\u002Fmoney\u002Fcards\u002FCC-K6Y5U3CKVRK9E","cardName":"Adi Visa","brandImagePath":"","cardType":"Debit","lastDigits":"61","fiBadges":[],"brandLogoAlt":"Logo Merek Kartu","cardArtData":{"cardBrandName":"visa","baseCdnLinkPath":"https:\u002F\u002Fpics.paypal.com\u002F\u002F00\u002Fs\u002FOTY5WDE1MzZYUE5H\u002Fp\u002FODI3NzMyNTYtODZmOS00NjhhLWJmNTctMDk1ZWUzM2Q5Mzll\u002Fimage_","cardArtDetails":{"primaryContent":{"baseCdnLinkPath":"https:\u002F\u002Fpics.paypal.com\u002F\u002F00\u002Fs\u002FOTY5WDE1MzZYUE5H\u002Fp\u002FODI3NzMyNTYtODZmOS00NjhhLWJmNTctMDk1ZWUzM2Q5Mzll\u002Fimage_","originalMimeType":"image\u002Fpng","originalWidth":1539,"originalHeight":969},"thumbnailContent":{"baseCdnLinkPath":"https:\u002F\u002Fpics.paypal.com\u002F00\u002Fp\u002FNTM4NTAyMzYtNzBmYS00OGYxLWEyYTEtYjY4NTU3YTg4ODQ0\u002Fimage_","originalMimeType":"image\u002Fpng","originalWidth":1539,"originalHeight":969},"stackViewContent":{"baseCdnLinkPath":"https:\u002F\u002Fpics.paypal.com\u002F00\u002Fp\u002FZTM2NWU3ZmUtMzQ3NC00NTMyLWIxMTgtNjNiYjFlZTAwOTUy\u002Fimage_","originalMimeType":"image\u002Fpng","originalWidth":1539,"originalHeight":969},"metadata":{"foregroundColor":"#ffffff"}}}}],"errorMsg":"Informasi Anda saat ini tidak tersedia. Kami sedang berupaya untuk segera mengatasi masalah ini.","zeroStateMsg":"Berbelanja dan kirim pembayaran kepada teman dengan aman. Hubungkan rekening bank, kartu debit, atau kartu kredit Anda sekarang.","linkFIActionMsg":"Hubungkan Kartu atau Bank"}</script>
+                                    <div id="reactContainer__bankcard" data-hydrated="true">
+                                        <div class="cw-card nHCsNUW8CsRCoXq3OqsD Ipj9oLFjwLr6GWekQv8x css-97ji8w-card_base" data-ppui-info="card_2.4.8__7.46.3" data-cwt-fpti-base="{&quot;page&quot;:&quot;main:walletweb:summary:main:BANK_CARDS&quot;,&quot;domain_type&quot;:&quot;BANK_CARDS&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_webhome_bankcard_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_webhome_bankcard_loaded&quot;}" data-test-id="bankcard_tile" data-id="card">
+                                            <header class="U8JLsMPmiMZHQccF1cBf css-1ao4o69-header" data-ppui="true">
+                                                <h3 class="U8JLsMPmiMZHQccF1cBf css-qczjjc-title-text_heading_sm" data-ppui="true">
+                                                    <div class="WDrgDZ6pVAv4AujfHp9_" data-test-id="card-header-layout">
+                                                        <div class="wg4LklXsDVDnH3gXmna1" data-test-id="header_content"><a class="css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong" data-ppui-info="links_4.8.0__7.46.3" href="/myaccount/money/" data-cwt-fpti-base="{&quot;link&quot;:&quot;BANK_CARDS|bankcardHeader&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|bankcardHeader&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|bankcardHeader&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_bankcard_header_pressed&quot;}" pa-marked="1">Bank dan kartu</a></div>
+                                                        <div class="wv0a8iydcOn5gN_NfSNN">
+                                                            <div class="css-kddmuw-overflow_menu_base" data-ppui-info="overflow-menu_3.6.10__7.46.3" data-cwt-fpti-base="{&quot;link&quot;:&quot;BANK_CARDS|overflowMenu&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|overflowMenu&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|overflowMenu&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_bankcard_overflow_pressed&quot;}" data-test-id="overflow_menu">
+                                                                <button data-ppui-info="icon-button_3.6.10__7.46.3" class="css-1rie9kd-icon-button_base-tertiary" type="button" name="bankcard" aria-haspopup="true" aria-expanded="false" data-ppui="true" pa-marked="1">
+                                                                    <span class="css-1am46ks-svg-size_sm-icon" data-ppui-info="icons_8.24.1__7.46.3" aria-hidden="true" data-ppui="true">
+                                                                        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" width="1em" height="1em" data-ppui="true">
+                                                                            <path d="M14 12a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm0-7a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm0 14a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" data-ppui="true"></path>
+                                                                        </svg>
+                                                                    </span>
+                                                                    <span data-ppui="true" class="css-geb0bj-screenReader">bankcard</span>
+                                                                </button>
+                                                                <menu tabindex="-1" role="menu" aria-label="bankcard" aria-hidden="true" data-ppui="true" class="css-8cx2tb-list-elevation_level1" style="top: 690px; left: 968.984px;">
+                                                                    <li role="presentation" data-ppui="true"><a href="/myaccount/money/" data-name="bankcard" data-value="overflowWallet" role="menuitem" tabindex="-1" data-cwt-fpti-base="{&quot;link&quot;:&quot;BANK_CARDS|overflowWallet&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|overflowWallet&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|overflowWallet&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_bankcard_overflow_menu_option_overflowWallet_pressed&quot;}" data-test-id="overflowWallet" data-ppui="true" class="css-5mexf4-list_item-text_body" pa-marked="1">Buka bank &amp; kartu</a></li>
+                                                                    <li role="presentation" data-ppui="true"><a href="/cshelp/search?q=Banks%20and%20cards&amp;helpSearchButton=Search" data-name="bankcard" data-value="overflowWalletHelp" role="menuitem" tabindex="-1" data-cwt-fpti-base="{&quot;link&quot;:&quot;BANK_CARDS|overflowWalletHelp&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|overflowWalletHelp&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|overflowWalletHelp&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_bankcard_overflow_menu_option_overflowWalletHelp_pressed&quot;}" data-test-id="overflowWalletHelp" data-ppui="true" class="css-5mexf4-list_item-text_body" pa-marked="1">Dapatkan Bantuan</a></li>
+                                                                </menu>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </h3>
+                                            </header>
+                                            <div class="OA68ZSSKYCjT_iBUK7fs css-1soddj9-content" data-id="card-content" data-ppui="true">
+                                                <div class="YAIqc3Wlp48EyMpt5zP0">
+                                                    <a class="t5lPhZKaMVfsuloDk4tj pqSRk64caJO4P6T0ZZ7n fxnTcQT2mMexWplMYkZ0 css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong" data-ppui-info="links_4.8.0__7.46.3" href="/myaccount/money/banks/BA-WMS824HKGG3TG" data-cwt-fpti-base="{&quot;link&quot;:&quot;BANK_CARDS|bankRowItem&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|bankRowItem&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|bankRowItem&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_bankcard_bank_item_pressed&quot;}" data-test-id="bnk-itm" pa-marked="1">
+                                                        <span class="yaY0aEZVfg90ZvcvJLp0"><span class="nEwMslh0hHHEA67le3_G NAhGC9v6AQ6D4hPcYSBL" data-test-id="bnk-itm-icn"></span></span>
+                                                        <div class="__cdEsQcyp1yEAf79R90">
+                                                            <div class="PPbXvIX_2IBEZT3ONOgs css-16jt5za-text_body" data-ppui-info="body-text_6.7.7__7.46.3" data-test-id="bnk-itm-nom">PT. BANK JAGO TBK</div>
+                                                            <div class="OSrfujNKjaxBK5d5EVLw css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="bnk-itm-dgts">
+                                                                Giro<!-- --> ••••<!-- -->44
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                    <a class="t5lPhZKaMVfsuloDk4tj pqSRk64caJO4P6T0ZZ7n fxnTcQT2mMexWplMYkZ0 css-1chx7ec-links_base-text_body_strong-secondary-text_body_strong" data-ppui-info="links_4.8.0__7.46.3" href="/myaccount/money/cards/CC-K6Y5U3CKVRK9E" data-cwt-fpti-base="{&quot;link&quot;:&quot;BANK_CARDS|cardRowItem&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|cardRowItem&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|cardRowItem&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_bankcard_card_item_pressed&quot;}" data-test-id="crd-itm" pa-marked="1">
+                                                        <span class="yaY0aEZVfg90ZvcvJLp0"><span data-test="cart_art" class="nEwMslh0hHHEA67le3_G" style="background-image:url(https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/ODI3NzMyNTYtODZmOS00NjhhLWJmNTctMDk1ZWUzM2Q5Mzll/image__7.png);background-size:cover"></span></span>
+                                                        <div class="__cdEsQcyp1yEAf79R90">
+                                                            <div class="PPbXvIX_2IBEZT3ONOgs css-16jt5za-text_body" data-ppui-info="body-text_6.7.7__7.46.3" data-test-id="crd-nom">Adi Visa</div>
+                                                            <div class="OSrfujNKjaxBK5d5EVLw css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="crd-dgt">
+                                                                Debit<!-- --> ••••<!-- -->61
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <footer class="css-1ygyq7k-footer" data-ppui="true">
+                                                <div class="css-1yo2lxy-text_body_strong" data-ppui-info="body-text_6.7.7__7.46.3"><a class="css-1caaugt-links_base-text_body_strong" data-ppui-info="links_4.8.0__7.46.3" href="/myaccount/money/accounts/new?referrer=summary&amp;fptiSource=add_fi_link" data-test-id="LinkBankOrCard" data-cwt-fpti-base="{&quot;link&quot;:&quot;BANK_CARDS|LinkBankOrCard&quot;,&quot;pglk&quot;:&quot;main:walletweb:summary::main|LinkBankOrCard&quot;,&quot;pgln&quot;:&quot;main:walletweb:summary:main|LinkBankOrCard&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_webhome_bankcard_footer_pressed&quot;}" id="bankCardLinkBankOrCard" pa-marked="1">Hubungkan Kartu atau Bank</a></div>
+                                            </footer>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div data-test-id="interleaved-widgets" style="display:none">
+                        <div>
+                            <script>document.querySelector('#A [data-test-id="column_content"]').appendChild(document.getElementById('widgetContainer__balance'));</script>
+                        </div>
+                        <div>
+                            <script>document.querySelector('#B [data-test-id="column_content"]').appendChild(document.getElementById('widgetContainer__contacts'));</script>
+                        </div>
+                        <div>
+                            <script>document.querySelector('#A [data-test-id="column_content"]').appendChild(document.getElementById('widgetContainer__activity'));</script>
+                        </div>
+                        <div>
+                            <script>document.querySelector('#B [data-test-id="column_content"]').appendChild(document.getElementById('widgetContainer__bankcard'));</script>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div>
+                <div>
+                    <div class="cw-footer css-1re6efx-elevation_level1" data-test-id="cw-footer">
+                        <div class="cw-footer__contents css-1djyuxb-container_fluid" data-ppui-info="grid_3.3.6__7.46.3">
+                            <div class="css-s8u2ug-row" data-ppui-info="grid_3.3.6__7.46.3">
+                                <div class="css-e1de2j-col_sm_12" data-ppui="true">
+                                    <div class="cw-footer__primary" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;page&quot;:&quot;main:walletweb:navigation::main&quot;,&quot;pgrp&quot;:&quot;main:walletweb:navigation::main&quot;,&quot;cust&quot;:&quot;FDRA9TH2R2Z8J&quot;}">
+                                        <div class="cw-footer__logo"></div>
+                                        <ul class="cw-footer__primary__links">
+                                            <li>
+                                                <div class="css-16jt5za-text_body" data-ppui-info="body-text_6.7.7__7.46.3"><a href="/cshelp/personal" class="js_help" data-name="help" data-test-id="footer-primary-item" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;item_name&quot;:&quot;dw_nav&quot;,&quot;link_name&quot;:&quot; help&quot;,&quot;default_tab&quot;:&quot;dashboard&quot;,&quot;product&quot;:&quot;dw_nav&quot;,&quot;module&quot;:&quot;footer&quot;,&quot;card_type&quot;:&quot;nav_footer_help&quot;,&quot;tile_id&quot;:&quot;nav_footer_help&quot;,&quot;scope&quot;:&quot;tile&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_nav_footer_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_nav_footer_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_nav_footer_loaded&quot;}" data-cwt-ps-pr="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZwlkUHhRYlVYX3UBVBoFRlRGHEVUWF9gcVlyYl9yT39.Vn8tHlQ9NQILHXwcGDEpAQ&amp;cks=NTM5MDE4OGQxNjcyY2ExMDkwOWVlNzg2NWE3MWM5MzU&amp;e=1.0" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZwlkUHhRYlVYX3UBVBoFRlRGHEVUWF9gcVlyYl9yT39.Vn8tHlQuKw4bEw&amp;cks=YTU1YmZkYjQwN2EyMDQwYjI5NDk2MjIwNWRlOTEyZmM&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZwlkUHhRYlVYX3UBVBoFRlRGHEVUWF9gcVlyYl9yT39.Vn8tHlQuKw4dFmYXHDk3B30COwIpHw&amp;cks=NzEwMDA4YmQ1ZTg5OTkzYTc0OTIyZTE3YWZiMjMzZWI&amp;e=1.0" pa-marked="1">Bantuan</a></div>
+                                            </li>
+                                            <li>
+                                                <div class="css-16jt5za-text_body" data-ppui-info="body-text_6.7.7__7.46.3"><a href="/smarthelp/contact-us" class="js_contact" data-name="contact" data-test-id="footer-primary-item" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;item_name&quot;:&quot;dw_nav&quot;,&quot;product&quot;:&quot;dw_nav&quot;,&quot;module&quot;:&quot;footer&quot;,&quot;link_name&quot;:&quot;contact&quot;,&quot;default_tab&quot;:&quot;Dashboard&quot;,&quot;card_type&quot;:&quot;nav_footer_contact&quot;,&quot;tile_id&quot;:&quot;nav_footer_contact&quot;,&quot;scope&quot;:&quot;tile&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_nav_footer_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_nav_footer_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_nav_footer_loaded&quot;}" data-cwt-ps-pr="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA1iX3tTY1ZcX3QGWxoFRlRGHEVUW1tmflpwY1x2T354WX8tHlQ9NQILHXwcGDEpAQ&amp;cks=ZjdmYWMxNjJhMDU3OWQ4MmNmZmJkODI0MThhYzRmMTM&amp;e=1.0" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA1iX3tTY1ZcX3QGWxoFRlRGHEVUW1tmflpwY1x2T354WX8tHlQuKw4bEw&amp;cks=ZGQ3NTIyMjVhNTRjOWM2M2Q5OWMyYTg3ZTc1N2U0OWQ&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA1iX3tTY1ZcX3QGWxoFRlRGHEVUW1tmflpwY1x2T354WX8tHlQuKw4dFmYXHDk3B30COwIpHw&amp;cks=NDBlODM5YzUzMWMxMTBlNDYzMmJjYWRjZGY2YmFiYmU&amp;e=1.0" pa-marked="1">Hubungi Kami</a></div>
+                                            </li>
+                                            <li>
+                                                <div class="css-16jt5za-text_body" data-ppui-info="body-text_6.7.7__7.46.3"><a href="/webapps/mpp/paypal-safety-and-security" class="js_security" data-name="security" data-test-id="footer-primary-item" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;item_name&quot;:&quot;dw_nav&quot;,&quot;link_name&quot;:&quot;security&quot;,&quot;default_tab&quot;:&quot;Dashboard&quot;,&quot;product&quot;:&quot;dw_nav&quot;,&quot;module&quot;:&quot;footer&quot;,&quot;card_type&quot;:&quot;nav_footer_security&quot;,&quot;tile_id&quot;:&quot;nav_footer_security&quot;,&quot;scope&quot;:&quot;tile&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_nav_footer_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_nav_footer_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_nav_footer_loaded&quot;}" data-cwt-ps-pr="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZwpgUH1TZ11QUHsEXBoFRlRGHEVUWFxkcVxwZ1d6QHF6Xn8tHlQ9NQILHXwcGDEpAQ&amp;cks=NDRiYmQ5MDU0ZGJlYmQ3YzAwMjkxNTk3MjQ4ZDUzMDE&amp;e=1.0" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZwpgUH1TZ11QUHsEXBoFRlRGHEVUWFxkcVxwZ1d6QHF6Xn8tHlQuKw4bEw&amp;cks=ZjAwMThmYTg2YWRhZTkyNGNmMjkwN2JhNDk3NzM2MDg&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZwpgUH1TZ11QUHsEXBoFRlRGHEVUWFxkcVxwZ1d6QHF6Xn8tHlQuKw4dFmYXHDk3B30COwIpHw&amp;cks=ZWQ2NmUzMzEwODYwYmQ0ZDczMmQ4YzQwNGU0M2U5OWU&amp;e=1.0" pa-marked="1">Keamanan</a></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="cw-footer__contents css-1djyuxb-container_fluid" data-ppui-info="grid_3.3.6__7.46.3">
+                            <div class="css-s8u2ug-row" data-ppui-info="grid_3.3.6__7.46.3">
+                                <div class="css-e1de2j-col_sm_12" data-ppui="true">
+                                    <div class="cw-footer__secondary" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;page&quot;:&quot;main:walletweb:navigation::main&quot;,&quot;pgrp&quot;:&quot;main:walletweb:navigation::main&quot;,&quot;cust&quot;:&quot;FDRA9TH2R2Z8J&quot;}">
+                                        <div class="cw-footer__legal css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="footer-copyright">©<span dir="ltr">1999-2025</span> PayPal, Inc. Hak cipta dilindungi oleh undang-undang.</div>
+                                        <ul class="cw-footer__secondary__links">
+                                            <li>
+                                                <div class="css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3"><a href="/privacy-center" class="js_privacy" data-name="privacy" data-test-id="footer-secondary-item" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;item_name&quot;:&quot;dw_nav&quot;,&quot;link_name&quot;:&quot;privacy&quot;,&quot;default_tab&quot;:&quot;Dashboard&quot;,&quot;product&quot;:&quot;dw_nav&quot;,&quot;module&quot;:&quot;footer&quot;,&quot;card_type&quot;:&quot;nav_footer_privacy&quot;,&quot;tile_id&quot;:&quot;nav_footer_privacy&quot;,&quot;scope&quot;:&quot;tile&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_nav_footer_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_nav_footer_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_nav_footer_loaded&quot;}" data-cwt-ps-pr="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA1oXH5fZ1RdVHcCWhoFRlRGHEVUW1tsfV98Z153RH18WH8tHlQ9NQILHXwcGDEpAQ&amp;cks=YTgzZDNkYjdiYWE4OWE2ZjhkZGQyN2MwOWRlMzI1YTQ&amp;e=1.0" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA1oXH5fZ1RdVHcCWhoFRlRGHEVUW1tsfV98Z153RH18WH8tHlQuKw4bEw&amp;cks=N2VjYmYwMjc4ZTk5ZTAyMjM1ZjdmMTlkNjRhZTM5YTk&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZA1oXH5fZ1RdVHcCWhoFRlRGHEVUW1tsfV98Z153RH18WH8tHlQuKw4dFmYXHDk3B30COwIpHw&amp;cks=YTllYWNlZTYyYjJhZjhhYjIyOTc1NzdhNTBhZmRmNmI&amp;e=1.0" pa-marked="1">Privasi</a></div>
+                                            </li>
+                                            <li>
+                                                <div class="css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3"><a href="/myaccount/privacy/cookiePrefs" class="js_cookies" data-name="cookies" data-test-id="footer-secondary-item" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;item_name&quot;:&quot;dw_nav&quot;,&quot;link_name&quot;:&quot;cookies&quot;,&quot;default_tab&quot;:&quot;Dashboard&quot;,&quot;product&quot;:&quot;dw_nav&quot;,&quot;module&quot;:&quot;footer&quot;,&quot;card_type&quot;:&quot;nav_footer_privacy&quot;,&quot;tile_id&quot;:&quot;nav_footer_privacy&quot;,&quot;scope&quot;:&quot;tile&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_nav_footer_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_nav_footer_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_nav_footer_loaded&quot;}" data-cwt-ps-pr="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbwB5bUZTZA1iXH1fZVVYVHQFWxoFR19BFUdZW1tmfVx8ZV9yRH57WX8tHlQ9NQILHXwcGDEpAQ&amp;cks=YjI4ZDIwYjI0M2VkMDA5MTg2YWI0NjEyMzEzY2ZkNjM&amp;e=1.0" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbwB5bUZTZA1iXH1fZVVYVHQFWxoFR19BFUdZW1tmfVx8ZV9yRH57WX8tHlQuKw4bEw&amp;cks=NjdmMTRkYzllM2RjNGFhM2RhMzYyMTAzMWZlOTBhNWI&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbwB5bUZTZA1iXH1fZVVYVHQFWxoFR19BFUdZW1tmfVx8ZV9yRH57WX8tHlQuKw4dFmYXHDk3B30COwIpHw&amp;cks=ODA3NDA5MDBmM2YyNDkxYjhmYzI2Nzk5NDNkYTM2ZGQ&amp;e=1.0" pa-marked="1">Kuki</a></div>
+                                            </li>
+                                            <li>
+                                                <div class="css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3"><a href="/webapps/mpp/ua/legalhub-full" class="js_legal" data-name="legal" data-test-id="footer-secondary-item" data-cwt-fpti-base="{&quot;comp&quot;:&quot;commonutilsnodeserv&quot;,&quot;space_key&quot;:&quot;SKHBDF&quot;,&quot;item_name&quot;:&quot;dw_nav&quot;,&quot;link_name&quot;:&quot;legal&quot;,&quot;default_tab&quot;:&quot;Dashboard&quot;,&quot;product&quot;:&quot;dw_nav&quot;,&quot;module&quot;:&quot;footer&quot;,&quot;card_type&quot;:&quot;nav_footer_legal&quot;,&quot;tile_id&quot;:&quot;nav_footer_legal&quot;,&quot;scope&quot;:&quot;tile&quot;}" data-cwt-fpti-cl="{&quot;event_name&quot;:&quot;dw_nav_footer_pressed&quot;}" data-cwt-fpti-im="{&quot;event_name&quot;:&quot;dw_nav_footer_shown&quot;}" data-cwt-fpti-av="{&quot;event_name&quot;:&quot;dw_nav_footer_loaded&quot;}" data-cwt-ps-pr="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZwplW3teYlBYVXYDVRoFRlRGHEVUWFxhelp9YlpyRXx9V38tHlQ9NQILHXwcGDEpAQ&amp;cks=ZWRlM2Y3ZTNlZTIxMjBmN2EyMTAwMjJlNGRkYzYxNTc&amp;e=1.0" data-cwt-ps-cl="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZwplW3teYlBYVXYDVRoFRlRGHEVUWFxhelp9YlpyRXx9V38tHlQuKw4bEw&amp;cks=MDM5OGMyM2ZiNTlmODAxYjY1ZDk0MmRmNTkxMTIxNjM&amp;e=1.0" data-cwt-ps-im="https://www.paypal.com/webapps/mch/cmd/?v=3.0&amp;t=1759291475&amp;cfdata=GllcUHcBXFQYFVRGGRRZD1dgcF4hMFZ7RSt7C2B-DF4JXjskbgt-ZEReZwplW3teYlBYVXYDVRoFRlRGHEVUWFxhelp9YlpyRXx9V38tHlQuKw4dFmYXHDk3B30COwIpHw&amp;cks=ZjEwMmYzZjU2NzMxZWVkMWI4MzA5ODUwMzAzZDVlZTA&amp;e=1.0" pa-marked="1">Kesepakatan Hukum</a></div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="cw-footer__disclaimers">
+                                        <div class="cw-footer__legal css-151vsl0-text_caption" data-ppui-info="caption-text_6.7.7__7.46.3" data-test-id="footer-disclaimer">PayPal Pte. Ltd. memiliki lisensi dari Monetary Authority of Singapore sebagai Lembaga Pembayaran Utama berdasarkan Payment Services Act 2019.</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div id="ccpaCookieBanner"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div data-test-id="cw-utils-session-timeout">
+            <script type="application/json" id="cw_sessiontimeout__props">{"content":{"timeoutHeader":"Semua telah selesai?","timeoutMessage":"Anda akan log out beberapa saat lagi.","extendSession":"Tetap Log In"},"config":{"sessionTimeout":900,"sessionTimeoutOverride":0}}</script>
+            <div id="cw_sessiontimeout"></div>
+        </div>
+        <script data-test-id="cw-utils-session-timeout-props">window.cwSessionTimeoutConfig = {
+            extendSession: { method: 'HEAD', url: '/myaccount/summary'}
+            };
+        </script>
+        <div>
+            <script defer="" src="https://www.paypalobjects.com/helpcenter/helpcenter-widget.min.js" data-test-id="script-helpcenter-widget" crossorigin="anonymous"></script><script defer="" src="https://www.paypalobjects.com/messaging/messaging-loader.js" data-test-id="script-messaging-loader" crossorigin="anonymous"></script><script defer="" src="https://www.paypalobjects.com/ui-web/consumer-home/header-footer/1.164.2/cw-utils-header-footer.js" crossorigin="anonymous"></script><script>window.cwContext = { rsta: 'id_ID', ccpg: 'ID', encryptedAccountNumber: 'FDRA9TH2R2Z8J', correlationId: 'f75527428eb60', xe: '102244,106489', xt: '108242,133082', ucpVersion: '31323', visualTracking: false, appVersion: '1.165.0' };</script>
+        </div>
+        <div data-test-id="cw-utils-session-timeout-js">
+            <script defer="" src="https://www.paypalobjects.com/ui-web/consumer-home/header-footer/1.164.2/cw-utils-session-timeout.js" crossorigin="anonymous"></script>
+        </div>
+        <script crossorigin="anonymous" src="https://www.paypalobjects.com/pa/js/min/pa.js" defer=""></script>
+        <script type="application/json" id="globalMeta">
+            {
+                "utm_campaign": "",
+                "source": "",
+                "appVersion": "3.208.0",
+                "correlationId": "f75527428eb60",
+                "isMobile": false,
+                "isRTL": false,
+                "isTablet": false,
+                "layout": "active",
+                "ucpVersion": "2/01/2024",
+                "vccTokenPeriod": "PT24H",
+                "inStoreTokenPeriodByCountry": "{ \"US\": \"PT24H\", \"DE\": \"PT48H\"}",
+                "encryptedAccountNumber": "FDRA9TH2R2Z8J",
+                "isBusinessUser": false,
+                "noBalance": false,
+                "primaryCurrencyCode": "USD",
+                "trackingEndpoint": "https://t.paypal.com/ts",
+                "widgets": [
+                    "account_setup",
+                    "balance",
+                    "activity",
+                    "actionzone",
+                    "contacts",
+                    "bankcard",
+                    "xoom_reload_prepaid_phone"
+                ],
+                "fptiBase": {
+                    "page": "main:walletweb:summary:main",
+                    "pgrp": "main:walletweb:summary::main",
+                    "type": "active",
+                    "acnt": "active",
+                    "vers": "customer",
+                    "pgtf": "Nodejs",
+                    "comp": "summarynodeweb",
+                    "space_key": "SKHBDF",
+                    "product": "dw_webhome",
+                    "event_name": "dw_webhome_default",
+                    "rsta": "id_ID",
+                    "ccpg": "ID",
+                    "cust": "FDRA9TH2R2Z8J",
+                    "lcid": "f75527428eb60",
+                    "xe": "",
+                    "xt": ""
+                }
+            }
+        </script>
+        <script data-test-id="global-script">
+            window.__GLOBAL__ = JSON.parse(document.getElementById('globalMeta').innerHTML);
+        </script>
+        <div class="cw-col-z-contents" data-test-id="column_content">
+            <div id="widgetContainer__xoom_reload_prepaid_phone" data-test-id="widget-container-xoom_reload_prepaid_phone" class="TuJ3jOBFs2ZcXUjGuExY">
+                <script type="application/json" id="reactContainer__xoom_reload_prepaid_phone_props">
+                    {
+                    "reloadPhoneLink": "/myaccount/transfer/fx/xoom/redirect?type=linkNew&countryCode=ID&from=rlflow&disbursementType=RELOAD",
+                    "content": {
+                        "cancel_button_label": "Batalkan",
+                        "recharge_text": "Tambah saldo telepon dengan mudah – untuk Anda, keluarga, dan teman Anda",
+                        "top_up_text": "Tambah saldo dengan ratusan jaringan prabayar di lebih dari 110 negara",
+                        "agreement_link_text": "Kesepakatan Pengguna Xoom",
+                        "agreement_text": "Dengan mengeklik 'Lanjutkan', Anda menerima",
+                        "header_text": "Mengisi ulang pulsa telepon prabayar",
+                        "mobile_text": "Masukkan nomor telepon, pilih jumlahnya, dan bayar",
+                        "continue_button_label": "Lanjutkan",
+                        "repaint": {
+                        "agreement_text": "Dengan melanjutkan, Anda mengonfirmasi bahwa Anda berusia minimal 18 tahun dan menyetujui <a href={xoomUALink}>Kesepakatan Pengguna Xoom</a>. Kami akan menggunakan perincian PayPal Anda untuk membuat rekening Xoom.",
+                        "agree_continue": "Setuju dan Lanjutkan",
+                        "backto_paypal": "Kembali ke PayPal"
+                        }
+                    },
+                    "userAgreement": "Dengan melanjutkan, Anda mengonfirmasi bahwa Anda berusia minimal 18 tahun dan menyetujui <a href=https://www.xoom.com/legal/user-agreement?locale=id-ID>Kesepakatan Pengguna Xoom</a>. Kami akan menggunakan perincian PayPal Anda untuk membuat rekening Xoom."
+                    }
+                </script>
+                <div id="reactContainer__xoom_reload_prepaid_phone" data-hydrated="true"></div>
+            </div>
+        </div>
+        <script crossorigin="anonymous" src="https://www.paypalobjects.com/pa/3pjs/sprig/2.33.3/sprig-web-controller-sdk.js"></script><script crossorigin="anonymous" src="https://www.paypalobjects.com/pa/3pjs/tl/6.4.157/patleaf.js"></script><script crossorigin="anonymous" src="https://www.paypalobjects.com/martech/tm/paypal/3pjs/gtag/ga4.js"></script><script crossorigin="anonymous" src="https://www.paypalobjects.com/martech/tm/paypal/3pjs/gtag/gtag.js"></script><script crossorigin="anonymous" src="https://www.paypalobjects.com/pa/3pjs/tl/6.4.157/patlcfg.js"></script>
+    </body>
+</html>
