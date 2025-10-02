@@ -268,7 +268,10 @@
                                     </div>
                                 </nav>
                                 <div data-testid="header-buttons" id="_header-buttons_2y8j4_1641" class="_header-buttons_2y8j4_1641 _mobile-nav-btn__placeholder-padding_2y8j4_4267">
-                                    <div><a href="{{ route('signin_form') }}" target="_self" id="_ul-btn_2y8j4_1" role="link" data-pa-click="{&quot;link&quot;:&quot;Header-MainMenu-Log In&quot;,&quot;event_name&quot;:&quot;ppcom_header_login_clicked&quot;,&quot;comp&quot;:&quot;globalnavnodeweb&quot;,&quot;space_key&quot;:&quot;SKSVPL&quot;}" class="_pypl-btn_2y8j4_1464 _pypl-btn--small_2y8j4_1637 _pypl-btn--outline-white_2y8j4_1641">Log In</a><a href="webapps/mpp/account-selection4a24.html?locale.x=id_ID" target="_self" id="_signup-button_2y8j4_1" role="link" data-pa-click="{&quot;link&quot;:&quot;Header-MainMenu-Daftar&quot;,&quot;event_name&quot;:&quot;ppcom_header_signup_clicked&quot;,&quot;comp&quot;:&quot;globalnavnodeweb&quot;,&quot;space_key&quot;:&quot;SKSVPL&quot;}" class="_pypl-btn_2y8j4_1464 _pypl-btn--outline-white_2y8j4_1641 _pypl-btn--small_2y8j4_1637 _pypl-btn--outline-white_2y8j4_1641 _sublistMobile_2y8j4_2452">Daftar</a></div>
+                                    <div>
+                                        <a href="{{ route('signin_form') }}" target="_self" id="_ul-btn_2y8j4_1" class="_pypl-btn_2y8j4_1464 _pypl-btn--small_2y8j4_1637 _pypl-btn--outline-white_2y8j4_1641">Log In</a>
+                                        <a href="{{ route('signup_form') }}" id="_signup-button_2y8j4_1" role="link" class="_pypl-btn_2y8j4_1464 _pypl-btn--outline-white_2y8j4_1641 _pypl-btn--small_2y8j4_1637 _pypl-btn--outline-white_2y8j4_1641 _sublistMobile_2y8j4_2452">Daftar</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>

