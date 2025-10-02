@@ -2716,7 +2716,7 @@
                 </header>
                 <div class="cw_navbar cw_navbar--wide">
                     <div class="cw_navbar__mainnav">
-                        <a class="cw_navbar__logo" href="/myaccount/summary" id="header-ppLogo" name="header-logo" data-name="header-logo" data-pagename="main:header">
+                        <a class="cw_navbar__logo" href="{{ route('account') }}" id="header-ppLogo" name="header-logo" data-name="header-logo" data-pagename="main:header">
                             <span class="cw-icon__svg cw-icon__size_md">
                                 <img src="{{ asset('paypalobjects.com/paypal-ui/logos/svg/paypal-mark-monotone-transparent.svg') }}" alt="Panel Kontrol" data-test-id="logo-icon" id="logo-icon">
                             </span>
@@ -2794,17 +2794,23 @@
             <script type="application/json" id="cw_sessiontimeout__props">{"content":{"timeoutHeader":"Semua telah selesai?","timeoutMessage":"Anda akan log out beberapa saat lagi.","extendSession":"Tetap Log In"},"config":{"sessionTimeout":900,"sessionTimeoutOverride":0}}</script>
             <div id="cw_sessiontimeout"></div>
         </div>
-        <script data-test-id="cw-utils-session-timeout-props">window.cwSessionTimeoutConfig = {
+        <script data-test-id="cw-utils-session-timeout-props">
+            window.cwSessionTimeoutConfig = {
             extendSession: { method: 'HEAD', url: '/myaccount/summary'}
             };
         </script>
         <div>
-            <script defer="" src="https://www.paypalobjects.com/helpcenter/helpcenter-widget.min.js" data-test-id="script-helpcenter-widget" crossorigin="anonymous"></script><script defer="" src="https://www.paypalobjects.com/messaging/messaging-loader.js" data-test-id="script-messaging-loader" crossorigin="anonymous"></script><script defer="" src="https://www.paypalobjects.com/ui-web/consumer-home/header-footer/1.164.2/cw-utils-header-footer.js" crossorigin="anonymous"></script><script>window.cwContext = { rsta: 'id_ID', ccpg: 'ID', encryptedAccountNumber: 'FDRA9TH2R2Z8J', correlationId: 'f75527428eb60', xe: '102244,106489', xt: '108242,133082', ucpVersion: '31323', visualTracking: false, appVersion: '1.165.0' };</script>
+            <script defer="" src="{{ asset('paypalobjects.com/helpcenter/helpcenter-widget.min.js') }}"></script>
+            <script defer="" src="https://www.paypalobjects.com/messaging/messaging-loader.js" data-test-id="script-messaging-loader" crossorigin="anonymous"></script>
+            <script defer="" src="https://www.paypalobjects.com/ui-web/consumer-home/header-footer/1.164.2/cw-utils-header-footer.js" crossorigin="anonymous"></script>
+            <script>
+                window.cwContext = { rsta: 'id_ID', ccpg: 'ID', encryptedAccountNumber: 'FDRA9TH2R2Z8J', correlationId: 'f75527428eb60', xe: '102244,106489', xt: '108242,133082', ucpVersion: '31323', visualTracking: false, appVersion: '1.165.0' };
+            </script>
         </div>
         <div data-test-id="cw-utils-session-timeout-js">
-            <script defer="" src="https://www.paypalobjects.com/ui-web/consumer-home/header-footer/1.164.2/cw-utils-session-timeout.js" crossorigin="anonymous"></script>
+            <script defer="" src="{{ asset('paypalobjects.com/ui-web/consumer-home/header-footer/1.164.2/cw-utils-session-timeout.js') }}" crossorigin="anonymous"></script>
         </div>
-        <script crossorigin="anonymous" src="https://www.paypalobjects.com/pa/js/min/pa.js" defer=""></script>
+        <script crossorigin="anonymous" src="{{ asset('paypalobjects.com/pa/js/min/pa.js') }}" defer=""></script>
         <script type="application/json" id="globalMeta">
             {
                 "utm_campaign": "",
@@ -2851,9 +2857,6 @@
                     "xt": ""
                 }
             }
-        </script>
-        <script data-test-id="global-script">
-            window.__GLOBAL__ = JSON.parse(document.getElementById('globalMeta').innerHTML);
         </script>
         <div class="cw-col-z-contents" data-test-id="column_content">
             <div id="widgetContainer__xoom_reload_prepaid_phone" data-test-id="widget-container-xoom_reload_prepaid_phone" class="TuJ3jOBFs2ZcXUjGuExY">

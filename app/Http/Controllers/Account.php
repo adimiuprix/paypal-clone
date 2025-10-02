@@ -15,4 +15,8 @@ class Account extends Controller
             'balance' => $balance
         ]);
     }
+
+    public function money(){
+        return view('account.money');
+    }
 }

@@ -14,3 +14,4 @@ Route::get('/signout', [AuthController::class, 'logout'])->name('signout');
 
 Route::get('/myaccount', [Account::class, 'index'])->name('account');
 Route::get('/myaccount/summary', [Account::class, 'index'])->name('account');
+Route::get('/myaccount/money', [Account::class, 'money'])->name('money');
